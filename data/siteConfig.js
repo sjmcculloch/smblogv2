@@ -14,7 +14,7 @@ module.exports = {
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
   siteCover: 'cover-dk.jpg', // file in content/images
-  googleAnalyticsId: 'UA-67868977-1',
+  googleAnalyticsId: 'UA-102295230-1',
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'standalone',
@@ -60,40 +60,6 @@ module.exports = {
           url: 'https://twitter.com/sjmcculloch',
         },
       ],
-    },
-  ],
-  redirects: [
-    {
-      oldUrl: '/code/gamification-concepts-in-software-design',
-      newUrl: '/gamification-concepts-in-software-design',
-    },
-    {
-      oldUrl: '/code/netlify-contentful-jamstack',
-      newUrl: '/netlify-contentful-jamstack',
-    },
-    {
-      oldUrl: '/music/what-happened-to-kellyclarksonlive',
-      newUrl: '/what-happened-to-kellyclarksonlive',
-    },
-    {
-      oldUrl: '/sport/hard-knocks-season-13-australia',
-      newUrl: '/hard-knocks-season-13-australia',
-    },
-    {
-      oldUrl: '/code/logging-to-the-dnn-event-log',
-      newUrl: '/logging-to-the-dnn-event-log',
-    },
-    {
-      oldUrl: '/code/ventrian-modules-now-on-github',
-      newUrl: '/ventrian-modules-now-on-github',
-    },
-    {
-      oldUrl: '/music/my-december-10-year-anniversary',
-      newUrl: '/my-december-10-year-anniversary',
-    },
-    {
-      oldUrl: '/gaming/tips-to-prepare-for-madden-18',
-      newUrl: '/tips-to-prepare-for-madden-18',
     },
   ],
 }
