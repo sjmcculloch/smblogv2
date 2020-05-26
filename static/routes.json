@@ -1,43 +1,73 @@
 {
   "routes": [
     {
-      "route": "/code/gamification-concepts-in-software-design",
+      "route": "/code/gamification-concepts-in-software-design.html",
       "serve": "/gamification-concepts-in-software-design",
       "statusCode": 301
     },
     {
-      "route": "/code/netlify-contentful-jamstack",
+      "route": "/code/netlify-contentful-jamstack.html",
       "serve": "/netlify-contentful-jamstack",
       "statusCode": 301
     },
     {
-      "route": "/music/what-happened-to-kellyclarksonlive",
+      "route": "/music/what-happened-to-kellyclarksonlive.html",
       "serve": "/what-happened-to-kellyclarksonlive",
       "statusCode": 301
     },
     {
-      "route": "/sport/hard-knocks-season-13-australia",
+      "route": "/sport/hard-knocks-season-13-australia.html",
       "serve": "/hard-knocks-season-13-australia",
       "statusCode": 301
     },
     {
-      "route": "/code/logging-to-the-dnn-event-log",
+      "route": "/code/logging-to-the-dnn-event-log.html",
       "serve": "/logging-to-the-dnn-event-log",
       "statusCode": 301
     },
     {
-      "route": "/code/ventrian-modules-now-on-github",
+      "route": "/code/ventrian-modules-now-on-github.html",
       "serve": "/ventrian-modules-now-on-github",
       "statusCode": 301
     },
     {
-      "route": "/music/my-december-10-year-anniversary",
+      "route": "/music/my-december-10-year-anniversary.html",
       "serve": "/my-december-10-year-anniversary",
       "statusCode": 301
     },
     {
-      "route": "/gaming/tips-to-prepare-for-madden-18",
+      "route": "/gaming/tips-to-prepare-for-madden-18.html",
       "serve": "/tips-to-prepare-for-madden-18",
+      "statusCode": 301
+    },
+    {
+      "route": "/resume/",
+      "serve": "/about",
+      "statusCode": 301
+    },
+    {
+      "route": "/categories/",
+      "serve": "/",
+      "statusCode": 301
+    },
+    {
+      "route": "/categories/code/",
+      "serve": "/tags/code",
+      "statusCode": 301
+    },
+    {
+      "route": "/categories/music/",
+      "serve": "/tags/music",
+      "statusCode": 301
+    },
+    {
+      "route": "/categories/sport/",
+      "serve": "/tags/sport",
+      "statusCode": 301
+    },
+    {
+      "route": "/categories/gaming/",
+      "serve": "/tags/sport",
       "statusCode": 301
     }
   ],
