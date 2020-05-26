@@ -2,7 +2,7 @@
 title: 'What happened to kellyclarksonlive.com?'
 slug: what-happened-to-kellyclarksonlive
 cover: ./kelly-clarkson-live.jpg
-generate-card: false
+generate-card: true
 date: 2017-08-10
 language: en
 tags:

@@ -2,7 +2,7 @@
 title: 'Tips to prepare for Madden NFL 18'
 slug: tips-to-prepare-for-madden-18
 cover: ./cover.jpg
-generate-card: false
+generate-card: true
 date: 2017-06-10
 language: en
 tags:

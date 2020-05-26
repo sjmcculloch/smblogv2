@@ -2,7 +2,7 @@
 title: 'Kelly Clarksons My December 10 year review'
 slug: my-december-10-year-anniversary
 cover: ./cover.jpg
-generate-card: false
+generate-card: true
 date: 2017-06-10
 language: en
 tags:

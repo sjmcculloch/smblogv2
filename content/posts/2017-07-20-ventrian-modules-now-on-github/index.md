@@ -2,7 +2,7 @@
 title: 'Ventrian modules now free on GitHub'
 slug: ventrian-modules-now-on-github
 cover: ./cover.jpg
-generate-card: false
+generate-card: true
 date: 2017-07-20
 language: en
 tags:

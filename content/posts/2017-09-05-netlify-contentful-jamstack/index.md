@@ -2,7 +2,7 @@
 title: 'Netlify & Contentful - JAMstack Compadres'
 slug: netlify-contentful-jamstack
 cover: ./jamstack.png
-generate-card: false
+generate-card: true
 date: 2017-09-05
 language: en
 tags:

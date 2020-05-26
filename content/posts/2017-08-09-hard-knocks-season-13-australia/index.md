@@ -2,7 +2,7 @@
 title: 'How to watch NFL Hard Knocks in Australia 2017'
 slug: hard-knocks-season-13-australia
 cover: ./hard-knocks-tampa-bay-buccaneers.jpg
-generate-card: false
+generate-card: true
 date: 2017-08-09
 language: en
 tags:
