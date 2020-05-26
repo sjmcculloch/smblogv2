@@ -1,11 +1,13 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
+import Cover from '../components/Cover'
 import Layout from '../components/layout'
 import Content from '../components/Content'
 import Wrapper from '../components/Wrapper'
-import Hero from '../components/Hero'
+import ContentWrapper from '../components/ContentWrapper'
 import SEO from '../components/SEO'
+import PageTitle from '../components/PageTitle'
 import Disqus from '../components/Disqus'
 
 export default props => {
@@ -20,15 +22,15 @@ export default props => {
         cover={page.frontmatter.cover && page.frontmatter.cover.publicURL}
       />
 
-      <Hero
-        heroImg={page.frontmatter.cover && page.frontmatter.cover.publicURL}
-        title={page.frontmatter.title}
-      />
-
       <Wrapper>
-        <article>
+        <Cover
+          heroImg={page.frontmatter.cover && page.frontmatter.cover.publicURL}
+          title={page.frontmatter.title}
+        />
+        <ContentWrapper>
+          <PageTitle>{page.frontmatter.title}</PageTitle>
           <Content content={page.body} date={page.frontmatter.date} />
-        </article>
+        </ContentWrapper>
       </Wrapper>
 
       {page.frontmatter.disqus && (

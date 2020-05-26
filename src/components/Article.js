@@ -1,14 +1,15 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import styled from 'styled-components'
 import Bio from './Bio'
 import Content from './Content'
+import ContentWrapper from './ContentWrapper'
+import useSiteMetadata from '../hooks/use-site-config'
+import useSiteImages from '../hooks/use-site-images'
 
-const ArticleWrapper = styled.article`
-  padding: 0 30px 30px;
-
-  @media only screen and (max-width: 500px) {
-    padding: 0;
-  }
+const ArticleTitle = styled.h1`
+  line-height: 1.5;
+  font-size: 2rem;
+  padding: 20px 0 5px 0;
 `
 
 const ArticleFooter = styled.footer`
@@ -18,12 +19,25 @@ const ArticleFooter = styled.footer`
   border-top: 1px solid #ececec;
 `
 
-class Article extends React.Component {
-  render() {
-    const { post } = this.props
+const ArticleCover = styled.div`
+  width: auto;
+  height: 200px;
+  background: #c5d2d9 no-repeat 50%;
+  background-size: cover;
+  border-radius: 5px 5px 0 0;
+`
 
-    return (
-      <ArticleWrapper>
+const Article = ({ post }) => {
+  const { siteCover } = useSiteMetadata()
+  const { fluid } = useSiteImages(siteCover)
+  const heroImg =
+    (post.frontmatter.cover && post.frontmatter.cover.publicURL) || fluid.src
+
+  return (
+    <Fragment>
+      <ArticleCover style={{ backgroundImage: `url("${heroImg}")` }} />
+      <ContentWrapper>
+        <ArticleTitle>{post.frontmatter.title}</ArticleTitle>
         <Content
           content={post.body}
           date={post.frontmatter.date}
@@ -33,9 +47,9 @@ class Article extends React.Component {
         <ArticleFooter>
           <Bio />
         </ArticleFooter>
-      </ArticleWrapper>
-    )
-  }
+      </ContentWrapper>
+    </Fragment>
+  )
 }
 
 export default Article

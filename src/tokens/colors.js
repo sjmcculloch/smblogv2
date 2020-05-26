@@ -15,6 +15,7 @@ const colors = {
   yellow: '#ffdc4e',
   lightYellow: '#f9e892',
   lightBlue: '#697980',
+  black: '#3E4047',
 }
 
 export default {

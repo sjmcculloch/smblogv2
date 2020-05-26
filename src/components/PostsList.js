@@ -1,6 +1,6 @@
-import React, { Fragment } from 'react'
+import React, { Fragment } from "react"
 
-import PostsListItem from './PostsListItem'
+import PostsListItem from "./PostsListItem"
 
 class PostsList extends React.Component {
   render() {
@@ -14,7 +14,7 @@ class PostsList extends React.Component {
             excerpt: post.node.excerpt,
             slug: post.node.frontmatter.slug,
             timeToRead: post.node.timeToRead,
-            language: post.node.frontmatter.language || 'fr',
+            language: post.node.frontmatter.language || "fr",
             tags: post.node.frontmatter.tags || [],
           }
           return <PostsListItem key={props.slug} {...props} />

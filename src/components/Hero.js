@@ -11,27 +11,33 @@ const HeroContainer = styled.div`
   height: 400px;
   overflow: hidden;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: top;
   background-size: cover;
 `
 
 const TitleContainer = styled.div`
   display: table-cell;
-  vertical-align: middle;
-  text-align: center;
+  vertical-align: bottom;
+  text-align: left;
   width: 100%;
+  padding: 30px;
 `
 
 const HeroTitle = styled.h1`
   font-weight: 700;
-  font-size: 3rem;
-  margin: 10px 50px;
-  color: ${colors.white};
-  text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.85);
+  font-size: 1.5rem;
+  color: ${colors.black};
+  display: inline;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 10px;
+
+  @media only screen and (min-width: 768px) {
+    font-size: 2.5rem;
+  }
 `
 
 const HeroSubTitle = styled.h2`
-  margin: 10px 50px;
+  margin-top: 20px;
   color: ${colors.white};
   text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.85);
 `

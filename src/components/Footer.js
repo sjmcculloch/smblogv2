@@ -7,7 +7,7 @@ import { colors } from '../tokens'
 const FooterWrapper = styled.footer`
   text-align: left;
   padding-top: 30px;
-  padding-bottom: 50px;
+  padding-bottom: 30px;
   background-color: ${colors.primary};
   color: ${colors.textLightest};
   padding-left: 20px;
