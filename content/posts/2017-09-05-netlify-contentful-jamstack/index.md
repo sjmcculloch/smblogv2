@@ -7,6 +7,7 @@ date: 2017-09-05
 language: en
 tags:
   - code
+imageShare: ./netlify-contentful-jamstack-share.png
 ---
 
 In all of [my years as a software developer](/resume) it's primarily been about what stack do you develop on? What operating system, web servers, languages and databases?

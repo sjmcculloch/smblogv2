@@ -7,6 +7,7 @@ date: 2017-07-20
 language: en
 tags:
   - code
+imageShare: ./ventrian-modules-now-on-github-share.png
 ---
 
 It's been a great honour to participate in the DNN community. What started out as a simple coding hobby allowed me to reach a [global community of developers](http://www.dnnsoftware.com/community) and [build lasting friendships](http://dnn-connect.org/).

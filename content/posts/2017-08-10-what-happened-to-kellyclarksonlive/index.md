@@ -3,11 +3,11 @@ title: 'What happened to kellyclarksonlive.com?'
 slug: what-happened-to-kellyclarksonlive
 cover: ./kelly-clarkson-live.jpg
 generate-card: true
-imageShare: ./what-happened-to-kellyclarksonlive-share.png
 date: 2017-08-10
 language: en
 tags:
   - music
+imageShare: ./what-happened-to-kellyclarksonlive-share.png
 ---
 
 In June 2016, Kelly Clarkson began posting recordings of her live performances on [www.kellyclarksonlive.com](http://www.kellyclarksonlive.com). Each month would feature a new song until early 2017 when new songs stopped appearing (in anticipation of her new album?).

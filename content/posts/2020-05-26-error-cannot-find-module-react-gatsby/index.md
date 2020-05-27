@@ -7,6 +7,7 @@ date: 2020-05-27
 language: en
 tags:
   - code
+imageShare: ./error-cannot-find-module-react-gatsby-share.png
 ---
 
 During the migration of [this site](https://www.smcculloch.com) from [Jekyll](https://jekyllrb.com/) to [Gatsby](https://www.gatsbyjs.org/) and switching hosting to [Azure Static Web Apps](https://azure.microsoft.com/en-au/services/app-service/static/), the only Gatsby related issue I experienced was:

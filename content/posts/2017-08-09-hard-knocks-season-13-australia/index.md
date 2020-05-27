@@ -7,6 +7,7 @@ date: 2017-08-09
 language: en
 tags:
   - sport
+imageShare: ./hard-knocks-season-13-australia-share.png
 ---
 
 [Hard Knocks](http://www.hbo.com/hard-knocks) is a reality sports documentary television series produced by NFL Films and HBO. It's thirteenth season features the [Tampa Bay Buccaneers](http://www.buccaneers.com/).

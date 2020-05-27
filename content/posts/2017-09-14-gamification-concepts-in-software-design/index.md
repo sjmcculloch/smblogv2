@@ -8,6 +8,7 @@ language: en
 tags:
   - code
   - play
+imageShare: ./gamification-concepts-in-software-design-share.png
 ---
 
 In late 2012 I embarked on a project to implement Gamification for a technical community ([devcentral.f5.com](https://devcentral.f5.com)). The intent was to introduce the elements of game playing (point scoring, competition with others, rules of play) to encourage a deeper engagement.

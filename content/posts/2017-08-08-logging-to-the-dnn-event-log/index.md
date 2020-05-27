@@ -7,6 +7,7 @@ date: 2017-08-08
 language: en
 tags:
   - code
+imageShare: ./logging-to-the-dnn-event-log-share.png
 ---
 
 Event logs are great tools for Developers and Administrators alike. They provide an insight into the running state and history of an application.

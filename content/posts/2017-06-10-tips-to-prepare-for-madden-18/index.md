@@ -7,6 +7,7 @@ date: 2017-06-10
 language: en
 tags:
   - gaming
+imageShare: ./tips-to-prepare-for-madden-18-share.png
 ---
 
 As the Madden 17 season winds down, defensive and offensive schemes have been well established. A series of unrealistic blitzes are well known (via our friends at YouTube) and even worse, offensive glitches like 'swerving' have been thoroughly abused.

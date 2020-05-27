@@ -7,6 +7,7 @@ date: 2017-06-10
 language: en
 tags:
   - music
+imageShare: ./my-december-10-year-anniversary-share.png
 ---
 
 It's been 10 years since the release of Kelly Clarkson's _My December_, a personal favourite of mine and many other fans of her work. It followed the massive commercial success of her previous albums (_Thankful_ and _Breakaway_) and represented a shift from **pop rock** to **alternative rock**.
