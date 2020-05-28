@@ -7,6 +7,7 @@ date: 2020-05-27
 language: en
 tags:
   - code
+  - gatsby
 imageShare: ./error-cannot-find-module-react-gatsby-share.png
 ---
 
