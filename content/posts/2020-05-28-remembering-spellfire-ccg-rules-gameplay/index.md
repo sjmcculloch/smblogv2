@@ -5,7 +5,7 @@ date: 2020-05-28
 
 # optional fields
 published: true
-generate-card: false
+generate-card: true
 language: en
 cover: ./cover.jpg
 imageShare: ./cover.jpg
@@ -15,7 +15,7 @@ tags:
   - 90s
 ---
 
-The year was 1994, the first **Collectible Card Game (CCG)** I ever discovered was **Spellfire**, a game based on the popular **Dungeons & Dragons** role playing game. As an avid reader of fantasy books and computer games based on the realms of **Dragonlance**, **Forgotten Realms**, **Dark Sun** and **Ravenloft**, Spellfire was the gateway into the CCG genre that continues today.
+The year was 1994, the first **Collectible Card Game (CCG)** I ever encountered was **Spellfire**, a game based on the popular **Dungeons & Dragons** role playing game. As an avid reader of fantasy books and computer games based on the realms of **Dragonlance**, **Forgotten Realms**, **Dark Sun** and **Ravenloft**, Spellfire was the gateway drug into the CCG genre that continues today.
 
 ![TSR Spellfire Cardback](./spellfire-cardback.jpg)
 
@@ -40,7 +40,7 @@ Each player starts with a customised deck of **55 cards** consisting of the foll
 - **Abilities**: any number
 - **Spells**: any number
 
-> \* The total number of **champion levels may not exceed 90**. e.g. Tanis is a level 6 champion.
+> **Note**: total number of **champion levels may not exceed 90**. e.g. Tanis is a level 6 champion.
 
 ![Spellfire: Tanis Half-Elven](./tanis-half-elven.jpg)
 
@@ -48,11 +48,11 @@ You can tell the card types due to their orientation (horizontal = realms, verti
 
 ![Spellfire: Waterdeep](./waterdeep.jpg)
 
-The icon indicates the class (wizard, warrior, psionic, etc). Spells, allies and abilities have a number modifier (**+** or **-**).
+The icon indicates the class (wizard, warrior, psionic, etc). Spells, allies and abilities will have a number modifier (**+** or **-**).
 
 ![Spellfire: Energy Containment](./energy-containment.jpg)
 
-The **world a card belongs to** is important and form part of your deck synergy. At the bottom of each card are logos from their respective worlds (e.g. Dragonlance, Forgotten Realms, Greyhawk, etc.). **Only cards of each world can be played together**.
+The **world a card belongs to** is important. At the bottom of each card are logos from their respective worlds (e.g. Dragonlance, Forgotten Realms, Greyhawk, etc.). Cards will receive bonuses when played from the same world and some may only be played together.
 
 > For example, a **Dragonlance champion can only use Dragonlance artifacts**. Dragonlance realms can only have Dragonlance holdings.
 
@@ -66,13 +66,13 @@ Realms must be played in a triangle fashion. The first realm played is the top p
 
 ### Starting the Game
 
-To determine who goes first, each player randomly draws one card from their deck and reveals the last digit of the card number. The player with the highest, goes first. If it's a draw, repeat until someone wins.
+To determine who goes first, each player randomly draws one card from their deck and reveals the last digit of the card number. The player with the highest number goes first. If it's a draw, repeat until someone wins.
 
 Your starting hand consists of **five cards**. The maximum number of cards in your hand is 8.
 
 ### Gameplay
 
-Every layer follows the following turn sequence.
+Every player follows the following turn sequence.
 
 **_[Optional]_ Phase 0: Play a rule card **
 
@@ -80,7 +80,7 @@ A player may choose to play a rule card from hand.
 
 > For example, Marco Volo allows you to look at the top of an opponent's deck and optionally discard. This would eventually be known as **scrying** in other card games!
 
-![Spellfire: Marco Volo](./marco-volo.jpg)
+![Spellfire: Marco Volo](./marco-volo-1.jpg)
 
 **Phase 1: Draw 3 cards from the draw pile**
 
@@ -88,7 +88,7 @@ Some cards will allow you to draw extra but the default is 3. Remember, your max
 
 **_[Optional]_ Phase 2: Play a realm and/or holding**
 
-Only one of each can be played per turn.
+Only one realm and holding can be played per turn.
 
 To play a realm, you may:
 
@@ -106,11 +106,11 @@ To play a holding, you may only attach to realms of the matching type.
 
 You may:
 
-- Place any number of champions, artifacts and magical items into the pool. The pool exists to right of your triangle realm formation.
+- Place any number of **champions, artifacts and magical items** into the pool. The pool exists to right of your triangle realm formation.
 
 > The pool is the holding area for your cards that are ready to defend or attack other realms. By playing cards into the pool you reduce your handsize and avoid discard in phase 5.
 
-- Use any phase 3 spell, psionic power, blood ability or thief skill (there must be a champion in the pool able to use the spell, power or ability)
+- Use any phase 3 spell, psionic power, blood ability or thief skill (there must be a champion of that class in the pool to use the spell, power or ability)
 
 ![Spellfire: Staff of Magius](./staff-of-magius.jpg)
 
@@ -124,25 +124,37 @@ The steps for combat are as follows:
 
 - Select a champion from your hand or pool to initiate the attack.
 
-> You may not play any additional artifacts and magical items on your champion at this time. These should have been equipped in phase 3.
+> If the **attacker** is from the same world as the attacked realm, he adds 3 to his adjusted level!
 
 - The defender selects a champion from hand or pool to defend the realm
 
-> If the defender is from the same world as the attacked realm, he adds 3 to his adjusted level!
+> If the **defender** is from the same world as the attacked realm, he adds 3 to his adjusted level!
+
+![Spellfire: Tika Waylan Majere](./tika-waylan-majere.jpg)
+
+> Tika gains 3 levels defending any realm with the **Inn of the Last Home** attached.
 
 - The atacker's special power and attached cards activate first, followed by the defender's special power and attached cards.
 
+![Spellfire: Mika the Wolf-Nomad](./mika-the-wolf-nomad.jpg)
+
+> Mika adds levels anytime an opponent uses allies against him.
+
 - Compare the total levels of each side
 
-- The player that is losing can play a card until they are winning. This goes back and forth until a winner is determined.
+- The player that is losing **can play a card** until they are winning. This goes back and forth until a winner is determined.
+
+![Spellfire: Thri-Kreen](./thri-kreen.jpg)
+
+> Playing Thri-kreen adds +3 to that champion's level.
 
 - The player with the highest adjusted level wins that round
 
 > The defender always wins ties.
 
-- The winner places his champion with all attached cards into his pool. Allies, spells and other non-permanent cards are discarded.
+- The **winner** places his champion with all attached cards back into his pool. Allies, spells and other non-permanent cards are discarded.
 
-- The loser discards all the cards used in combat (including his champion)
+- The **loser** discards all the cards used in combat (including his champion)
 
 > If the loser is the defender, their realm is razed (flipped over).
 
@@ -169,6 +181,12 @@ Only one of each champion, artifact, realm, and holding card can be in play at o
 ➕ **World Bonuses**
 
 When a champion attacks or defends a realm from the same world, that champion’s adjusted level is increased by 3.
+
+✈️ **Flyers, swimmgers AND earthwalkers**
+
+- Flyers may attack any realm regardless of position.
+- Swimmers may attack any realm showing a coastline.
+- Earthwalkers can move underground to attack any realm that doesn't have special movement requirements (e.g. only clerics can attack).
 
 ### Thoughts & Observations
 
@@ -228,4 +246,4 @@ In 1997 it was cancelled by Wizards of the Coast (who had bought out TSR).
 
 Remembering Spellfire was thinking about a wonderful time in my life. I was 16 years old experiencing my first CCG. It was a blend of rich lore from the D&D universe and a competitive card game where you could play your favourite characters, items and locations.
 
-Yes, the gameplay was a little clunky but it was an ambitious response to the behemoth that Magic was becoming. It's design mechanics are echoed in modern card games today, a nice achievement for a game designed a few decades ago.
+Yes, the gameplay was a little clunky but it was an ambitious response to the behemoth that Magic the Gathering would eventually become. It's design mechanics are echoed in modern card games today, a nice achievement for a game designed a few decades ago and deserving of a spot in CCG history.
