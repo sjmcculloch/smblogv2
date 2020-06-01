@@ -27,7 +27,7 @@ My current focus is:
 - 📘 **Lifelong learner**. Part-time western history buff.
 - 👨🏼‍💻 **Play with code**. Sometimes, it ends up in an open source contribution or a blog post!
 - 🎲 **Gamer**. Card Games. Realtime Strategy.
-- 🐶 **Dog Owner**. Spent time outdoors with my 2 dogs.
+- 🐶 **Dog Owner**. Spend time outdoors with my 2 dogs.
 
 ## Contact
 
