@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Scott McCulloch',
   siteDescription: 'Software Engineer • Cloud Technologist',
   authorName: 'Scott McCulloch',
-  twitterUsername: '_maxpou',
+  twitterUsername: 'sj_mcculloch',
   authorAvatar: 'avatar.jpg', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `
