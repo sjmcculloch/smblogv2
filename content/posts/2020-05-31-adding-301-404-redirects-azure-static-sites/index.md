@@ -30,11 +30,11 @@ and became:
 /gamification-concepts-in-software-design
 ```
 
-The preferred redirect for a site migration is **301** which is **Moved Permanently**. This must be initiated from the server which rules out any clientside manipulation that I could have done with Gatsby.
+The **preferred redirect** for a site migration is **301** which is **Moved Permanently**. This must be initiated from the server which rules out any clientside manipulation that could be done with Gatsby.
 
 Fortunately, Azure Static Sites allows 301 redirects to be specified in a special **routes.json** file that exists in the root of your **deployed site**.
 
-> For Gatsby, this meant I placed the file in the /static folder so that it is copied at build time to the root of our site.
+> For Gatsby, this meant I placed the file in the **/static folder** so that it is copied during build time to the root of the site.
 
 The format of a redirect is as follows:
 
