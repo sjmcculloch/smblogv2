@@ -1,6 +1,6 @@
 ---
 title: Remembering Spellfire CCG, Rules & Gameplay
-slug: 2020-05-28-remembering-spellfire-ccg-rules-gameplay
+slug: remembering-spellfire-ccg-rules-gameplay
 date: 2020-05-28
 
 # optional fields

@@ -46,6 +46,11 @@
       "statusCode": 301
     },
     {
+      "route": "/2020-05-28-remembering-spellfire-ccg-rules-gameplay",
+      "serve": "/remembering-spellfire-ccg-rules-gameplay",
+      "statusCode": 301
+    },
+    {
       "route": "/resume/",
       "serve": "/about",
       "statusCode": 301
