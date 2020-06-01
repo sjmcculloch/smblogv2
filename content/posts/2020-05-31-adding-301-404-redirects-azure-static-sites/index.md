@@ -8,7 +8,7 @@ published: true
 generate-card: true
 language: en
 cover: ./cover.png
-imageShare: ./cover.jpg
+imageShare: ./adding-301-404-redirects-azure-static-sites-share.png
 tags:
   - azure
   - code

@@ -8,7 +8,7 @@ published: true
 generate-card: true
 language: en
 cover: ./cover.jpg
-imageShare: ./cover.jpg
+imageShare: ./2020-05-28-remembering-spellfire-ccg-rules-gameplay-share.png
 tags:
   - ccg
   - dnd
