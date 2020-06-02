@@ -14,11 +14,9 @@ tags:
   - dnd
 ---
 
-There are over 160 novels based on the Dragonlance world. I've collated various guides and made my own adjustments to present my own reading order.
+There are over 160 novels based on the Dragonlance world. I've collated various guides and made my own adjustments to present a recommended reading order. The focus is the **Heroes of the Lance** as they are the gateway into the world of Krynn.
 
 ## Start Here - War of the Lance
-
-The ideal place to start are the chronicles surrounding the **War of the Lance**. These tales set the context for the Dragonlance universe and contain the first introductions to characters.
 
 > I've included the **Lost Chronicles** which were written **much later** but fill in story gaps between the original novels.
 
@@ -132,7 +130,7 @@ Raistlin Majere, a Black Robe wizard, must battle his sister, Kitiara, and her t
 
 ## Legends
 
-Shortly after the War of the Lance, the Majere twins continue the story by travelling back to the past.
+> Shortly after the War of the Lance, this series continues the journey of Raistlin and Caramon.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -190,8 +188,6 @@ Caramon must travel back and forth in time in order to save the world from his t
 
 ## The Raistlin Chronicles
 
-The stories of Raistlin and Caramon Majere in their youth.
-
 > The original chronicles & legends series is primarily the story of Raistlin. I've included these prequels early for completeness.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
@@ -232,7 +228,7 @@ In the fiery siege of the city of Hope’s End the young mage Raistlin must leav
 
 ## Tales I
 
-Short stories surrounding the heroes of the lance and their children.
+> Short stories surrounding the heroes of the lance and their children.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -290,7 +286,7 @@ The legend of Raistlin's daughter! For the first time, Caramon, the surviving tw
 
 ## Tales II
 
-More short stories that delve into past events that impacted the world Krynn.
+> More short stories that delve into past events that impacted the world Krynn.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -348,7 +344,7 @@ The world of Krynn is caught in the grips of a terrible war between the minions 
 
 ## Preludes
 
-Stories about the companions set before the War of the Lance.
+> Stories about the companions set before the War of the Lance.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -460,7 +456,7 @@ First launched over a decade ago, the Preludes series has continued to prove pop
 
 ## Meetings Sextet
 
-Stories of how the heroes of the lance first meet.
+> Stories of how the heroes of the lance first meet.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -564,7 +560,7 @@ The tempestuous affair of Kitiara Uth Matar and Tanis Half-Elven begins with the
 
 ### The Companions
 
-aramon, Sturm, and Tasslehoff, on an innocent ship's errand, are blown thousands of miles off course by a magic windstorm and transported to the eastern Bloodsea. Caramon and Sturm are left for dead while Tasslehoff mysteriously turns against his friends... Back in Solace, Raistlin convinces Flint Fireforge and Tanis Half-Elven that they must make a perilous journey to Mithas, the kingdom of the minotaurs. Their task: not only to rescue their friends, but also to defeat the elusive Nightmaster.
+Caramon, Sturm, and Tasslehoff, on an innocent ship's errand, are blown thousands of miles off course by a magic windstorm and transported to the eastern Bloodsea. Caramon and Sturm are left for dead while Tasslehoff mysteriously turns against his friends... Back in Solace, Raistlin convinces Flint Fireforge and Tanis Half-Elven that they must make a perilous journey to Mithas, the kingdom of the minotaurs. Their task: not only to rescue their friends, but also to defeat the elusive Nightmaster.
 
 </div>
 
