@@ -26,6 +26,11 @@
       "statusCode": 301
     },
     {
+      "route": "/code/logging-to-the-dnn-event-log",
+      "serve": "/logging-to-the-dnn-event-log",
+      "statusCode": 301
+    },
+    {
       "route": "/code/ventrian-modules-now-on-github.html",
       "serve": "/ventrian-modules-now-on-github",
       "statusCode": 301
