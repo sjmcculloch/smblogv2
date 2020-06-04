@@ -8,7 +8,7 @@ published: true
 generate-card: true
 language: en
 cover: ./idiom-writing-is-on-the-wall.jpg
-imageShare: ./idiom-writing-is-on-the-wall.jpg
+imageShare: ./idioms-ancient-world-share.png
 tags:
   - history
 ---

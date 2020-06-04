@@ -8,7 +8,7 @@ published: true
 generate-card: true
 language: en
 cover: ./rome-walking-dead.jpg
-imageShare: ./rome-walking-dead.jpg
+imageShare: ./walking-dead-ancient-rome-share.png
 tags:
   - history
 ---

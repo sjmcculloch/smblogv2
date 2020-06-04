@@ -8,7 +8,7 @@ published: true
 generate-card: true
 language: en
 cover: ./s-lucretia1.jpg
-imageShare: ./s-lucretia1.jpg
+imageShare: ./famous-suicides-ancient-world-share.png
 tags:
   - history
 ---

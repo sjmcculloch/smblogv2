@@ -8,7 +8,7 @@ published: true
 generate-card: true
 language: en
 cover: ./300-old-men-of-warfare.jpg
-imageShare: ./300-old-men-of-warfare.jpg
+imageShare: ./old-men-ancient-warfare-share.png
 tags:
   - history
 ---

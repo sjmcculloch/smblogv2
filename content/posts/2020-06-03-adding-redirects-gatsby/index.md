@@ -8,7 +8,7 @@ published: true
 generate-card: true
 language: en
 cover: ./cover.jpg
-imageShare: ./cover.jpg
+imageShare: ./adding-redirects-gatsby-share.png
 tags:
   - code
   - gatsby

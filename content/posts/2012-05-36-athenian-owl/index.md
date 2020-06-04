@@ -8,7 +8,7 @@ published: true
 generate-card: true
 language: en
 cover: ./minerva-owl.jpg
-imageShare: ./minerva-owl.jpg
+imageShare: ./athenian-owl-share.png
 tags:
   - history
 ---
