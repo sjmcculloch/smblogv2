@@ -10,8 +10,7 @@ language: en
 cover: ./cover.jpg
 imageShare: ./beating-madden-21-zone-coverage-share.png
 tags:
-  - code
-  - gatsby
+  - gaming
 ---
 
 In preparation of the impending launch of Madden 21, this guide will provide a refresher on how **recognize** and **beat** various zone coverage schemes.
