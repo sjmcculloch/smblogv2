@@ -46,6 +46,16 @@ The format of a redirect is as follows:
   },
 ```
 
+Wildcards are also supported by using the \* character:
+
+```JSON
+  {
+    "route": "/code/gamification-concepts-in-software-design*",
+    "serve": "/gamification-concepts-in-software-design",
+    "statusCode": 301
+  },
+```
+
 You can also override default status codes provided in the platform (Azure Static Sites have an inbuilt 404 page and I wanted to redirect to my own custom one):
 
 ```JSON
@@ -64,32 +74,32 @@ A sample **routes.json** file may look like this:
 {
   "routes": [
     {
-      "route": "/code/gamification-concepts-in-software-design.html",
+      "route": "/code/gamification-concepts-in-software-design",
       "serve": "/gamification-concepts-in-software-design",
       "statusCode": 301
     },
     {
-      "route": "/code/netlify-contentful-jamstack.html",
+      "route": "/code/netlify-contentful-jamstack",
       "serve": "/netlify-contentful-jamstack",
       "statusCode": 301
     },
     {
-      "route": "/music/what-happened-to-kellyclarksonlive.html",
+      "route": "/music/what-happened-to-kellyclarksonlive",
       "serve": "/what-happened-to-kellyclarksonlive",
       "statusCode": 301
     },
     {
-      "route": "/sport/hard-knocks-season-13-australia.html",
+      "route": "/sport/hard-knocks-season-13-australia",
       "serve": "/hard-knocks-season-13-australia",
       "statusCode": 301
     },
     {
-      "route": "/code/logging-to-the-dnn-event-log.html",
+      "route": "/code/logging-to-the-dnn-event-log",
       "serve": "/logging-to-the-dnn-event-log",
       "statusCode": 301
     },
     {
-      "route": "/code/ventrian-modules-now-on-github.html",
+      "route": "/code/ventrian-modules-now-on-github",
       "serve": "/ventrian-modules-now-on-github",
       "statusCode": 301
     },
