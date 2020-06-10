@@ -202,7 +202,7 @@ Caramon must travel back and forth in time in order to save the world from his t
 
 ### Soulforge
 
-First launched over a decade ago, the Preludes series has continued to prove popular with Dragonlance fans. This digital release of Flint the King showcases a new look that is also reflected in the other recovers of this series. The title features cover art from lead Dragonlance saga artist Matt Stawicki.
+The story of Raistlin and Caramon's youth, of their mother and father and wayward half-sister Kitiara. Life-long friendships are forged in peacetime - Solace with the would-be knight Sturm, Flint Fireforge, half-elf Tanis, and kender Tasslehoff.
 
 </div>
 
