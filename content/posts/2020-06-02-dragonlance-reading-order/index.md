@@ -12,6 +12,7 @@ imageShare: ./dragonlance-reading-order-share.png
 tags:
   - books
   - dnd
+  - dragonlance
 ---
 
 There are over 160 novels based on the Dragonlance world. I've collated various guides and made my own adjustments to present a recommended reading order. The focus is the **Heroes of the Lance** as they are the gateway into the world of Krynn.

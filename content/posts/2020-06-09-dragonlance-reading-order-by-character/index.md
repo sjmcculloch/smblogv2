@@ -12,6 +12,7 @@ imageShare: ./dragonlance-reading-order-by-character-share.png
 tags:
   - books
   - dnd
+  - dragonlance
 ---
 
 Previously I posted a [recommended Dragonlance reading order](/dragonlance-reading-order) based on the heroes of the lance. It focused on the chronicles and the chronological introduction of those characters.
