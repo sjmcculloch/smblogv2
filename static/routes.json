@@ -51,6 +51,11 @@
       "statusCode": 301
     },
     {
+      "route": "/gaming/tips-to-prepare-for-madden-18",
+      "serve": "/tips-to-prepare-for-madden-18",
+      "statusCode": 301
+    },
+    {
       "route": "/2020-05-28-remembering-spellfire-ccg-rules-gameplay",
       "serve": "/remembering-spellfire-ccg-rules-gameplay",
       "statusCode": 301
