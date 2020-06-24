@@ -24,7 +24,7 @@ My current focus is:
 ## What I do for fun
 
 - 🏈🏏🏋️‍♂️ **Sports**. Avid follower of the **Seattle Seahawks**.
-- 📘 **Lifelong learner**. Part-time western history buff.
+- 📘 **Lifelong learner**. Part-time ancient history buff.
 - 👨🏼‍💻 **Play with code**. Sometimes, it ends up in an open source contribution or a blog post!
 - 🎲 **Gamer**. Card Games. Realtime Strategy.
 - 🐶 **Dog Owner**. Spend time outdoors with my 2 dogs.
