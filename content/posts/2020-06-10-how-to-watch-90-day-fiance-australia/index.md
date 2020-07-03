@@ -67,3 +67,7 @@ As of **June 2020**, Amazon has the following episodes available:
 - 🙂 **90 Day Fiancé: Self-Quarantined?** - Season 1
 
 > Amazon **may** block a purchase if they detect it's outside of the US. You can try using the VPN.
+
+## Recommended Viewing Order
+
+Don't know what to watch first? Check out the [90 Day Fiancé Viewing Order in 2020](/2020-90-day-fiance-viewing-order)
