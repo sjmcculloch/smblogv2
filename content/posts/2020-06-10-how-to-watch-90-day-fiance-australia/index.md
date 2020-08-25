@@ -25,18 +25,15 @@ Each option has been additionally tagged with the following keywords:
 
 [Foxtel Now](https://www.foxtel.com.au/now/index.html) has the most comprehensive list of 90 Day Fiancé episodes without the use of a VPN. It also has smart TV clients built into most home entertainment systems (e.g. PS4).
 
-As of **June 2020**, Foxtel Now has the following episodes available:
+As of **August 2020**, Foxtel Now has the following episodes available:
 
-- 😀 **90 Day Fiancé** - Season 1-7
-- 😀 **90 Day Fiancé: Happily Ever After** - Season 1-4
+- 😀 **90 Day Fiancé** - Season 4-7
+- 😀 **90 Day Fiancé: Happily Ever After** - Season 2-4
+- 🙂 **90 Day Fiancé: Before the 90 Days** - Only Partial Season 4 episodes (EP1-EP5)
 - 🙂 **90 Day Fiancé: The Other Way** - Only Partial Season 1 episodes (EP18-EP22)
 - 🙂 **90 Day Fiancé: What Now?** - Only Partial Season 3 episodes (EP1 + EP5)
-- 🙂 **90 Day Fiancé: Self-Quarantined?** - Only Partial Season 1 episodes (EP1)
-- 🙂 **90 Day Fiancé: Pillow Talk** - Only Partial Season 7 episodes (EP3-EP15)
-
-It's no longer showing:
-
-- 🙁 **90 Day Fiancé: Before the 90 Days**
+- 🙂 **90 Day Fiancé: Self-Quarantined?** - Season 1
+- 🙂 **90 Day Fiancé: Pillow Talk** - Only Partial Season 4 & 7 episodes
 
 > Foxtel Now will expire some episodes after a period of time, so beware!
 
@@ -68,6 +65,14 @@ As of **June 2020**, Amazon has the following episodes available:
 
 > Amazon **may** block a purchase if they detect it's outside of the US. You can try using the VPN.
 
+## Option 4 - YouTube
+
+On the day of release, you might also find the most recent episode before it is pulled. New episodes are generally released on a Monday & Tuesday for Australians.
+
 ## Recommended Viewing Order
 
 Don't know what to watch first? Check out the [90 Day Fiancé Viewing Order in 2020](/2020-90-day-fiance-viewing-order)
+
+## Want more?
+
+If you want to increase your fandom, consider joining the [reddit](https://www.reddit.com/r/90DayFiance/) and checking out the [fantastic merchandise](https://www.etsy.com/market/90_day_fiance).
