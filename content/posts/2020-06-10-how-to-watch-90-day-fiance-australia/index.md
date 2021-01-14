@@ -31,8 +31,6 @@ As of **January 2021**, 9Now has the following episodes available:
 - 😀 **90 Day Fiancé: Happily Ever After** - Season 1
 - 🙂 **90 Day Fiancé: Before the 90 Days** - Season 1
 
-> As this service requires a VPN, you will need to setup this first. Here is a [guide](https://www.expressvpn.com/support/vpn-setup/).
-
 ## Option 2 - Foxtel Now - \#Partial \#Delay
 
 [Foxtel Now](https://www.foxtel.com.au/now/index.html) has the most comprehensive list of 90 Day Fiancé episodes without the use of a VPN. It also has smart TV clients built into most home entertainment systems (e.g. PS4).
