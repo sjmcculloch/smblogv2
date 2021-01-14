@@ -21,7 +21,19 @@ Each option has been additionally tagged with the following keywords:
 - **\#VPN** - requires the use of a VPN to use service
 - **\#Delay** - episodes are not available within 24 hours of airing in USA
 
-## Option 1 - Foxtel Now - \#Partial \#Delay
+## Option 1 - 9Now - \#Partial
+
+9Now is a free to air service that has a limited amount of 90 day fiance. [9now](https://www.9now.com.au/90-day-fiance)
+
+As of **January 2021**, 9Now has the following episodes available:
+
+- 🙂 **90 Day Fiancé** - Seasons 5
+- 😀 **90 Day Fiancé: Happily Ever After** - Season 1
+- 🙂 **90 Day Fiancé: Before the 90 Days** - Season 1
+
+> As this service requires a VPN, you will need to setup this first. Here is a [guide](https://www.expressvpn.com/support/vpn-setup/).
+
+## Option 2 - Foxtel Now - \#Partial \#Delay
 
 [Foxtel Now](https://www.foxtel.com.au/now/index.html) has the most comprehensive list of 90 Day Fiancé episodes without the use of a VPN. It also has smart TV clients built into most home entertainment systems (e.g. PS4).
 
@@ -37,7 +49,7 @@ As of **August 2020**, Foxtel Now has the following episodes available:
 
 > Foxtel Now will expire some episodes after a period of time, so beware!
 
-## Option 2 - Hulu - \#Partial \#VPN
+## Option 3 - Hulu - \#Partial \#VPN
 
 Hulu is a streaming service (similar to Netflix) that has the [90 Day Fiance episodes](https://www.hulu.com/series/90-day-fiance-040d7329-47f5-48cc-9ed8-f9528c70926e). It is **free** to view and randomly shows advertisements (similar to YouTube). You can purchase a premium subscription to skip the advertisements.
 
@@ -50,7 +62,7 @@ As of **June 2020**, Hulu has the following episodes available:
 
 > As this service requires a VPN, you will need to setup this first. Here is a [guide](https://www.expressvpn.com/support/vpn-setup/).
 
-## Option 3 - Amazon - \#VPN
+## Option 4 - Amazon - \#VPN
 
 The show is also available on Amazon for purchase. Seasons range from $9-$30.
 
@@ -65,9 +77,13 @@ As of **June 2020**, Amazon has the following episodes available:
 
 > Amazon **may** block a purchase if they detect it's outside of the US. You can try using the VPN.
 
-## Option 4 - YouTube
+## Option 5 - YouTube
 
 On the day of release, you might also find the most recent episode before it is pulled. New episodes are generally released on a Monday & Tuesday for Australians.
+
+## Option 6 - cmovies
+
+Not sure how legit this site is, but it has the full list of 90 day fiance. [cmovies](https://cmovies.ac/movie/search/90-day-fiance)
 
 ## Recommended Viewing Order
 
