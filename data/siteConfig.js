@@ -25,6 +25,10 @@ module.exports = {
   headerLinksIcon: '', //  (leave empty to disable: '')
   headerLinks: [
     {
+      label: 'Reading',
+      url: '/reading',
+    },
+    {
       label: 'About',
       url: '/about',
     },
@@ -38,6 +42,10 @@ module.exports = {
     {
       sectionName: 'Explore',
       links: [
+        {
+          label: 'Reading',
+          url: '/reading',
+        },
         {
           label: 'About',
           url: '/about',
