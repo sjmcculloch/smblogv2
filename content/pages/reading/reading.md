@@ -7,8 +7,6 @@ disqus: false
 
 This page is a journal of my monthly reading habits.
 
-> Lately I've been focused on re-reading the Dragonlance novels from my childhood.
-
 ## February 2021
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>

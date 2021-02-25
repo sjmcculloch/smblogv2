@@ -1,7 +1,7 @@
 ---
 title: 90 Day Fiancé Viewing Order in 2021
 slug: 2020-90-day-fiance-viewing-order
-date: 2020-07-03
+date: 2021-25-02
 
 # optional fields
 published: true
@@ -33,4 +33,5 @@ Recently I posted a blog entry on [how to watch 90 Day Fiancé in Australia](/ho
 - **Before the 90 Days** - Season 4 (2020)
 - **Happily Ever After** - Season 5 (2020)
 - **The Other Way** - Season 2 (2020)
-- Season 8 (2019-2020)
+- Season 8 (2020-2021)
+- **The Single Life** Season 1 (2021)

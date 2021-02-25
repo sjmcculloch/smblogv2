@@ -16,7 +16,7 @@ module.exports = {
   siteCover: 'cover-dk.jpg', // file in content/images
   googleAnalyticsId: 'UA-102295230-1',
   background_color: '#ffffff',
-  theme_color: '#222222',
+  theme_color: '#003366',
   display: 'standalone',
   icon: 'content/images/wolf.png',
   postsPerPage: 6,
@@ -25,7 +25,7 @@ module.exports = {
   headerLinksIcon: '', //  (leave empty to disable: '')
   headerLinks: [
     {
-      label: 'Reading',
+      label: 'Reading List',
       url: '/reading',
     },
     {
@@ -43,7 +43,7 @@ module.exports = {
       sectionName: 'Explore',
       links: [
         {
-          label: 'Reading',
+          label: 'Reading List',
           url: '/reading',
         },
         {

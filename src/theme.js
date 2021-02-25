@@ -18,4 +18,9 @@
  *
  * For a full list of tokens, see the `src/tokens/` directory in this theme.
  */
-export default {}
+export default {
+  colors: {
+    primary: `#003366`,
+    primaryAlpha: `#003366cc`,
+  },
+}
