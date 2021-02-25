@@ -21,6 +21,6 @@
 export default {
   colors: {
     primary: `#003366`,
-    primaryAlpha: `#003366`,
+    primaryAlpha: `#003366cc`,
   },
 }
