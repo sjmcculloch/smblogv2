@@ -1,7 +1,7 @@
 ---
 title: 90 Day Fiancé Viewing Order in 2021
 slug: 2020-90-day-fiance-viewing-order
-date: 2021-25-02
+date: 2021-02-25
 
 # optional fields
 published: true
