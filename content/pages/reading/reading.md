@@ -7,13 +7,51 @@ disqus: false
 
 This page is a journal of my monthly reading habits.
 
+## May 2021
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Last Thane](./the-last-thane.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Last Thane
+
+For generations the baser clans of Thorbardin have raged against Hylar, ancestral rulers of the vast underground realm. Now, the finest Hylar army has marched away to face the Knights of Takhisis - and the dark dwarves see their opportunity. Besieged in the Life Tree that is their fortress city, the Hylar struggle to survive. Magic and madness threaten from all sides as Theiwar, Daergar and Klar press the onslaught with bloodthirsty frenzy.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![APress: Developing Applications with Azure Active Directory](./developing-applications-with-aad.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Developing Applications with Azure Active Directory
+
+Explore tools for integrating resources and applications with Azure Active Directory for authentication and authorization.
+
+</div>
+
+</div>
+
 ## April 2021
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: The Second Generation](./machine-learning-in-action.jpg)
+![Machine Learning in Action](./machine-learning-in-action.jpg)
 
 </div>
 
