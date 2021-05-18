@@ -65,7 +65,7 @@ module.exports = {
         },
         {
           label: 'Twitter',
-          url: 'https://twitter.com/sjmcculloch',
+          url: 'https://twitter.com/sj_mcculloch',
         },
       ],
     },
