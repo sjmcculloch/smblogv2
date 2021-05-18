@@ -15,11 +15,9 @@ tags:
   - dragonlance
 ---
 
-There are over 160 novels based on the Dragonlance world. I've collated various guides and made my own adjustments to present a recommended reading order. The focus is the **Heroes of the Lance** as they are the gateway into the world of Krynn, a [reading order by character](/dragonlance-reading-order-by-character) has also been created.
+There are over 160 novels based on the Dragonlance world. I've collated various guides and made my own adjustments to present a recommended reading order for the classic era of Dragonlance. The focus is the **Heroes of the Lance** as they are the gateway into the world of Krynn, a [reading order by character](/dragonlance-reading-order-by-character) has also been created.
 
-## Start Here - War of the Lance
-
-> I've included the **Lost Chronicles** which were written **much later** but fill in story gaps between the original novels.
+## Start Here - Chronicles
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -34,24 +32,6 @@ There are over 160 novels based on the Dragonlance world. I've collated various 
 ### Dragons of Autumn Twilight
 
 Dragons from the distant past gather to engulf the world of Krynn in war.
-
-</div>
-
-</div>
-
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
-
-<div style={{ minWidth: '150px', padding: '10px'}}>
-
-![Dragonlance: Dragons of the Dwarvern Depths](./dragons-of-the-dwarvern-depths.jpg)
-
-</div>
-
-<div style={{ padding: '10px'}}>
-
-### Dragons of the Dwarven Depths
-
-Picking up where the first book of the classic Dragonlance Chronicles left off, this tale follows the Companions of the Lance on their adventures following the rescue of the refugees of Pax Tharkas.
 
 </div>
 
@@ -79,24 +59,6 @@ When dragons invade the land, a small band of heroes, including a knight, barbar
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: Dragons of the Highlord Skies](./dragons-of-the-highlord-skies.jpg)
-
-</div>
-
-<div style={{ padding: '10px'}}>
-
-### Dragons of the Highlord Skies
-
-Seeking a dragon orb rescued from the Tower of High Sorcery in Planathus by an elven wizard before its fall to the forces of the Kingpriest, the Dragon Highlord Ariakas assigns the task of retrieving it to Kitiara Uth-Matar.
-
-</div>
-
-</div>
-
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
-
-<div style={{ minWidth: '150px', padding: '10px'}}>
-
 ![Dragonlance: Dragons of Spring Dawning](./dragons-of-spring-dawning.jpg)
 
 </div>
@@ -106,24 +68,6 @@ Seeking a dragon orb rescued from the Tower of High Sorcery in Planathus by an e
 ### Dragons of Spring Dawning
 
 Finally armed with dragonlances, a group of heroes, composed of a knight, barbarian, dwarf, and half-elf, face a deadly showdown with the evil dragons and Takhisis, the Queen of Darkness
-
-</div>
-
-</div>
-
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
-
-<div style={{ minWidth: '150px', padding: '10px'}}>
-
-![Dragonlance: Dragons of the Hourglass Mage](./dragons-of-the-hourglass-mage.jpg)
-
-</div>
-
-<div style={{ padding: '10px'}}>
-
-### Dragons of the Hourglass Mage
-
-Raistlin Majere, a Black Robe wizard, must battle his sister, Kitiara, and her terrifying ally, the death knight Lord Soth, in order to thwart Takhisis, the Dark Queen.
 
 </div>
 
@@ -182,6 +126,64 @@ Raistlin, the enigmatic but evil magic-user, gathers his powers to destroy the Q
 ### Test of the Twins
 
 Caramon must travel back and forth in time in order to save the world from his twin brother, Raistlin, who has become the Master of the Tower of High Sorcery.
+
+</div>
+
+</div>
+
+## The Lost Chronicles
+
+> These novels fill in the story between chronicle novels and cover events behind the scenes.
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Dragons of the Dwarvern Depths](./dragons-of-the-dwarvern-depths.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dragons of the Dwarven Depths
+
+Picking up where the first book of the classic Dragonlance Chronicles left off, this tale follows the Companions of the Lance on their adventures following the rescue of the refugees of Pax Tharkas.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Dragons of the Highlord Skies](./dragons-of-the-highlord-skies.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dragons of the Highlord Skies
+
+Seeking a dragon orb rescued from the Tower of High Sorcery in Planathus by an elven wizard before its fall to the forces of the Kingpriest, the Dragon Highlord Ariakas assigns the task of retrieving it to Kitiara Uth-Matar.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Dragons of the Hourglass Mage](./dragons-of-the-hourglass-mage.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dragons of the Hourglass Mage
+
+Raistlin Majere, a Black Robe wizard, must battle his sister, Kitiara, and her terrifying ally, the death knight Lord Soth, in order to thwart Takhisis, the Dark Queen.
 
 </div>
 
