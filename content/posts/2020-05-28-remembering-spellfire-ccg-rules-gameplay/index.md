@@ -62,7 +62,7 @@ The objective of the game is **build an empire of six unrazed realms**.
 
 Realms must be played in a triangle fashion. The first realm played is the top point of the triangle. The second row must then be filled before any realms are placed in the third row. In this way, your opponent must always attack your front realm (if it's not razed) and protects those behind.
 
-![Spellfire: Realm Formation123](./formation.jpg)
+![Spellfire: Realm Formation](./formation.jpg)
 
 ### Starting the Game
 
