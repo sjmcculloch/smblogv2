@@ -5,9 +5,27 @@ cover: ./hourglass-mage.jpg
 disqus: false
 ---
 
-This page is a journal of my monthly reading habits.
+This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
 ## May 2021
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Puppet King](./the-puppet-king.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Puppet King
+
+Torn asunder by the nightmares of a mad king, the elven realm of Silvanesti has nearly been restored to its former grandeur. But the elf Porthios, returning to his homeland, launches a rebellion against young Gilthias, his own nephew.Gilthias's troubles are multiplied by threats from green dragons and from the Knights of Takhisis. Now, with Porthios at his throat, Gilthias must choose between blood and honor.
+
+</div>
+
+</div>
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
