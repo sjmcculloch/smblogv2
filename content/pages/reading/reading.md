@@ -7,6 +7,28 @@ disqus: false
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## June 2021
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Reavers of the Blood Sea](./reavers-of-the-blood-sea.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Reavers of the Blood Sea
+
+During the hottest summer in memory, minotaurs fight against the Knights of Takhisis, into whose hands their god Sargonnas has delivered them. In the midst of the conflict, the armies of Chaos plunge into the heart of Ansalon.
+
+Now the minotaur warrior Aryx must unite his people and their enemy, the knights, against the monstrous servants of Chaos. If he succeeds, the two sides may forge a bond that will change Krynn for all time.
+
+</div>
+
+</div>
+
 ## May 2021
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
