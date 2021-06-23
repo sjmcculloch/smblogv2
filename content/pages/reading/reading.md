@@ -9,6 +9,43 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## June 2021
 
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Siege of Mt. Nevermind](./the-siege-of-mt-nevermind.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Siege of Mt. Nevermind
+
+A miraculous machine . . . and a nightmare!
+Innova, a young gnomish recluse finds himself in a terrible situation. Tried in a gnomish court for an unfortunate accident and sentenced to spend months at the bottom of Mt. Nevermind tuning gnomeflingers, young Innova makes an incredible discovery. The whole gnomish society is changed by one machine that, unlike any other gnomish invention, makes the entire mountain run like clockwork.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Tears of the Night Sky](./tears-of-the-night-sky.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Tears of the Night Sky
+
+Crysania, high priestess of the Temple of Paladine, is blind to the beauty of the world but not to the joy of her faith. Lately, though, her communion with the god of light has become distant. Now a mysterious stone has come into her possession. Its power compels her to undertake a merilous quest, accompanied by a strange band of companions.
+
+</div>
+
+</div>
+
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
