@@ -13,6 +13,26 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
+![Dragonlance: Vampire of the Mists](./vampire-of-the-mists.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Vampire of the Mists
+
+Jander Sunstar is a gold elf, a native of magical Evermeet in the Forgotten Realms. He is also a five-hundred-year-old vampire.
+
+Torn by rage and grief, Jander is transported into the nightmare realm of Ravenloft, where he gains the attention of the demiplane's master, Count Strahd Von Zarovich. But can Jander trust this elegant fellow vampire once he discovers that his own quest for revenge is linked to the dark heritage of the count's domain?
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
 ![Dragonlance: The Siege of Mt. Nevermind](./the-siege-of-mt-nevermind.jpg)
 
 </div>
