@@ -7,13 +7,53 @@ disqus: false
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## July 2021
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Ravenloft: Knight of the Black Rose](./knight-of-the-black-rose.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Knight of the Black Rose
+
+On the fabled world of Krynn, Lord Soth finally learns that there is a price to pay for his long history of evil deeds, a price even an undead warrior might find horrifying.
+Dark powers transport Soth to Barovia, and there the death knight must face the dread minions of Count Strahn Von Zarovich, the vampire lord of the nightmare land. But with only a captive Vistani woman and an untrustworthy ghost for allies, Lord Soth soon discovers that he may have to join forces with the powerful vampire if he is ever to escape the realm of terror.
+"Knight of the Black Rose" is the second in an open-ended series of Gothic horror tales dealing with the masters and monsters of the Ravenloft dark fantasy setting.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Ravenloft: Dance of the Dead](./dance-of-the-dead.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dance of the Dead
+
+When the riverboat on which she works as a dancer docks at a zombie-plagued island known as Sourange, Larissa Snowmane must rely on the help of the swamp creatures to save her soul.
+
+</div>
+
+</div>
+
 ## June 2021
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: Vampire of the Mists](./vampire-of-the-mists.jpg)
+![Ravenloft: Vampire of the Mists](./vampire-of-the-mists.jpg)
 
 </div>
 
