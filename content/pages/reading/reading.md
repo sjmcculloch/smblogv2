@@ -13,6 +13,60 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
+![Ravenloft: The Enemy Within](./the-enemy-within.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Enemy Within
+
+Sir Tristan Hiregaard of Nova Vaasa appears outwardly to be a kind nobleman who would never harm anyone. But his sinister alter-ego, the evil crimelord Malken, finds no act too base when it comes to extending his vast criminal empire.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Legend](./legend.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Legend
+
+He is DRUSS the Legend. His skill in battle has earned him a fearsome reputation throughout the world and the stories of his life are told everywhere. But the grizzled veteran has spurned a life of fame and fortune and has retreated to the solitude of his mountain lair to await his old enemy, Death.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Ravenloft: I, Strahd: The Memoirs of a Vampire](./i-strahd-the-memoirs-of-a-vampire.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### I, Strahd: The Memoirs of a Vampire
+
+The young and idealistic brother to the war-hardened Strahd von Zarovich loves beautiful Tatyana, but so does Strahd. To win her hand, Strahd will do anything--even enter a pact with death and seal it with his brother's blood. Chapter illus
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
 ![Ravenloft: Knight of the Black Rose](./knight-of-the-black-rose.jpg)
 
 </div>
