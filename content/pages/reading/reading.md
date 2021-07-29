@@ -13,6 +13,24 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
+![Forgotten Realms: Crystal shard](./crystal-shard.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Crystal Shard
+
+Akar Kessel, weak-willed apprentice mage, starts events that find a magical device, the crystal shard. Dwarf Bruenor rescues barbarian Wulfgar from the ruins of Ten-Towns, for 5 years of service - and friendship. With help from renegade dark elf Drizzt, Wulfgar becomes a warrior with brawn and brains. Can the trio stave off the crystal shard forces?
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
 ![Ravenloft: The Enemy Within](./the-enemy-within.jpg)
 
 </div>
@@ -77,13 +95,12 @@ The young and idealistic brother to the war-hardened Strahd von Zarovich loves b
 
 On the fabled world of Krynn, Lord Soth finally learns that there is a price to pay for his long history of evil deeds, a price even an undead warrior might find horrifying.
 Dark powers transport Soth to Barovia, and there the death knight must face the dread minions of Count Strahn Von Zarovich, the vampire lord of the nightmare land. But with only a captive Vistani woman and an untrustworthy ghost for allies, Lord Soth soon discovers that he may have to join forces with the powerful vampire if he is ever to escape the realm of terror.
-"Knight of the Black Rose" is the second in an open-ended series of Gothic horror tales dealing with the masters and monsters of the Ravenloft dark fantasy setting.
 
 </div>
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
