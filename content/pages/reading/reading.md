@@ -7,6 +7,80 @@ disqus: false
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## August 2021
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Streams of Silver](./streams-of-silver.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Streams of Silver
+
+Drizzt Do'Urden still struggles with his own inner voices, voices that call him back to the pitless depths of the Underdark. But louder still are the voices of his newfound friends Bruenor, Wulfgar, and Regis—and the call of a dream that, at long last, Bruenor has decided to fulfill.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: The Halfling's Gem](./the-halflings-gem.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Halfling's Gem
+
+Regis has fallen into the hands of the assassin Artmis Entreri, who is taking him to Calimport to deliver him into the clutches of the vile Pasha Pook. But Drizzt and Wulfgar are close on their heels, determined to save Regis from his own folly as much as from his powerful enemies.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Homeland](./homeland.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Homeland
+
+Drow ranger Drizzt Do'Urden, first introduced in The Icewind Dale Trilogy, quickly became one of the fantasy genre's standout characters. But Homeland first reveals the startling tale of how this one lone drow walked out of the shadowy depths of the Underdark, leaving behind a society of evil and a family who want him dead. It is here that the story of this amazing dark elf truly began.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Exile](./exile.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Exile
+
+Drizzt Do'Urden has been exiled from his country and forced to wander the tunnel-mazes of the Underdark, which are haunted by the evil dark elves.
+
+</div>
+
+</div>
+
 ## July 2021
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
