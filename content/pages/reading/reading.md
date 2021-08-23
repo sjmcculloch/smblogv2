@@ -63,7 +63,7 @@ Drow ranger Drizzt Do'Urden, first introduced in The Icewind Dale Trilogy, quick
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -76,6 +76,24 @@ Drow ranger Drizzt Do'Urden, first introduced in The Icewind Dale Trilogy, quick
 ### Exile
 
 Drizzt Do'Urden has been exiled from his country and forced to wander the tunnel-mazes of the Underdark, which are haunted by the evil dark elves.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Sojourn](./sojourn.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Sojourn
+
+Far above the merciless Underdark, Drizzt Do'Urden fights to survive the elements of Toril's harsh surface. The drow begins a sojourn through a world entirely unlike his own--even as he evades the dark elves of his past.
 
 </div>
 
