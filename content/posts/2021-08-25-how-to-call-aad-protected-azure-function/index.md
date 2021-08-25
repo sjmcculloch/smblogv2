@@ -31,7 +31,7 @@ To retrieve the tenant ID, navigate to **Azure Active Directory**. Record down t
 
 ## Step 2: Retrieve Application ID
 
-Next, navigate to your Azure Function that has been secured and look at the **Authentication** blade to retrieve the **Application Name**.
+Next, navigate to your secured Azure Function and look at the **Authentication** blade to retrieve the **Application Name**.
 
 In the below screenshot, the application name is **myaadapp**. Record down your application name for future use.
 
@@ -55,7 +55,7 @@ Record down the generated secret for future use.
 
 ![Step 3: Client Secret Generated](./clientsecret2.png)
 
-> Note: these secrets will expire and will need to be regularly renewed.
+> Note: these secrets will expire and need to be regularly renewed (based on the expiry length you selected).
 
 ## Step 4: Get Application ID Url
 
