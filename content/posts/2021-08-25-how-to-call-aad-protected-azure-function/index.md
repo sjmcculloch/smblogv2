@@ -11,10 +11,10 @@ cover: ./cover.png
 imageShare: ./how-to-call-aad-protected-azure-function-share.png
 tags:
   - azure
-  - aad
+  - authentication
 ---
 
-Once you have protected an Azure Function using AAD (Azure Active Directory), these instructions allow you to securely call it from another process (e.g. Console App, Azure Function, etc).
+Once you have [protected an Azure Function using AAD (Azure Active Directory)](/how-to-protect-an-azure-function-with-aad) , these instructions allow you to securely call it from another process (e.g. Console App, Azure Function, etc).
 
 To successfully call an Azure AD protected function using [client credentials flow](https://docs.microsoft.com/en-us/azure/active-directory/azuread-dev/v1-oauth2-client-creds-grant-flow), you'll need 4 things:
 
