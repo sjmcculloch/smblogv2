@@ -18,7 +18,7 @@ module.exports = {
   background_color: '#ffffff',
   theme_color: '#003366',
   display: 'standalone',
-  icon: 'content/images/wolf.png',
+  icon: 'static/favicon.svg',
   postsPerPage: 6,
   disqusShortname: 'smcculloch',
   headerTitle: 'Scott McCulloch',
