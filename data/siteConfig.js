@@ -25,7 +25,11 @@ module.exports = {
   headerLinksIcon: '', //  (leave empty to disable: '')
   headerLinks: [
     {
-      label: 'Reading List',
+      label: 'Goals',
+      url: '/goals',
+    },
+    {
+      label: 'Reading',
       url: '/reading',
     },
     {
