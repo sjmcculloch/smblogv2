@@ -7,6 +7,26 @@ disqus: false
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## September 2021
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: The Legacy](./legacy.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Legacy
+
+Life is good for Drizzt Do'Urden, better than it ever has been for the beleaguered dark elf. His dearest friend, the dwarf Bruenor, has reclaimed his throne, and his adventuring companions, Wulfgar and Catti-brie, are to be wed in the spring. Even the halfling Regis has returned. All the friends are united in the safety and prosperity of Mithril Hall, where streams of silver mithril run deep and dwarven hammers bang out the solemn rhythms of ancient and unending songs
+
+</div>
+
+</div>
+
 ## August 2021
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
