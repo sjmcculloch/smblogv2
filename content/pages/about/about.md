@@ -7,7 +7,7 @@ disqus: false
 
 Hello, I am **Scott McCulloch**, a **Software Engineer** from **Wollongong, Australia**.
 
-I started coding in my teens on **multi-user dungeon (MUD)** clients. 25+ years later, I'm still coding (I just hope my code is better 😃).
+I started coding in my teens on **multi-user dungeon (MUD)** clients. 25+ years later, I'm still coding.
 
 ## What I do for a living
 
