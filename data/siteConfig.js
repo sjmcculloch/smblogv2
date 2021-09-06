@@ -15,6 +15,7 @@ module.exports = {
   pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
   siteCover: 'cover-dk.jpg', // file in content/images
   googleAnalyticsId: 'UA-102295230-1',
+  googleTagManagerId: 'GTM-KZLZXQ4',
   background_color: '#ffffff',
   theme_color: '#003366',
   display: 'standalone',

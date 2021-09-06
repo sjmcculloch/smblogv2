@@ -80,6 +80,14 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-google-tagmanager`,
+      options: {
+        id: config.googleTagManagerId,
+        defaultDataLayer: { platform: 'gatsby' },
+        includeInDevelopment: true,
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: config.siteTitle,
