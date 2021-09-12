@@ -13,9 +13,6 @@ jobs:
   build_and_deploy_job:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
     runs-on: ubuntu-latest
-    env:
-      PELOTON_USERNAME: ${{ secrets.PELOTON_USERNAME }}
-      PELOTON_PASSWORD: ${{ secrets.PELOTON_PASSWORD }}
     name: Build and Deploy Job
     steps:
       - uses: actions/checkout@v2

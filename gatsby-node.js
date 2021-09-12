@@ -167,7 +167,7 @@ exports.sourceNodes = async ({
   createNodeId,
   createContentDigest,
 }) => {
-  console.log('looking for username')
+  console.log('looking for username', process.env.PELOTON_USERNAME)
   if (
     typeof process.env.PELOTON_USERNAME !== 'undefined' &&
     process.env.PELOTON_USERNAME &&
