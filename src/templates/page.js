@@ -10,7 +10,7 @@ import SEO from '../components/SEO'
 import PageTitle from '../components/PageTitle'
 import Disqus from '../components/Disqus'
 
-export default props => {
+const Page = props => {
   const page = props.data.page
 
   return (
@@ -41,6 +41,7 @@ export default props => {
     </Layout>
   )
 }
+export default Page
 
 export const pageQuery = graphql`
   query($slug: String!) {

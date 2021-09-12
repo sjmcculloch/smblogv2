@@ -14,6 +14,7 @@ module.exports = {
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
   siteCover: 'cover-dk.jpg', // file in content/images
+  statsCover: 'cover-peloton.jpg', // file in content/images
   googleAnalyticsId: 'UA-102295230-1',
   googleTagManagerId: 'GTM-KZLZXQ4',
   background_color: '#ffffff',
@@ -26,6 +27,10 @@ module.exports = {
   headerLinksIcon: '', //  (leave empty to disable: '')
   headerLinks: [
     {
+      label: 'About',
+      url: '/about',
+    },
+    {
       label: 'Goals',
       url: '/goals',
     },
@@ -34,8 +39,8 @@ module.exports = {
       url: '/reading',
     },
     {
-      label: 'About',
-      url: '/about',
+      label: 'Stats',
+      url: '/stats',
     },
   ],
   // Footer information (ex: Github, Netlify...)
@@ -48,12 +53,20 @@ module.exports = {
       sectionName: 'Explore',
       links: [
         {
-          label: 'Reading List',
+          label: 'About',
+          url: '/about',
+        },
+        {
+          label: 'Goals',
+          url: '/goals',
+        },
+        {
+          label: 'Reading',
           url: '/reading',
         },
         {
-          label: 'About',
-          url: '/about',
+          label: 'Stats',
+          url: '/stats',
         },
       ],
     },

@@ -1,6 +1,10 @@
 const path = require('path')
 const config = require('./data/siteConfig')
 
+require('dotenv').config({
+  path: `.env`,
+})
+
 module.exports = {
   siteMetadata: {
     title: config.siteTitle,
@@ -29,12 +33,6 @@ module.exports = {
       options: {
         name: 'images',
         path: 'content/images',
-      },
-    },
-    {
-      resolve: `gatsby-plugin-page-creator`,
-      options: {
-        path: path.join(__dirname, `src`, `pages`),
       },
     },
     {

@@ -1,4 +1,5 @@
 const { createFilePath } = require('gatsby-source-filesystem')
+const fetch = require('node-fetch')
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
@@ -12,6 +13,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const ListPostsTemplate = require.resolve(
     './src/templates/blog-list-template.js'
   )
+
+  const StatsTemplate = require.resolve('./src/templates/stats.js')
 
   const allMarkdownQuery = await graphql(`
     {
@@ -59,6 +62,15 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const posts = markdownFiles.filter(item =>
     item.node.fileAbsolutePath.includes('/content/posts/')
   )
+
+  // generate stat template
+  createPage({
+    path: `/stats`,
+    component: StatsTemplate,
+    context: {
+      slug: 'stats',
+    },
+  })
 
   // generate paginated post list
   const postsPerPage = postPerPageQuery.data.site.siteMetadata.postsPerPage
@@ -147,5 +159,119 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       node,
       value,
     })
+  }
+}
+
+exports.sourceNodes = async ({
+  actions,
+  createNodeId,
+  createContentDigest,
+}) => {
+  if (
+    typeof process.env.PELOTON_USERNAME !== 'undefined' &&
+    process.env.PELOTON_USERNAME &&
+    typeof process.env.PELOTON_PASSWORD !== 'undefined' &&
+    process.env.PELOTON_PASSWORD
+  ) {
+    const body = {
+      username_or_email: process.env.PELOTON_USERNAME,
+      password: process.env.PELOTON_PASSWORD,
+    }
+
+    const response = await fetch('https://api.onepeloton.com/auth/login', {
+      method: 'post',
+      body: JSON.stringify(body),
+      headers: { 'Content-Type': 'application/json' },
+    })
+
+    const authData = await response.json()
+
+    const opts = {
+      headers: {
+        cookie: `peloton_session_id=${authData.session_id};`,
+        'peloton-platform': 'web',
+      },
+    }
+
+    const responseOverview = await fetch(
+      `https://api.onepeloton.com.au/api/user/${authData.user_id}/overview?version=1`,
+      opts
+    )
+    const overviewData = await responseOverview.json()
+
+    // const responseOverview = await fetch(`https://api.onepeloton.com.au/api/user/6e5f1a1a9d1e43bea656da728d46e783/overview?version=1`, opts)
+    // const myPelotonData = await responseMe.json()
+
+    overviewData.workout_counts.workouts.forEach(workoutCount => {
+      const newNode = {
+        ...workoutCount,
+        id: createNodeId(workoutCount.name),
+        internal: {
+          type: 'WorkoutCount',
+          contentDigest: createContentDigest(workoutCount),
+        },
+      }
+      actions.createNode(newNode)
+    })
+
+    overviewData.achievements.forEach(achievement => {
+      const newNode = {
+        ...achievement,
+        id: createNodeId(achievement.id),
+        internal: {
+          type: 'Achievement',
+          contentDigest: createContentDigest(achievement),
+        },
+      }
+      actions.createNode(newNode)
+    })
+
+    const responseMetaData = await fetch(
+      'https://api.onepeloton.com/api/ride/metadata_mappings',
+      opts
+    )
+    const pelotonMetaData = await responseMetaData.json()
+
+    const responseWorkoutData = await fetch(
+      `https://api.onepeloton.com/api/user/${authData.user_id}/workouts?joins=ride&limit=10&page=0`,
+      opts
+    )
+    const recentWorkouts = await responseWorkoutData.json()
+
+    recentWorkouts.data
+      .sort((a, b) => (a.startTime > b.startTime ? -1 : 1))
+      .map(workout => ({
+        id: workout.id,
+        type: pelotonMetaData.device_type_display_names.find(
+          deviceType => deviceType.device_type === workout.device_type
+        ).display_name,
+        startTime: workout.start_time,
+        airTime: workout.ride.original_air_time,
+        title: workout.ride.title,
+        discipline: workout.ride.fitness_discipline_display_name,
+        totalwork:
+          workout.total_work > 0 ? Math.round(workout.total_work / 1000) : null,
+        effortPoints:
+          workout.effort_zones !== null
+            ? workout.effort_zones.total_effort_points
+            : null,
+        instructor:
+          workout.ride.instructor_id !== null
+            ? pelotonMetaData.instructors.find(
+                instructor => instructor.id === workout.ride.instructor_id
+              )
+            : { name: 'Scenic', image_url: workout.ride.image_url },
+      }))
+      .forEach(workout => {
+        const newNode = {
+          ...workout,
+          id: workout.id,
+          internal: {
+            type: 'Workout',
+            contentDigest: createContentDigest(workout),
+          },
+        }
+        actions.createNode(newNode)
+      })
   }
 }
