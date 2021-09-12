@@ -6,4 +6,5 @@ public
 .cache/
 yarn.lock
 package-lock.json
-.env
+.env*
+
