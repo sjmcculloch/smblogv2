@@ -9,7 +9,7 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## September 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -22,6 +22,46 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 ### The Legacy
 
 Life is good for Drizzt Do'Urden, better than it ever has been for the beleaguered dark elf. His dearest friend, the dwarf Bruenor, has reclaimed his throne, and his adventuring companions, Wulfgar and Catti-brie, are to be wed in the spring. Even the halfling Regis has returned. All the friends are united in the safety and prosperity of Mithril Hall, where streams of silver mithril run deep and dwarven hammers bang out the solemn rhythms of ancient and unending songs
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Starless Night](./starless-night.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Starless Night
+
+To protect his friends from harm, Drizzt Do’Urden returns to the city he left behind long ago—the City of Spiders
+
+Though Drizzt is still reeling from the death of his barbarian friend, he is allowed little time to grieve. Dark elves are gathering in the caverns deep under Mithral Hall, hell-bent on destruction. To keep his adopted home and family safe, Drizzt must now return to the dreadful drow city of his birth.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Siege of Darkness](./siege-of-darkness.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Siege of Darkness
+
+The conflict between the drow of the Underdark and the dwarves of Mithral Hall comes to a head
+
+While Mithral Hall teems with whispers of the war to come, chaos erupts both above and below ground. On the surface of Faerûn, the first signs of the Time of Troubles make themselves known, forcing deities to assume their mortal forms. Beneath them in the Underdark, all but one drow house has lost their magical powers, and Lolth has handed the reins of leadership over to the demon Errtu.
 
 </div>
 
