@@ -167,15 +167,12 @@ exports.sourceNodes = async ({
   createNodeId,
   createContentDigest,
 }) => {
-  console.log('looking for username', process.env.PELOTON_USERNAME)
-  console.log('looking for myvarname', process.env.myvarname)
   if (
     typeof process.env.PELOTON_USERNAME !== 'undefined' &&
     process.env.PELOTON_USERNAME &&
     typeof process.env.PELOTON_PASSWORD !== 'undefined' &&
     process.env.PELOTON_PASSWORD
   ) {
-    console.log('found', process.env.PELOTON_USERNAME)
     const body = {
       username_or_email: process.env.PELOTON_USERNAME,
       password: process.env.PELOTON_PASSWORD,

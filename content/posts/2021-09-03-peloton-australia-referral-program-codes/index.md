@@ -16,6 +16,8 @@ tags:
 
 Recently I purchased a Peloton bike which has been the best purchase of the pandemic. However, I found their referral program a little confusing so I've collated all the information here.
 
+> If you don't have a referral code, you can use my referral code to take **$150** off your **hardware** order: **2KYVB8**
+
 ## Referral program rules
 
 For every referral, **you'll earn $100** towards apparel and **your friend will receive $150** off their hardware (bike, treadmill) purchase.
@@ -45,10 +47,6 @@ When viewing your cart, click **enter promo code**:
 Specify your **code** and click **apply**.
 
 ![Peloton Australia: enter code and apply](./enter-code-apply.png)
-
-If you don't have a referral code, you can use my referral code to take **$150** off your **hardware** order:
-
-- **2KYVB8**
 
 ## How do I redeem my referral
 
