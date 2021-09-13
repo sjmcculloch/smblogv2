@@ -70,6 +70,24 @@ Summer has come to Krynn, a summer unlike any before. The sun bears down on land
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
+![Dragonlance: The Doom Brigade](./the-doom-brigade.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Doom Brigade ⭐
+
+The fearless draconians of the War of the Lance have retired from the field of battle to a pleasant valley in the Kharolis Mountains. Well, it would be pleasant, if it weren't for some dwarves, whose irritating feuding prevents the draconians from realizing their greatest hope -- the ability to continue their doomed race. When the dwarves discover a map leading to a fortune buried in the dwarven kingdom of Thorbardin, the draconians are swept up in a feverish race for treasure.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
 ![Dragonlance: The Last Thane](./the-last-thane.jpg)
 
 </div>
