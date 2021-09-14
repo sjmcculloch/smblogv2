@@ -23,7 +23,7 @@ We'll accomplish this by using the [MSAL.js library for javascript](https://gith
 
 Create a brand new react application using the following:
 
-```
+```bash
 npx create-react-app auth-app
 cd auth-app
 npm install @azure/msal-browser @azure/msal-react
@@ -32,7 +32,7 @@ npm install react-bootstrap bootstrap
 
 Start your application using:
 
-```
+```bash
 npm start
 ```
 
@@ -94,7 +94,7 @@ Create a file named **authConfig.js** in the **src** folder of your react applic
 
 The contents of the file is:
 
-```
+```js
 export const msalConfig = {
   auth: {
     clientId: 'Enter_the_Application_Id_Here',
@@ -102,15 +102,15 @@ export const msalConfig = {
     redirectUri: 'Enter_the_Redirect_Uri_Here',
   },
   cache: {
-    cacheLocation: "sessionStorage",
+    cacheLocation: 'sessionStorage',
     storeAuthStateInCookie: false,
   },
-};
+}
 
 export const apiRequest = {
   url: 'Enter_Url_of_Service',
   scopes: ['Enter_API_Scope'],
-};
+}
 ```
 
 Substitute the following with IDs you recorded earlier:
@@ -125,36 +125,35 @@ Substitute the following with IDs you recorded earlier:
 
 Open **src/index.js** and add the following imports:
 
-```
-import "bootstrap/dist/css/bootstrap.min.css";
-import { PublicClientApplication, EventType } from "@azure/msal-browser";
-import { MsalProvider } from "@azure/msal-react";
-import { msalConfig } from "./authConfig";
+```js
+import 'bootstrap/dist/css/bootstrap.min.css'
+import { PublicClientApplication, EventType } from '@azure/msal-browser'
+import { MsalProvider } from '@azure/msal-react'
+import { msalConfig } from './authConfig'
 ```
 
 Below the imports, add the following code:
 
-```
-const msalInstance = new PublicClientApplication(msalConfig);
+```js
+const msalInstance = new PublicClientApplication(msalConfig)
 
-const accounts = msalInstance.getAllAccounts();
+const accounts = msalInstance.getAllAccounts()
 if (accounts.length > 0) {
-  msalInstance.setActiveAccount(accounts[0]);
+  msalInstance.setActiveAccount(accounts[0])
 }
 
-msalInstance.addEventCallback((event) => {
+msalInstance.addEventCallback(event => {
   if (event.eventType === EventType.LOGIN_SUCCESS && event.payload.account) {
-    const account = event.payload.account;
-    msalInstance.setActiveAccount(account);
+    const account = event.payload.account
+    msalInstance.setActiveAccount(account)
   }
-});
-
+})
 ```
 
 Wrap your App with the MsalProvider component as follows:
 
-```
-<MsalProvider instance={msalInstance}>
+```js
+<MsalProvider instance="{msalInstance}">
   <App />
 </MsalProvider>
 ```
@@ -163,10 +162,10 @@ Wrap your App with the MsalProvider component as follows:
 
 Open **src/app.js** and replace the code with the following:
 
-```
-import { MsalAuthenticationTemplate } from '@azure/msal-react';
-import { InteractionType } from '@azure/msal-browser';
-import { loginRequest } from './authConfig';
+```js
+import { MsalAuthenticationTemplate } from '@azure/msal-react'
+import { InteractionType } from '@azure/msal-browser'
+import { loginRequest } from './authConfig'
 
 function App() {
   return (
@@ -174,14 +173,14 @@ function App() {
       interactionType={InteractionType.Redirect}
       authenticationRequest={loginRequest}
     >
-      <div class='alert alert-primary' role='alert'>
+      <div class="alert alert-primary" role="alert">
         Hello, I am authenticated.
       </div>
     </MsalAuthenticationTemplate>
-  );
+  )
 }
 
-export default App;
+export default App
 ```
 
 View your app at [http://localhost:3000](http://localhost:3000), it should redirect you to AAD for login. Once you have been authenticated you should see:
@@ -200,69 +199,69 @@ Create a file named **apiCall.js** in the **src** folder of your react applicati
 
 The contents of this file is:
 
-```
-import { apiRequest } from './authConfig';
-import { msalInstance } from './index';
+```js
+import { apiRequest } from './authConfig'
+import { msalInstance } from './index'
 
 export async function bearerToken() {
-  const account = msalInstance.getActiveAccount();
+  const account = msalInstance.getActiveAccount()
   if (!account) {
     throw Error(
       'No active account! Verify a user has been signed in and setActiveAccount has been called.'
-    );
+    )
   }
 
   const response = await msalInstance.acquireTokenSilent({
     ...apiRequest,
     account: account,
-  });
+  })
 
-  return response.accessToken;
+  return response.accessToken
 }
 
 export async function apiCall() {
-  const token = await bearerToken();
+  const token = await bearerToken()
 
-  const headers = new Headers();
-  const bearer = `Bearer ${token}`;
+  const headers = new Headers()
+  const bearer = `Bearer ${token}`
 
-  headers.append('Authorization', bearer);
+  headers.append('Authorization', bearer)
 
   const options = {
     method: 'GET',
     headers: headers,
-  };
+  }
 
   return fetch(apiRequest.url, options)
-    .then((response) => response.json())
-    .catch((error) => console.log(error));
+    .then(response => response.json())
+    .catch(error => console.log(error))
 }
 ```
 
 Replace the contents of **App.js** with the following:
 
-```
-import React, { useState } from 'react';
-import { MsalAuthenticationTemplate } from '@azure/msal-react';
-import { InteractionType } from '@azure/msal-browser';
+```js
+import React, { useState } from 'react'
+import { MsalAuthenticationTemplate } from '@azure/msal-react'
+import { InteractionType } from '@azure/msal-browser'
 
-import { apiCall, bearerToken } from './apiCall';
+import { apiCall, bearerToken } from './apiCall'
 
 function App() {
-  const [accessToken, setAccessToken] = useState(null);
+  const [accessToken, setAccessToken] = useState(null)
 
   const getAccessToken = async () => {
-    const token = await bearerToken();
-    setAccessToken(token);
-  };
+    const token = await bearerToken()
+    setAccessToken(token)
+  }
 
   const callApi = async () => {
-    apiCall();
-  };
+    apiCall()
+  }
 
   return (
     <MsalAuthenticationTemplate interactionType={InteractionType.Redirect}>
-      <div className='alert alert-primary' role='alert'>
+      <div className="alert alert-primary" role="alert">
         Hello, I am authenticated.
       </div>
 
@@ -270,8 +269,8 @@ function App() {
 
       <div>
         <button
-          type='button'
-          className='btn btn-primary'
+          type="button"
+          className="btn btn-primary"
           onClick={getAccessToken}
         >
           Get Access Token
@@ -282,15 +281,15 @@ function App() {
       <hr />
 
       <div>
-        <button type='button' className='btn btn-primary' onClick={callApi}>
+        <button type="button" className="btn btn-primary" onClick={callApi}>
           Call API
         </button>
       </div>
     </MsalAuthenticationTemplate>
-  );
+  )
 }
 
-export default App;
+export default App
 ```
 
 Run your react application, you should be able to retrieve an Access Token and display it:
@@ -311,7 +310,7 @@ If you are receiving a 401 Unauthorized response calling the API, check your fun
 
 e.g.
 
-```
+```js
 public async Task<IActionResult> Location(
         [HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = null)] HttpRequest req)
 ```
