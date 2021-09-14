@@ -14,19 +14,19 @@ tags:
   - peloton
 ---
 
-I recently purchased a Peloton Bike+ and was amazed by the amount of raw statistics. It is ideal to integrate into other data repositories ([including my stats page](/stats)) to showcase my recent activity.
+I recently purchased a Peloton Bike+ and was amazed by the amount of raw statistics. It makes an ideal candidate for data integration ([including my stats page](/stats)) to showcase recent activity.
 
 I'll be using javascript/react/gatsby to demonstrate how it was achieved.
 
 ## Peloton API
 
-The Peloton API isn't documented in an official capacity (although there have been some attempts by third parties). To understand what is possible requires using the browser's devtools on their member's website.
+The Peloton API isn't documented in an official capacity (although there have been some [attempts by third parties](https://app.swaggerhub.com/apis/DovOps/peloton-unofficial-api/0.2.3)). To understand what is possible requires using browser devtools on their member website.
 
 ![Peloton DevTools](./devtools.png)
 
 ### Authentication Token
 
-Any API call requires an authentication token. This can be accessed as follows (remember to use secrets for your username/password and don't store in code):
+Any API call requires an authentication token. This can be accessed as follows:
 
 ```javascript
 const body = {
@@ -41,6 +41,8 @@ const response = await fetch('https://api.onepeloton.com/auth/login', {
 })
 ```
 
+> Remember to use secrets for your username/password and don't store in code!
+
 A successful authentication will return an object as follows:
 
 ```javascript
@@ -50,13 +52,13 @@ const authData = {
 }
 ```
 
-You'll use the session_id as a header in future API calls. The user_id is a unique identifier that is used for API paths.
+You'll use session_id as a header in future API calls and user_id as a unique identifier for API paths.
 
 ### Example API call
 
-Once you have the authentication token established (session_id), you will be able to call other API methods.
+Once you have the authentication token established (session_id), you can call API methods.
 
-The following code calls the overview method which returns information about the logged in user.
+The following code calls the overview method which returns the current user's workout information.
 
 ```javascript
 const opts = {
@@ -81,11 +83,11 @@ A full list of methods can be found at:
 
 ## Gatsby Integration
 
-Gatsby is a wonderful framework for integration due to GraphQL. This allows you to integrate many different data sources into the graph and have one query language for access.
+Gatsby is a wonderful framework for integration due to GraphQL. This allows integration from many different data sources into a single graph with one query language for access.
 
-### Gatsby sourceNodes
+### Gatsby Source Nodes
 
-Integration to the Peloton API can be configured in gatsby-node.js. The **sourceNodes** extension point allows a hook to source additional nodes into the graph. Perfect for an API.
+Integration to the Peloton API can be configured in **gatsby-node.js**. The **sourceNodes** extension point allows a hook to source additional nodes into the graph -- perfect for an API.
 
 ```javascript
 exports.sourceNodes = async ({
@@ -135,21 +137,89 @@ exports.sourceNodes = async ({
 }
 ```
 
-If you visit the GraphQL interface shipping with Gatsby (http://localhost:8000/\_\_\_graphql), you'll see our new **allWorkoutCount** node.
+If you visit the GraphQL interface shipped with Gatsby (http://localhost:8000/\_\_\_graphql), you'll see the new **allWorkoutCount** node.
 
 ![Gatsby GraphQL](./graphql.png)
 
-The documentation for Gatsby nodes is here:
+More documentation for Gatsby nodes can be found here:
 
 - https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/#sourceNodes
 
+## Gatsby/React Integration
+
+Once the nodes are in GraphQL, they can be integrated into a React component as follows (queries are mapped into props):
+
+```js
+import React from 'react'
+import { graphql } from 'gatsby'
+
+import Layout from '../components/layout'
+import Wrapper from '../components/Wrapper'
+import SEO from '../components/SEO'
+import Statistics from '../components/Statistics'
+
+class Stats extends React.Component {
+  render() {
+    const workoutCounts = this.props.data.workoutCounts.nodes
+
+    return (
+      <Layout location={this.props.location}>
+        <SEO title="My Peloton Stats" />
+        <Wrapper>
+          <Statistics workoutCounts={workoutCounts} />
+        </Wrapper>
+      </Layout>
+    )
+  }
+}
+
+export default Stats
+
+export const pageQuery = graphql`
+  query statQuery {
+    workoutCounts: allWorkoutCount {
+      nodes {
+        id
+        name
+        count
+        icon_url
+        slug
+      }
+    }
+  }
+`
+```
+
+The full source can be found [here](https://github.com/sjmcculloch/smblogv2).
+
+## Daily Schedule
+
+Since statistics are generated on an ongoing basis, I wanted the statistics to be updated daily.
+
+This site is hosted on Azure Static Websites with a CI/CD pipeline using Github Actions. My github actions workflow only required a small extension using schedule:
+
+```yml
+name: Azure Static Web Apps CI/CD
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+    branches:
+      - master
+  schedule:
+    - cron: '0 8 * * *'
+```
+
 ## The End Result
 
-As you can see by the stats page, the integration to Peloton is straight forward:
+As you can see by the [stats page](/stats), the integration to Peloton is relatively straight forward:
 
 - Retrieve an authentication token
-- Call API
-- Build nodes in Gatsby based on Peloton data
+- Call a Peloton API method
+- Build nodes in Gatsby based on API data
 - Query GraphQL in React components
 - Modify github action yml file to trigger daily
 
