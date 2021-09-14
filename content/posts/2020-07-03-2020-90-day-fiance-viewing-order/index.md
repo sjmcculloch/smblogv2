@@ -1,6 +1,6 @@
 ---
 title: 90 Day Fiancé Viewing Order in 2021
-slug: 2020-90-day-fiance-viewing-order
+slug: 2021-90-day-fiance-viewing-order
 date: 2021-07-28
 
 # optional fields
@@ -8,7 +8,7 @@ published: true
 generate-card: true
 language: en
 cover: ./90-day-fiance.png
-imageShare: ./2020-90-day-fiance-viewing-order-share.png
+imageShare: ./2021-90-day-fiance-viewing-order-share.png
 tags:
   - tv
 ---
