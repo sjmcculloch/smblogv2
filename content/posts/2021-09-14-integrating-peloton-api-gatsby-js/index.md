@@ -14,13 +14,13 @@ tags:
   - peloton
 ---
 
-I recently purchased a Peloton Bike+ and was amazed by the amount of raw statistics. It makes an ideal candidate for data integration ([including my stats page](/stats)) to showcase recent activity.
+I recently purchased a Peloton Bike+ and was amazed by the amount of raw statistics. It makes an ideal candidate for data integration ([checkout my stats page](/stats)) to showcase recent activity.
 
 I'll be using javascript/react/gatsby to demonstrate how it was achieved.
 
 ## Peloton API
 
-The Peloton API isn't documented in an official capacity (although there have been some [attempts by third parties](https://app.swaggerhub.com/apis/DovOps/peloton-unofficial-api/0.2.3)). To understand what is possible requires using browser devtools on their member website.
+The Peloton API isn't documented in an official capacity (although there have been some [attempts by third parties](https://app.swaggerhub.com/apis/DovOps/peloton-unofficial-api/0.2.3)). To understand what is possible requires using browser devtools on their member website to sniff out API calls.
 
 ![Peloton DevTools](./devtools.png)
 
@@ -47,18 +47,16 @@ A successful authentication will return an object as follows:
 
 ```javascript
 const authData = {
-  session_id: 'my-username',
-  user_id: 'my-password',
+  session_id: 'random-session-id',
+  user_id: 'unique-user-id',
 }
 ```
 
-You'll use session_id as a header in future API calls and user_id as a unique identifier for API paths.
+You'll use **session_id** as a header in API calls and **user_id** as a unique identifier for API paths.
 
 ### Example API call
 
-Once you have the authentication token established (session_id), you can call API methods.
-
-The following code calls the overview method which returns the current user's workout information.
+The following code calls the overview method which returns the current user's workout information. It passes in the session_id in the header.
 
 ```javascript
 const opts = {
@@ -75,7 +73,7 @@ const responseOverview = await fetch(
 const overviewData = await responseOverview.json()
 ```
 
-> Important: methods on the Peloton API require that you pass **peloton-platform** in the header.
+> note: methods on the Peloton API require that you pass **peloton-platform** in the header.
 
 A full list of methods can be found at:
 
@@ -147,7 +145,7 @@ More documentation for Gatsby nodes can be found here:
 
 ## Gatsby/React Integration
 
-Once the nodes are in GraphQL, they can be integrated into a React component as follows (queries are mapped into props):
+Once the nodes are in GraphQL they can be integrated into a React component as follows (queries are mapped into props):
 
 ```js
 import React from 'react'
@@ -190,13 +188,13 @@ export const pageQuery = graphql`
 `
 ```
 
-The full source can be found [here](https://github.com/sjmcculloch/smblogv2).
+The full source on this blog can be found [here](https://github.com/sjmcculloch/smblogv2).
 
 ## Daily Schedule
 
-Since statistics are generated on an ongoing basis, I wanted the statistics to be updated daily.
+Since statistics are generated on an ongoing basis, I wanted the statistics to be updated daily (not just on a pull request or push to master).
 
-This site is hosted on Azure Static Websites with a CI/CD pipeline using Github Actions. My github actions workflow only required a small extension using schedule:
+This site is hosted on Azure Static Websites with a CI/CD pipeline using Github Actions. My github actions workflow only required a small extension using schedule (running at 8am daily):
 
 ```yml
 name: Azure Static Web Apps CI/CD
