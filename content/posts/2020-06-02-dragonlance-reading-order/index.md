@@ -1,7 +1,7 @@
 ---
 title: Recommended Dragonlance Reading Order
 slug: dragonlance-reading-order
-date: 2020-06-02
+date: 2021-09-17
 
 # optional fields
 published: true
@@ -15,9 +15,13 @@ tags:
   - dragonlance
 ---
 
-There are over 160 novels based on the Dragonlance world. I've collated various guides and made my own adjustments to present a recommended reading order for the classic era of Dragonlance. The focus is the **Heroes of the Lance** as they are the gateway into the world of Krynn, a [reading order by character](/dragonlance-reading-order-by-character) has also been created.
+There are over 160+ novels based on the Dragonlance world. I've collated various guides and made my own adjustments to present a recommended reading order for Dragonlance.
 
-## Start Here - Chronicles
+The great thing about Dragonlance is after reading the **core novels**, you can go anywhere, to the recent past to learn more about the **Companions of the Lance**, to the distant past exploring world shaping events like the cataclysm or to future events of the next generation.
+
+## Essential Reading Path
+
+> Chronicles cover the War of the Lance, the cornerstone of Dragonlance.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -55,7 +59,7 @@ When dragons invade the land, a small band of heroes, including a knight, barbar
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -72,8 +76,6 @@ Finally armed with dragonlances, a group of heroes, composed of a knight, barbar
 </div>
 
 </div>
-
-## Legends
 
 > Shortly after the War of the Lance, this series continues the journey of Raistlin and Caramon.
 
@@ -131,9 +133,7 @@ Caramon must travel back and forth in time in order to save the world from his t
 
 </div>
 
-## The Lost Chronicles
-
-> These novels fill in the story between chronicle novels and cover events behind the scenes.
+> The lost chronicles cover the background events of the War of the Lance.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -189,23 +189,22 @@ Raistlin Majere, a Black Robe wizard, must battle his sister, Kitiara, and her t
 
 </div>
 
-## The Raistlin Chronicles
-
-> The original chronicles & legends series is primarily the story of Raistlin. I've included these prequels early for completeness.
+> Novels concerning the Chaos War and the next generation of heroes.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: Soulforge](./soulforge.jpg)
+![Dragonlance: Second Generation](./second-generation.jpg)
 
 </div>
 
 <div style={{ padding: '10px'}}>
 
-### Soulforge
+### The Second Generation ⭐
 
-The story of Raistlin and Caramon's youth, of their mother and father and wayward half-sister Kitiara. Life-long friendships are forged in peacetime - Solace with the would-be knight Sturm, Flint Fireforge, half-elf Tanis, and kender Tasslehoff.
+Years have passed since the end of the War of the Lance. The people of Ansalon have rebuilt their lives, their houses, their families. The Companions of the Lance, too, have returned to their homes, raising children and putting the days of their heroic deeds behind them.
+But peace on Krynn comes at a price. The forces of darkness are ever vigilant, searching for ways to erode the balance of power and take control.
 
 </div>
 
@@ -215,37 +214,36 @@ The story of Raistlin and Caramon's youth, of their mother and father and waywar
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: Brothers in Arms](./brothers-in-arms.jpg)
+![Dragonlance: Dragons of Summer Flame](./summer-flame.jpg)
 
 </div>
 
 <div style={{ padding: '10px'}}>
 
-### Brothers in Arms
+### Dragons of Summer Flame ⭐
 
-In the fiery siege of the city of Hope’s End the young mage Raistlin must leave behind his ideals to save himself and his brother. Yet as Raistlin and Caramon train as mercenaries, far away another soul is forged in the heat of battle. Another path is chosen, and a future dragon highlord begins her rise to power. She is Kitiara Uth Matar, the twins’ half sister.
-
-</div>
+Summer has come to Krynn, a summer unlike any before. The sun bears down on land and sea, searing the world with relentless light and heat. Clouds and rain are nowhere to be found, and even the darkness of night brings little relief from the strange and oppressive day.
 
 </div>
 
-## Tales I
+</div>
 
-> Short stories surrounding the heroes of the lance and their children.
+> Core fifth age novels set after the Chaos War.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: The Magic of Krynn](./the-magic-of-krynn.jpg)
+![Dragonlance: The Dawning of a New Age](./the-dawning-of-a-new-age.jpg)
 
 </div>
 
 <div style={{ padding: '10px'}}>
 
-### The Magic of Krynn
+### The Dawning of a New Age
 
-Containing nine superlative short stories and the novella "The Magic of Krynn" by "New York Times" bestselling authors Weis and Hickman, this collection boasts all of the strange creatures and races of Krynn, with appearances by the original Companions of the Lance.
+The Summer of Chaos has ended. Ansalon's nightmare has only just begun.
+The gods have departed the world, heralding a new Age of Mortals. But before the dust of war can settle, vast shadows cover the land. Dragons have come to Ansalon, larger and more powerful than any ever seen, and they will wreak havoc on nations still trembling from war. As the lands themselves begin to change under the dire magic of the new dragon overlords, new heroes arise to lead the fight for freedom.
 
 </div>
 
@@ -255,15 +253,73 @@ Containing nine superlative short stories and the novella "The Magic of Krynn" b
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: Kender, Gully Dwarves and Gnomes](./kender-gully-dwarves-and-gnomes.jpg)
+![Dragonlance: The Day of the Tempest](./the-day-of-the-tempest.jpg)
 
 </div>
 
 <div style={{ padding: '10px'}}>
 
-### Kender, Gully Dwarves and Gnomes
+### The Day of the Tempest
 
-It includes stories by some of the best-loved authors writing in the Dragonlance world, including a novella by New York Times best-selling authors and Dragonlance setting co-creators Margaret Weis and Tracy Hickman.
+The Summer of Chaos has ended.
+Ansalon's nightmare has only just begun. The gods have departed the world, heralding a new Age of Mortals. But before the dust of war can settle, vast shadows cover the land. Dragons have come to Ansalon, larger and more powerful than any ever seen, and they will wreak havoc on nations still trembling from war. As the lands themselves begin to change under the dire magic of the new dragon overlords, new heroes arise to lead the fight for freedom.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Eve of the Maelstrom](./the-eve-of-the-maelstrom.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Eve of the Maelstrom
+
+The Summer of Chaos has ended.
+Ansalon's nightmare has only just begun. The gods have departed the world, heralding a new Age of Mortals. But before the dust of war can settle, vast shadows cover the land. Dragons have come to Ansalon, larger and more powerful than any ever seen, and they will wreak havoc on nations still trembling from war. As the lands themselves begin to change under the dire magic of the new dragon overlords, new heroes arise to lead the fight for freedom.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Downfall](./downfall.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Downfall
+
+A one-time Hero of the Heart, Dhamon Grimwulf has descended into a life of crime, bitterness, and squalor, but as the dragon overlords of the Fifth Age plot to destroy their enemies, he, with the help of his former comrades, must redeem himself from his self-destructive life.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Betrayal](./betrayal.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Betrayal
+
+How much is an act of betrayal worth?
+Worth the price of a soul?
+Dhamon Grimwulf and his band of mercenaries greedily eye a long-forgotten treasure concealed beneath a grassy plain. Legends promise riches too numerous to count, wealth too grand to be believed. But in a shifting world of secrets and deception, such fortune comes at a high price, higher even than the searing agony Dhamon suffers under the curse of a dragon's scale.
 
 </div>
 
@@ -273,37 +329,35 @@ It includes stories by some of the best-loved authors writing in the Dragonlance
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: Love and War](./love-and-war.jpg)
+![Dragonlance: Redemption](./redemption.jpg)
 
 </div>
 
 <div style={{ padding: '10px'}}>
 
-### Love and War
+### Redemption
 
-The legend of Raistlin's daughter! For the first time, Caramon, the surviving twin of the enigmatic and powerful mage, tells one of the strangest and best-loved tales in all of Krynn. Plus, immerse yourself in nine additional exciting short stories-tales of chivalry and affection, heroic quests and foul villainy, magic in battle and transcendent defeat-featuring all the beloved companions and fantastic creatures of the best-selling Dragonlance Saga.
-
-</div>
+The third and final title in the Dhamon Saga.. This title ties up the story of a character first introduced in popular Dragonlance saga author Jean Rabe's Dragons of a New Age trilogy.
 
 </div>
 
-## Tales II
+</div>
 
-> More short stories that delve into past events that impacted the world Krynn.
+> Novels concerning the Age of Mortals
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: The Reign of Istar](./the-reign-of-istar.jpg)
+![Dragonlance: Dragons of a Fallen Sun](./dragons-of-a-fallen-sun.jpg)
 
 </div>
 
 <div style={{ padding: '10px'}}>
 
-### The Reign of Istar
+### Dragons of a Fallen Sun
 
-This collection of tales is edited by the creators of the Dragonlance mythology. The Reign of Istar contains a number of short stories by popular Dragonlance authors as well as a novella by Weis and Hickman.
+The people of Krynn have known war in past ages. Some are still alive who remember the triumph of good at the conclusion of the War of the Lance. Still more remember the devastation of the Chaos War, which ended the Fourth Age of the world.
 
 </div>
 
@@ -313,15 +367,53 @@ This collection of tales is edited by the creators of the Dragonlance mythology.
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: The Cataclysm](./the-cataclysm.jpg)
+![Dragonlance: Dragons of a Vanished Moon](./dragons-of-a-vanished-moon.jpg)
 
 </div>
 
 <div style={{ padding: '10px'}}>
 
-### The Cataclysm
+### Dragons of a Vanished Moon
 
-The Kingpriest's arrogance brings the wrath of the gods upon Krynn. The result is the Cataclysm -- chaos and anarchy, despair and villainy . . . and inspiring heroism.
+The flames of war devour Ansalon. The army of dead souls marches toward conquest, led by the mystical warrior Mina, who serves the powerful One God.
+
+A small band of heroes, driven to desperate measures, leads the fight against overwhelming odds.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Amber and Ashes](./amber-and-ashes.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Amber and Ashes
+
+A new trilogy from Dragonlance setting co-creator Margaret Weis takes up where the War of Souls series left off with the central character Mina. While following her story, this new trilogy also explores the chaos that is post-war Krynn. This is Weis’s first solo trilogy in the Dragonlance world.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Amber and Iron](./amber-and-iron.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Amber and Iron
+
+The world of Krynn is ever changing, and even the gods can be taken by surprise. And if that's true of the gods, what chance can a mere mortal have? Caught up in forces none of them could hope to face alone, a small but determined band of adventurers come together in a desperate attempt to stop an invasion.
 
 </div>
 
@@ -331,23 +423,27 @@ The Kingpriest's arrogance brings the wrath of the gods upon Krynn. The result i
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: The War of the Lance](./the-war-of-the-lance.jpg)
+![Dragonlance: Amber and Blood](./amber-and-blood.jpg)
 
 </div>
 
 <div style={{ padding: '10px'}}>
 
-### The War of the Lance
+### Amber and Blood
 
-The world of Krynn is caught in the grips of a terrible war between the minions of Takhisis, Queen of Darkness, and the followers of Paladine and the gods of good. Dragons, both foul and fair, clash in the skies, and a small band of friends who will one day be known as the Heroes of the Lance, strive for freedom and honor.
-
-</div>
+The Dark Disciple's fate will alter the future of Krynn. In the concluding volume of this post-War of Souls trilogy, Mina learns the truth about herself and the terrible knowledge drives her insane. Rhys, the monk of Majere, accompanied by his dog Atta and the kender Nightshade, is given the dangerous assignment of guarding the crazed god, escorting her on a long, strange journey to the mysterious place known as Godshome, where Mina hopes to find the answer to the riddle of her existence.
 
 </div>
 
-## Preludes
+</div>
 
-> Stories about the companions set before the War of the Lance.
+## Congratulations! End of Essential Reading!
+
+Now your reading journey is where you want to take it. I've grouped some of my favourite novels into themes. These can be read in any order.
+
+## Recent Past - Heroes of the Lance
+
+> Novels about the companions set before the War of the Lance.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -457,9 +553,7 @@ First launched over a decade ago, the Preludes series has continued to prove pop
 
 </div>
 
-## Meetings Sextet
-
-> Stories of how the heroes of the lance first meet.
+> Novels about how the Heroes of the Lance first meet.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -569,10 +663,448 @@ Caramon, Sturm, and Tasslehoff, on an innocent ship's errand, are blown thousand
 
 </div>
 
+> Want more Raistlin & Caramon? These novels explore their youth.
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Soulforge](./soulforge.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Soulforge
+
+The story of Raistlin and Caramon's youth, of their mother and father and wayward half-sister Kitiara. Life-long friendships are forged in peacetime - Solace with the would-be knight Sturm, Flint Fireforge, half-elf Tanis, and kender Tasslehoff.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Brothers in Arms](./brothers-in-arms.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Brothers in Arms
+
+In the fiery siege of the city of Hope’s End the young mage Raistlin must leave behind his ideals to save himself and his brother. Yet as Raistlin and Caramon train as mercenaries, far away another soul is forged in the heat of battle. Another path is chosen, and a future dragon highlord begins her rise to power. She is Kitiara Uth Matar, the twins’ half sister.
+
+</div>
+
+</div>
+
+> Individual novels of figures in the recent past.
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Maquesta Kar-Thon](./maquesta-kar-thon.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Maquesta Kar-Thon
+
+At 18, Maquesta Kar-Thon captains the Perechon to save her father. The minotaur lord Attat poisoned him, and withholds the antidote until she captures the deadly sea monster Morkoth for his private zoo. Attat sends along renegade minotaur Bas Ohn-Koraf and shadowperson warrior Ilyatha to fight pirates, Blood Sea imps, kuo-toa, and a skeptical crew.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Theros Ironfield](./theros-ironfield.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Theros Ironfield
+
+As a young boy, Theros Ironfeld was captured and pressed to service under the minotaurs. As a man, he first fought draconians to a standstill in Solace, and later, by mysterious means, acquired a silver arm. And when the evil dragons came to conquer, he was the only man who could forge the fabled dragonlances necessary to defeat them.
+
+</div>
+
+</div>
+
+## Distant Past
+
+> Heroic tales of Huma and his faithful companion, Kaz the minotaur.
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Legend of Huma](./the-legend-of-huma.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Legend of Huma
+
+"To the West Huma rode, to the High Clerist's Tower,
+On the back of the Silver Dragon
+And the path of their flight crossed over a desolate country
+where the dead walked only, mouthing the names of dragons."
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Kaz the Minotaur](./kaz-the-minotaur.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Kaz the Minotaur
+
+After the death of the legendary knight Huma, Kaz, a renegade minotaur, wanders the land of Ansalon, hunted by his own kin for escaping the servitude of the Dark Queen and by the Knights of Solamnia, his former comrades, who have declared him an outlaw.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Land of the Minotaurs](./land-of-the-minotaurs.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Land of the Minotaurs
+
+Throughout the time of Krynn, one race has remained strong in its pride and beliefs. The minotaurs envision themselves as the children of destiny, the future masters of the world. Despite adversity, defeat, and enslavement, that belief has never wavered.
+
+</div>
+
+</div>
+
+> The history of the Dwarven clans and the founding of Thorbardin.
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Covenant of the Forge](./the-covenant-of-the-forge.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Covenant of the Forge
+
+Explores the folklore and history of the dwarven clans of Krynn through the bickering clans' reconciliation and the construction of the legendary Thorbardin.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Hammer and Axe](./hammer-and-axe.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Hammer and Axe
+
+When the humans of Ergoth threaten Thorbardin, the clans of Thorbardin are drawn into territorial wars between humans and elves.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Swordsheath Scroll](./the-swordsheath-scroll.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Swordsheath Scroll
+
+Despite the stubborn courage of dwarven warriors, the protracted Wilderness War ends as a no-win. The Swordsheath Scroll is signed, and Thorbardin shows its support of the open-minded Qualinesti elves by joining in the construction of magnificent Pax Tharkas.
+
+</div>
+
+</div>
+
+> The history of the elven nations.
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Firstborn](./firstborn.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Firstborn
+
+Explores the folklore and history of the dwarven clans of Krynn through the bickering clans' reconciliation and the construction of the legendary Thorbardin.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Kinslayer Wars](./the-kinslayer-wars.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Kinslayer Wars
+
+Kith-Kanan is torn between his love for a human woman with a mysterious background and his loyalty toward his brother and rival, Sithas, ruler of the Silvanesti elves, who has declared war on the humans of Ergoth.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Qualinesti](./the-qualinesti.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Qualinesti
+
+When Kith-Kanan of Qualinost, a society of renegade elves, is appointed Speaker of the Suns, his triumph is marred by memories of past failures, his unfaithful wife, and the strange behavior of his successor, his son.
+
+</div>
+
+</div>
+
+> The story of the Kingpriest of Istar.
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Chosen of the Gods](./chosen-of-the-gods.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Chosen of the Gods
+
+After the Kingpriest fortells his own death, dark forces converge on the Temple and a priestess of the god Paladine enters on a quest to find the Lightbringer, chosen by the gods to bring light to battle the coming darkness.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Divine Hammer](./divine-hammer.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Divine Hammer
+
+Twenty years have passed since Beldinas the Kingpriest assumed the throne. His is a realm of unsurpassed grandeur and wealth, a testament to the mightiest age of the empire of Istar.
+But evil exists in this great realm, threatening the peace and sanctity of the province. Beldinas must turn to his most loyal lieutenant, Cathan, for help. Following Cathan's lead, the Knights of the Divine Hammer strive to extinguish a foul sorcery that will stop at nothing to serve its own dark ends.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Sacred Fire](./sacred-fire.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Divine Hammer
+
+As Beldinas, the Kingpriest of Istar, approaches victory in his long war against the forces of evil, his long-lost hero, Cathan Twice-Born, a one-time Kingpriest's champion, returns, seeking the meaning of a fateful dark vision of a burning hammer.
+
+</div>
+
+</div>
+
+> Individual novels on figures from the distant past.
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Lord Soth](./lord-soth.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Lord Soth
+
+There once was a mighty warrior whose jealous passions and neglect of duty led him to lose all that was dear to him--his love, his life, his very spirit. His tale is a descent into darkness and evil.
+
+His name was Lord Soth, and this is his story.
+
+</div>
+
+</div>
+
+## Short Stories
+
+> Tales surrounding the heroes of the lance and the races of Krynn.
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Magic of Krynn](./the-magic-of-krynn.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Magic of Krynn
+
+Containing nine superlative short stories and the novella "The Magic of Krynn" by "New York Times" bestselling authors Weis and Hickman, this collection boasts all of the strange creatures and races of Krynn, with appearances by the original Companions of the Lance.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Kender, Gully Dwarves and Gnomes](./kender-gully-dwarves-and-gnomes.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Kender, Gully Dwarves and Gnomes
+
+It includes stories by some of the best-loved authors writing in the Dragonlance world, including a novella by New York Times best-selling authors and Dragonlance setting co-creators Margaret Weis and Tracy Hickman.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Love and War](./love-and-war.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Love and War
+
+The legend of Raistlin's daughter! For the first time, Caramon, the surviving twin of the enigmatic and powerful mage, tells one of the strangest and best-loved tales in all of Krynn. Plus, immerse yourself in nine additional exciting short stories-tales of chivalry and affection, heroic quests and foul villainy, magic in battle and transcendent defeat-featuring all the beloved companions and fantastic creatures of the best-selling Dragonlance Saga.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Reign of Istar](./the-reign-of-istar.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Reign of Istar
+
+This collection of tales is edited by the creators of the Dragonlance mythology. The Reign of Istar contains a number of short stories by popular Dragonlance authors as well as a novella by Weis and Hickman.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Cataclysm](./the-cataclysm.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Cataclysm
+
+The Kingpriest's arrogance brings the wrath of the gods upon Krynn. The result is the Cataclysm -- chaos and anarchy, despair and villainy . . . and inspiring heroism.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The War of the Lance](./the-war-of-the-lance.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The War of the Lance
+
+The world of Krynn is caught in the grips of a terrible war between the minions of Takhisis, Queen of Darkness, and the followers of Paladine and the gods of good. Dragons, both foul and fair, clash in the skies, and a small band of friends who will one day be known as the Heroes of the Lance, strive for freedom and honor.
+
+</div>
+
+</div>
+
 ## Conclusion
 
-I've tried to cover the novels that primarily concern the heroes of the lance, their origins and further adventures. Many other books in the Dragonlance universe cover everything from the cataclysm, Solamnic Knights and legendary heroes of the past (Huma).
-
-You can find a complete list on [wikipedia](https://en.wikipedia.org/wiki/List_of_Dragonlance_novels).
+I'll be updating this list overtime as I read more Dragonlance novels. If you have any suggestions, drop a comment below.
 
 ![Dragonlance: Heroes of the Lance](./companions-of-the-lance.jpg)
