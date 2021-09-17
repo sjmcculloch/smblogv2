@@ -721,7 +721,7 @@ At 18, Maquesta Kar-Thon captains the Perechon to save her father. The minotaur 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -734,6 +734,80 @@ At 18, Maquesta Kar-Thon captains the Perechon to save her father. The minotaur 
 ### Theros Ironfield
 
 As a young boy, Theros Ironfeld was captured and pressed to service under the minotaurs. As a man, he first fought draconians to a standstill in Solace, and later, by mysterious means, acquired a silver arm. And when the evil dragons came to conquer, he was the only man who could forge the fabled dragonlances necessary to defeat them.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Before the Mask](./before-the-mask.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Before the Mask
+
+In the bleak Khalkist Mountains, on a stormy winter night, a child is born amid hard words, ill will, and the ominous prophecy of a druidess. Young Verminaard grows up unlovely and unloved, trading friends and family for a dark romance with an evil, mysterious voice and the sinister weapon it comes to inhabit.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Emperor of Ansalon](./emperor-of-ansalon.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Emperor of Ansalon
+
+Vast armies surge across Krynn, spreading shadows of evil dragonkind over the land. All these horrific forces follow the commands of one man. . .
+
+Ariakas, the Emperor of Ansalon.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Hederick the Theocrat](./hederick-the-theocrat.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Hederick the Theocrat
+
+Hederick, leader of the Seeker religion in Solace and self-ordained conscience of Krynn, embarks on a terrifying inquisition that threatens all who follow magic and the true gods and allows the forces of evil into the world.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Lord Toede](./lord-toede.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Lord Toede
+
+In the depths of the Abyss, the domain of Takhisis, two dark powers argue over the nature of true nobility. To see if the ignoble can be made noble, they return one of their evil-hearted agents to life. They choose Fewmaster Toede, former ruler of Flotsam, recently dead from dragon fire.
 
 </div>
 
@@ -971,7 +1045,7 @@ As Beldinas, the Kingpriest of Istar, approaches victory in his long war against
 
 > Individual novels on figures from the distant past.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -986,6 +1060,24 @@ As Beldinas, the Kingpriest of Istar, approaches victory in his long war against
 There once was a mighty warrior whose jealous passions and neglect of duty led him to lose all that was dear to him--his love, his life, his very spirit. His tale is a descent into darkness and evil.
 
 His name was Lord Soth, and this is his story.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Black Wing](./the-black-wing.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Black Wing
+
+One score and six years before confronting the Companions in Xak Tsaroth, the black dragon Khisanth is awakened from a centuries-long sleep. The world she had known as a young wyrm is gone, irrevocably changed by the Cataclysm. Now fully grown, she has much to learn about being a dragon in a world where her kind are feared as the villians in stories told to children.
 
 </div>
 
