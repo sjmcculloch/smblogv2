@@ -199,9 +199,6 @@ exports.sourceNodes = async ({
     )
     const overviewData = await responseOverview.json()
 
-    // const responseOverview = await fetch(`https://api.onepeloton.com.au/api/user/6e5f1a1a9d1e43bea656da728d46e783/overview?version=1`, opts)
-    // const myPelotonData = await responseMe.json()
-
     overviewData.workout_counts.workouts.forEach(workoutCount => {
       const newNode = {
         ...workoutCount,
