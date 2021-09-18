@@ -42,7 +42,12 @@ const Statistics = ({ achievements, workoutCounts, workouts }) => {
         <PageTitle>My Peloton Statistics</PageTitle>
         <Content>
           <ContentText>
-            The following are my statistics from the Peloton API.
+            The following are my statistics from the Peloton API. I've also
+            written a short guide on{' '}
+            <a href="/integrating-peloton-api-gatsby-js">
+              Peloton API integration
+            </a>
+            .
           </ContentText>
         </Content>
         <SubTitle>Workout Overview</SubTitle>
