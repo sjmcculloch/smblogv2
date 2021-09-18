@@ -15,7 +15,7 @@ tags:
   - dragonlance
 ---
 
-There are over 160+ novels based on the Dragonlance world. I've collated various guides and made my own adjustments to present a recommended reading order for Dragonlance.
+There are over 180+ novels based on the Dragonlance world. I've collated various guides and made my own adjustments to present a recommended reading order for Dragonlance.
 
 The great thing about Dragonlance is after reading the **core novels**, you can go anywhere, to the recent past to learn more about the **Companions of the Lance**, to the distant past exploring world shaping events like the cataclysm or to future events of the next generation.
 
@@ -189,7 +189,7 @@ Raistlin Majere, a Black Robe wizard, must battle his sister, Kitiara, and her t
 
 </div>
 
-> Novels concerning the Chaos War and the next generation of heroes.
+> The War of the Lance is over and now is the time of the next generation of heroes.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -1078,6 +1078,144 @@ His name was Lord Soth, and this is his story.
 ### The Black Wing
 
 One score and six years before confronting the Companions in Xak Tsaroth, the black dragon Khisanth is awakened from a centuries-long sleep. The world she had known as a young wyrm is gone, irrevocably changed by the Cataclysm. Now fully grown, she has much to learn about being a dragon in a world where her kind are feared as the villians in stories told to children.
+
+</div>
+
+</div>
+
+## Post War of the Lance
+
+> The Chaos War has descended on Krynn, novels surrounding the core events.
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Last Thane](./the-last-thane.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Last Thane
+
+For generations the baser clans of Thorbardin have raged against Hylar, ancestral rulers of the vast underground realm. Now, the finest Hylar army has marched away to face the Knights of Takhisis - and the dark dwarves see their opportunity. Besieged in the Life Tree that is their fortress city, the Hylar struggle to survive. Magic and madness threaten from all sides as Theiwar, Daergar and Klar press the onslaught with bloodthirsty frenzy.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Tears of the Night Sky](./tears-of-the-night-sky.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Tears of the Night Sky ⭐
+
+Crysania, high priestess of the Temple of Paladine, is blind to the beauty of the world but not to the joy of her faith. Lately, though, her communion with the god of light has become distant. Now a mysterious stone has come into her possession. Its power compels her to undertake a merilous quest, accompanied by a strange band of companions.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Puppet King](./the-puppet-king.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Puppet King ⭐
+
+Treason within, war from without.
+Torn asunder by the nightmares of a mad king, the elven realm of Silvanesti has nearly been restored to its former grandeur. But the elf Porthios, returning to his homeland, launches a rebellion against young Gilthas, his own nephew.
+Gilthas's troubles are multiplied by threats from green dragons and from the Knights of Takhisis. Now, with Porthios at his throat, Gilthas must choose between blood and honor.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Reavers of the Blood Sea](./reavers-of-the-blood-sea.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Reavers of the Blood Sea
+
+During the hottest summer in memory, minotaurs fight against the Knights of Takhisis, into whose hands their god Sargonnas has delivered them. In the midst of the conflict, the armies of Chaos plunge into the heart of Ansalon.
+
+Now the minotaur warrior Aryx must unite his people and their enemy, the knights, against the monstrous servants of Chaos. If he succeeds, the two sides may forge a bond that will change Krynn for all time.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Siege of Mt. Nevermind](./the-siege-of-mt-nevermind.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Siege of Mt. Nevermind
+
+A miraculous machine . . . and a nightmare!
+Innova, a young gnomish recluse finds himself in a terrible situation. Tried in a gnomish court for an unfortunate accident and sentenced to spend months at the bottom of Mt. Nevermind tuning gnomeflingers, young Innova makes an incredible discovery. The whole gnomish society is changed by one machine that, unlike any other gnomish invention, makes the entire mountain run like clockwork.
+
+</div>
+
+</div>
+
+> A personal favourite, learn the fate of Draconians after the War of the Lance
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Doom Brigade](./the-doom-brigade.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Doom Brigade
+
+The fearless draconians of the War of the Lance have retired from the field of battle to a pleasant valley in the Kharolis Mountains. Well, it would be pleasant, if it weren’t for some dwarves, whose irritating feuding prevents the draconians from realizing their greatest hope — the ability to continue their doomed race. When the dwarves discover a map leading to a fortune buried in the dwarven kingdom of Thorbardin, the draconians are swept up in a feverish race for treasure.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Draconian Measures](./draconian-measures.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Draconian Measures
+
+The regiment of draconian engineers featured in "The Doom Brigade" seek a safe haven for their precious cargo of young draconians. All they have to do is stay alive. Surely that shouldn't be too hard.
+But Commander Kang puzzles over a sinister mystery. Why are some of his men vanishing? Kang will have to use draconian measures to defeat his foes and save his race. They'd better be enough -- the fate of his entire race hangs in the balance.
 
 </div>
 

@@ -17,7 +17,7 @@ tags:
 
 The **Chaos War** (also known as the second cataclysm) was a series of books in the Dragonlance series. The god Chaos has been freed and has sought to bring an end to all of Ansalon.
 
-The following is a recommended reading order. Before reading any of these novels, you should familiar with the core chronicles mentioned in the [Dragonlance Reading Order](/dragonlance-reading-order).
+The following is a recommended reading order. Before reading any of these novels, you should be familiar with the core chronicles mentioned in the [Dragonlance Reading Order](/dragonlance-reading-order).
 
 > ⭐ means recommended reading.
 

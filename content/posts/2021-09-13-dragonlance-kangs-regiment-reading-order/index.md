@@ -17,6 +17,8 @@ tags:
 
 Kang's Regiment are a Draconian based unit known as the **First Dragonarmy Engineers**. As the War of the Lance ended in defeat for the forces of the Dark Queen, a group of her draconian soldiers left the field of battle and these stories tell of their ongoing struggle for survival.
 
+Before reading any of these novels, you should be familiar with the core chronicles mentioned in the [Dragonlance Reading Order](/dragonlance-reading-order).
+
 ## Chronological Order
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>

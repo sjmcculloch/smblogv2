@@ -17,7 +17,9 @@ tags:
 
 Recently I've been re-learning Spellfire, a Dungeons & Dragons CCG from the 90s. I've detailed the gameplay and mechanics [here](/remembering-spellfire-ccg-rules-gameplay).
 
-As a Dragonlance fan, here is a 60 card deck you can use:
+I'm also a big Dragonlance fan, check out my [Dragonlance Reading Order](/dragonlance-reading-order).
+
+Here is a 60 card Dragonlance deck you can use:
 
 ## Champions (9 Cards)
 
