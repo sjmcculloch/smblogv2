@@ -47,7 +47,7 @@ Though Drizzt is still reeling from the death of his barbarian friend, he is all
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -62,6 +62,24 @@ Though Drizzt is still reeling from the death of his barbarian friend, he is all
 The conflict between the drow of the Underdark and the dwarves of Mithral Hall comes to a head
 
 While Mithral Hall teems with whispers of the war to come, chaos erupts both above and below ground. On the surface of Faerûn, the first signs of the Time of Troubles make themselves known, forcing deities to assume their mortal forms. Beneath them in the Underdark, all but one drow house has lost their magical powers, and Lolth has handed the reins of leadership over to the demon Errtu.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Passage to Dawn](./passage-to-dawn.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Passage to Dawn
+
+It has been six years since the fateful Battle of Mithral Hall; six long years during which Drizzt Do’Urden and Catti-brie have been away from the only place they ever truly felt at home. The pain of a lost companion still weighs heavily on their strong shoulders, but chasing pirates aboard Captain Deudermont's Sea Sprite has been enough to draw their attention away from their grief.
 
 </div>
 
