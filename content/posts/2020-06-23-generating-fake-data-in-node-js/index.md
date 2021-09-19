@@ -22,13 +22,13 @@ The package is called **Faker**, a useful utility for generating sample data for
 
 To install on Node:
 
-```
+```bash
 npm install faker
 ```
 
 To generate fake data:
 
-```
+```js
 var faker = require('faker');
 
 var randomName = faker.name.findName();
