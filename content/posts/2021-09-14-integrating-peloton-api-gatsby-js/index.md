@@ -8,7 +8,7 @@ published: true
 generate-card: true
 language: en
 cover: ./cover.png
-imageShare: ./dragonlance-chaos-war-reading-order-share.png
+imageShare: ./integrating-peloton-api-gatsby-js-share.png
 tags:
   - fitness
   - peloton
