@@ -239,6 +239,8 @@ exports.sourceNodes = async ({
     )
     const recentWorkouts = await responseWorkoutData.json()
 
+    console.log(recentWorkouts)
+
     recentWorkouts.data
       .sort((a, b) => (a.startTime > b.startTime ? -1 : 1))
       .map(workout => ({
