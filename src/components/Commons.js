@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { createGlobalStyle } from 'styled-components'
 import { Link as GatsbyLink } from 'gatsby'
+import { colors } from '../tokens'
 
 export const GlobalStyle = createGlobalStyle`
 * {
@@ -58,6 +59,14 @@ export const StyledLink = styled(GatsbyLink)`
 export const Text = styled.p`
   line-height: 1.6;
   margin: 1em 0 0 0;
+
+  & a {
+    box-shadow: 0 2px 0 0 ${colors.links};
+  }
+  & a:hover {
+    filter: brightness(150%);
+    box-shadow: none;
+  }
 `
 
 export const Bull = styled.span`

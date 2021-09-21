@@ -20,7 +20,7 @@ I'll be using javascript/react/gatsby to demonstrate how it was achieved.
 
 ## Peloton API
 
-The Peloton API isn't documented in an official capacity (although there have been some [attempts by third parties](https://app.swaggerhub.com/apis/DovOps/peloton-unofficial-api/0.2.3)). To understand what is possible requires using browser devtools on their member website to sniff out API calls.
+The Peloton API isn't documented in an official capacity (although there have been some [attempts by third parties](https://app.swaggerhub.com/apis/DovOps/peloton-unofficial-api/0.3.0)). To understand what is possible requires using browser devtools on their member website to sniff out API calls.
 
 ![Peloton DevTools](./devtools.png)
 
@@ -67,7 +67,7 @@ const opts = {
 }
 
 const responseOverview = await fetch(
-  `https://api.onepeloton.com.au/api/user/${authData.user_id}/overview?version=1`,
+  `https://api.onepeloton.com/api/user/${authData.user_id}/overview?version=2`,
   opts
 )
 const overviewData = await responseOverview.json()
@@ -77,7 +77,7 @@ const overviewData = await responseOverview.json()
 
 A full list of methods can be found at:
 
-- https://app.swaggerhub.com/apis/DovOps/peloton-unofficial-api/0.2.3.
+- https://app.swaggerhub.com/apis/DovOps/peloton-unofficial-api/0.3.0.
 
 ## Gatsby Integration
 
