@@ -15,9 +15,9 @@ tags:
   - dragonlance
 ---
 
-There are over 180+ novels based on the Dragonlance world. I've collated various guides and made my own adjustments to present a recommended reading order for Dragonlance.
+There are over 180+ novels based on the Dragonlance world. Presented is an **essential reading path** that will cover the main narrative of Krynn followed by thematic groups of novels.
 
-The great thing about Dragonlance is after reading the **core novels**, you can go anywhere, to the recent past to learn more about the **Companions of the Lance**, to the distant past exploring world shaping events like the cataclysm or to future events of the next generation.
+You don't have to read all of it, you may in fact stop after the lost chronicles and decide to read more about the heroes of the lance. The world of Dragonlance is large and the journey is where you take it.
 
 ## Essential Reading Path
 
@@ -201,7 +201,7 @@ Raistlin Majere, a Black Robe wizard, must battle his sister, Kitiara, and her t
 
 <div style={{ padding: '10px'}}>
 
-### The Second Generation ⭐
+### The Second Generation
 
 Years have passed since the end of the War of the Lance. The people of Ansalon have rebuilt their lives, their houses, their families. The Companions of the Lance, too, have returned to their homes, raising children and putting the days of their heroic deeds behind them.
 But peace on Krynn comes at a price. The forces of darkness are ever vigilant, searching for ways to erode the balance of power and take control.
@@ -220,7 +220,7 @@ But peace on Krynn comes at a price. The forces of darkness are ever vigilant, s
 
 <div style={{ padding: '10px'}}>
 
-### Dragons of Summer Flame ⭐
+### Dragons of Summer Flame
 
 Summer has come to Krynn, a summer unlike any before. The sun bears down on land and sea, searing the world with relentless light and heat. Clouds and rain are nowhere to be found, and even the darkness of night brings little relief from the strange and oppressive day.
 
@@ -1115,7 +1115,7 @@ For generations the baser clans of Thorbardin have raged against Hylar, ancestra
 
 <div style={{ padding: '10px'}}>
 
-### Tears of the Night Sky ⭐
+### Tears of the Night Sky
 
 Crysania, high priestess of the Temple of Paladine, is blind to the beauty of the world but not to the joy of her faith. Lately, though, her communion with the god of light has become distant. Now a mysterious stone has come into her possession. Its power compels her to undertake a merilous quest, accompanied by a strange band of companions.
 
@@ -1133,7 +1133,7 @@ Crysania, high priestess of the Temple of Paladine, is blind to the beauty of th
 
 <div style={{ padding: '10px'}}>
 
-### The Puppet King ⭐
+### The Puppet King
 
 Treason within, war from without.
 Torn asunder by the nightmares of a mad king, the elven realm of Silvanesti has nearly been restored to its former grandeur. But the elf Porthios, returning to his homeland, launches a rebellion against young Gilthas, his own nephew.

@@ -1,11 +1,11 @@
-import React from "react"
-import { graphql } from "gatsby"
-import Layout from "../components/layout"
-import Wrapper from "../components/Wrapper"
-import Article from "../components/Article"
-import PrevNextPost from "../components/PrevNextPost"
-import SEO from "../components/SEO"
-import Disqus from "../components/Disqus"
+import React from 'react'
+import { graphql } from 'gatsby'
+import Layout from '../components/layout'
+import Wrapper from '../components/Wrapper'
+import Article from '../components/Article'
+import PrevNextPost from '../components/PrevNextPost'
+import SEO from '../components/SEO'
+import Webmentions from '../components/Webmentions'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -30,7 +30,11 @@ class BlogPostTemplate extends React.Component {
         </Wrapper>
 
         <Wrapper>
-          <Disqus slug={post.frontmatter.slug} title={post.frontmatter.title} />
+          <Webmentions
+            slug={post.frontmatter.slug}
+            title={post.frontmatter.title}
+            redditPostId={post.frontmatter.redditPostId}
+          />
         </Wrapper>
 
         {/* <Wrapper> */}

@@ -1,53 +1,54 @@
 import React from 'react'
 import styled from 'styled-components'
 import { createGlobalStyle } from 'styled-components'
-import { Link } from 'gatsby'
-import { colors } from '../tokens'
+import { Link as GatsbyLink } from 'gatsby'
 
 export const GlobalStyle = createGlobalStyle`
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  transition: background 1s ease;
 }
-
 body {
   font-family: "Lato", sans-serif;
-  color: ${colors.text};
-  background-color: ${colors.background};
+  color: var(--color-text);
+  background-color: var(--color-siteBackground);
 }
-
 img {
   max-width: 100%;
   height: auto;
   vertical-align: middle;
   border: 0;
 }
-
 a {
   text-decoration: none;
-  color: ${colors.primary};
+  color: var(--color-text);
 }
-
 hr {
   border: 0;
-  border-top: 1px solid ${colors.grey100};
+  border-top: 1px solid var(--color-grey100);
   margin: 50px 0 5px 0;
 }
-
 ul,
 ol {
   padding-left: 2em;
   margin: 1em 0 0 0;
 }
-
 *::selection {
-  background-color: ${colors.backgroundSelection};
+  background-color: var(--color-secondary);
 }
 `
-export const StyledLink = styled(Link)`
-  box-shadow: 0 2px 0 0 ${colors.links};
+export const Link = styled.a`
+  box-shadow: 0 2px 0 0 var(--color-secondary);
+  &:hover {
+    filter: brightness(150%);
+    box-shadow: none;
+  }
+`
 
+export const StyledLink = styled(GatsbyLink)`
+  box-shadow: 0 2px 0 0 var(--color-secondary);
   &:hover {
     filter: brightness(150%);
     box-shadow: none;
@@ -61,7 +62,7 @@ export const Text = styled.p`
 
 export const Bull = styled.span`
   display: inline-block;
-  color: ${colors.postMetadata};
+  color: var(--color-textSecondary);
   margin: 0 4px;
   &::before {
     content: '•';
@@ -70,7 +71,7 @@ export const Bull = styled.span`
 
 const ReadingTimeContainer = styled.span`
   text-transform: uppercase;
-  color: ${colors.postMetadata};
+  color: var(--color-textSecondary);
 `
 
 export const ReadingTime = props => {
