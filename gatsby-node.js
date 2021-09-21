@@ -234,7 +234,7 @@ exports.sourceNodes = async ({
     const pelotonMetaData = await responseMetaData.json()
 
     const responseWorkoutData = await fetch(
-      `https://api.onepeloton.com/api/user/${authData.user_id}/workouts?joins=peloton.ride&limit=10&page=0`,
+      `https://api.onepeloton.com/api/user/${authData.user_id}/workouts?joins=peloton.ride&limit=10&page=0&sort_by=-created`,
       opts
     )
     const recentWorkouts = await responseWorkoutData.json()
