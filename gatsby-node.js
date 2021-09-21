@@ -199,6 +199,8 @@ exports.sourceNodes = async ({
     )
     const overviewData = await responseOverview.json()
 
+    console.log(overviewData)
+
     overviewData.workout_counts.workouts.forEach(workoutCount => {
       const newNode = {
         ...workoutCount,
