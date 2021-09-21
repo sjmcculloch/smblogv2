@@ -29,7 +29,7 @@ class BlogPostTemplate extends React.Component {
           <Article post={post} />
         </Wrapper>
 
-        <Wrapper>
+        <Wrapper as="aside">
           <Webmentions
             slug={post.frontmatter.slug}
             title={post.frontmatter.title}
@@ -37,9 +37,7 @@ class BlogPostTemplate extends React.Component {
           />
         </Wrapper>
 
-        {/* <Wrapper> */}
         <PrevNextPost previous={previous} next={next} />
-        {/* </Wrapper> */}
       </Layout>
     )
   }

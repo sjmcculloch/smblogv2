@@ -7,6 +7,14 @@ import LikeIcon from './icons/like'
 import RetweetIcon from './icons/retweet'
 import { Text, Link, Bull } from './Commons'
 
+const Wrapper = styled.article`
+  padding: 30px;
+
+  @media only screen and (max-width: 500px) {
+    padding: 0;
+  }
+`
+
 const LikedByImg = styled.img`
   margin-right: 25px;
   display: inline-block;
@@ -85,7 +93,7 @@ const WebmentionsWrapper = props => {
   }, [])
 
   return (
-    <div>
+    <Wrapper>
       <MentionTitle>Webmentions</MentionTitle>
       <Bull />
       <LikeContainer>
@@ -129,7 +137,7 @@ const WebmentionsWrapper = props => {
         </Link>{' '}
         and it will show up here!
       </Text>
-    </div>
+    </Wrapper>
   )
 }
 

@@ -194,12 +194,10 @@ exports.sourceNodes = async ({
     }
 
     const responseOverview = await fetch(
-      `https://api.onepeloton.com.au/api/user/${authData.user_id}/overview?version=1`,
+      `https://api.onepeloton.com/api/user/${authData.user_id}/overview?version=2`,
       opts
     )
     const overviewData = await responseOverview.json()
-
-    console.log(overviewData)
 
     overviewData.workout_counts.workouts.forEach(workoutCount => {
       const newNode = {
@@ -215,33 +213,18 @@ exports.sourceNodes = async ({
 
     // hack for changing API payload between regions
 
-    if (overviewData.achievements) {
-      overviewData.achievements.forEach(achievement => {
+    if (overviewData.achievement_counts) {
+      overviewData.achievement_counts.achievements.forEach(achievement => {
         const newNode = {
-          ...achievement,
-          id: createNodeId(achievement.id),
+          ...achievement.template,
+          id: createNodeId(achievement.template.id),
           internal: {
             type: 'Achievement',
-            contentDigest: createContentDigest(achievement),
+            contentDigest: createContentDigest(achievement.template),
           },
         }
         actions.createNode(newNode)
       })
-    } else {
-      if (overviewData.achievement_counts) {
-        overviewData.achievement_counts.achievements.forEach(achievement => {
-          console.log(achievement)
-          const newNode = {
-            ...achievement,
-            id: createNodeId(achievement.template.id),
-            internal: {
-              type: 'Achievement',
-              contentDigest: createContentDigest(achievement.template),
-            },
-          }
-          actions.createNode(newNode)
-        })
-      }
     }
 
     const responseMetaData = await fetch(
