@@ -199,8 +199,6 @@ exports.sourceNodes = async ({
     )
     const overviewData = await responseOverview.json()
 
-    console.log('data', overviewData)
-
     overviewData.workout_counts.workouts.forEach(workoutCount => {
       const newNode = {
         ...workoutCount,
@@ -213,17 +211,35 @@ exports.sourceNodes = async ({
       actions.createNode(newNode)
     })
 
-    overviewData.achievements.forEach(achievement => {
-      const newNode = {
-        ...achievement,
-        id: createNodeId(achievement.id),
-        internal: {
-          type: 'Achievement',
-          contentDigest: createContentDigest(achievement),
-        },
+    // hack for changing API payload between regions
+
+    if (overviewData.achievements) {
+      overviewData.achievements.forEach(achievement => {
+        const newNode = {
+          ...achievement,
+          id: createNodeId(achievement.id),
+          internal: {
+            type: 'Achievement',
+            contentDigest: createContentDigest(achievement),
+          },
+        }
+        actions.createNode(newNode)
+      })
+    } else {
+      if (overviewData.achievement_counts) {
+        overviewData.achievement_counts.achievements.forEach(achievement => {
+          const newNode = {
+            ...achievement,
+            id: createNodeId(achievement.id),
+            internal: {
+              type: 'Achievement',
+              contentDigest: createContentDigest(achievement),
+            },
+          }
+          actions.createNode(newNode)
+        })
       }
-      actions.createNode(newNode)
-    })
+    }
 
     const responseMetaData = await fetch(
       'https://api.onepeloton.com/api/ride/metadata_mappings',
