@@ -229,15 +229,15 @@ exports.sourceNodes = async ({
       if (overviewData.achievement_counts) {
         overviewData.achievement_counts.achievements.forEach(achievement => {
           console.log(achievement)
-          // const newNode = {
-          //   ...achievement,
-          //   id: createNodeId(achievement.id),
-          //   internal: {
-          //     type: 'Achievement',
-          //     contentDigest: createContentDigest(achievement),
-          //   },
-          // }
-          // actions.createNode(newNode)
+          const newNode = {
+            ...achievement,
+            id: createNodeId(achievement.template.id),
+            internal: {
+              type: 'Achievement',
+              contentDigest: createContentDigest(achievement.template),
+            },
+          }
+          actions.createNode(newNode)
         })
       }
     }
