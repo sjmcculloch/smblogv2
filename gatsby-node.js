@@ -228,15 +228,16 @@ exports.sourceNodes = async ({
     } else {
       if (overviewData.achievement_counts) {
         overviewData.achievement_counts.achievements.forEach(achievement => {
-          const newNode = {
-            ...achievement,
-            id: createNodeId(achievement.id),
-            internal: {
-              type: 'Achievement',
-              contentDigest: createContentDigest(achievement),
-            },
-          }
-          actions.createNode(newNode)
+          console.log(achievement)
+          // const newNode = {
+          //   ...achievement,
+          //   id: createNodeId(achievement.id),
+          //   internal: {
+          //     type: 'Achievement',
+          //     contentDigest: createContentDigest(achievement),
+          //   },
+          // }
+          // actions.createNode(newNode)
         })
       }
     }
