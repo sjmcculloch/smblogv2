@@ -40,7 +40,6 @@
     "gatsby": "^3.13.0",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-compile-es6-packages": "^2.1.1",
-    "gatsby-plugin-google-analytics": "^3.13.0",
     "gatsby-plugin-google-tagmanager": "^3.13.0",
     "gatsby-plugin-image": "^1.14.0",
     "gatsby-plugin-manifest": "^3.13.0",

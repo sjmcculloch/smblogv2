@@ -73,12 +73,6 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sharp`,
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: config.googleAnalyticsId,
-      },
-    },
-    {
       resolve: `gatsby-plugin-google-tagmanager`,
       options: {
         id: config.googleTagManagerId,
