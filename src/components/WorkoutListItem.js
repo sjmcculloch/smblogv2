@@ -201,7 +201,10 @@ const WorkoutListItem = props => {
     <Wrapper>
       <Container>
         <WorkoutItem>
-          <InstructorAvatar src={instructor.image_url} alt={instructor.name} />
+          <InstructorAvatar
+            src={`https://res.cloudinary.com/peloton-cycle/image/fetch/ar_1,c_fill,dpr_1.0,f_auto,g_face,h_100,q_auto,r_max,w_100/${instructor.image_url}`}
+            alt={instructor.name}
+          />
           <WorkoutData>
             <WorkoutTitle>{title}</WorkoutTitle>
             <WorkoutSubtitle>
