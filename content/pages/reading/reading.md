@@ -2,7 +2,6 @@
 title: 'Monthly Reading List'
 slug: reading
 cover: ./hourglass-mage.jpg
-disqus: false
 ---
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.

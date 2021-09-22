@@ -2,7 +2,6 @@
 title: 'Monthly Goal List'
 slug: goals
 cover: ./cover.jpg
-disqus: false
 ---
 
 This page is a journal of my monthly goal list.

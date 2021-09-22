@@ -37,7 +37,6 @@
     "@mdx-js/mdx": "^1.5.9",
     "@mdx-js/react": "^1.5.9",
     "babel-plugin-styled-components": "^1.13.2",
-    "disqus-react": "^1.1.2",
     "gatsby": "^3.13.0",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-compile-es6-packages": "^2.1.1",

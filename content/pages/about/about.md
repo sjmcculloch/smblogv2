@@ -2,7 +2,6 @@
 title: 'About Scott McCulloch'
 slug: about
 cover: ./hello-world.jpg
-disqus: false
 ---
 
 Hello, I am **Scott McCulloch**, a **Software Engineer** from **Wollongong, Australia**.

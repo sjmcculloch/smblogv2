@@ -8,7 +8,6 @@ import Wrapper from '../components/Wrapper'
 import ContentWrapper from '../components/ContentWrapper'
 import SEO from '../components/SEO'
 import PageTitle from '../components/PageTitle'
-import Disqus from '../components/Disqus'
 
 const Page = props => {
   const page = props.data.page
@@ -32,19 +31,13 @@ const Page = props => {
           <Content content={page.body} date={page.frontmatter.date} />
         </ContentWrapper>
       </Wrapper>
-
-      {page.frontmatter.disqus && (
-        <Wrapper>
-          <Disqus slug={page.frontmatter.slug} title={page.frontmatter.title} />
-        </Wrapper>
-      )}
     </Layout>
   )
 }
 export default Page
 
 export const pageQuery = graphql`
-  query($slug: String!) {
+  query ($slug: String!) {
     page: mdx(frontmatter: { slug: { eq: $slug } }) {
       body
       excerpt
@@ -52,7 +45,6 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         slug
-        disqus
         cover {
           publicURL
         }
