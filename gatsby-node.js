@@ -234,12 +234,10 @@ exports.sourceNodes = async ({
     const pelotonMetaData = await responseMetaData.json()
 
     const responseWorkoutData = await fetch(
-      `https://api.onepeloton.com/api/user/${authData.user_id}/workouts?joins=peloton.ride&limit=10&page=0&sort_by=-created`,
+      `https://api.onepeloton.com.au/api/user/${authData.user_id}/workouts?joins=peloton.ride&limit=10&page=0`,
       opts
     )
     const recentWorkouts = await responseWorkoutData.json()
-
-    console.log(recentWorkouts)
 
     recentWorkouts.data
       .sort((a, b) => (a.startTime > b.startTime ? -1 : 1))
@@ -249,9 +247,9 @@ exports.sourceNodes = async ({
           deviceType => deviceType.device_type === workout.device_type
         ).display_name,
         startTime: workout.start_time,
-        airTime: workout.ride.original_air_time,
-        title: workout.ride.title,
-        discipline: workout.ride.fitness_discipline_display_name,
+        airTime: workout.peloton.ride.original_air_time,
+        title: workout.peloton.ride.title,
+        discipline: workout.peloton.ride.fitness_discipline_display_name,
         totalwork:
           workout.total_work > 0 ? Math.round(workout.total_work / 1000) : null,
         effortPoints:
@@ -259,11 +257,12 @@ exports.sourceNodes = async ({
             ? workout.effort_zones.total_effort_points
             : null,
         instructor:
-          workout.ride.instructor_id !== null
+          workout.peloton.ride.instructor_id !== null
             ? pelotonMetaData.instructors.find(
-                instructor => instructor.id === workout.ride.instructor_id
+                instructor =>
+                  instructor.id === workout.peloton.ride.instructor_id
               )
-            : { name: 'Scenic', image_url: workout.ride.image_url },
+            : { name: 'Scenic', image_url: workout.peloton.ride.image_url },
       }))
       .forEach(workout => {
         const newNode = {
