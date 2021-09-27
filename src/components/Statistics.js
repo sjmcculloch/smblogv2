@@ -10,6 +10,7 @@ import WorkoutCountList from './WorkoutCountList'
 import Cover from './Cover'
 import ContentWrapper from './ContentWrapper'
 import AchievementList from './AchievementList'
+import RecordList from './RecordList'
 
 const SubTitle = styled.h2`
   padding-top: 3rem;
@@ -31,7 +32,7 @@ const ContentText = styled.p`
   font-style: italic;
 `
 
-const Statistics = ({ achievements, workoutCounts, workouts }) => {
+const Statistics = ({ achievements, records, workoutCounts, workouts }) => {
   const { statsCover } = useSiteMetadata()
   const siteCoverPath = useSiteImages(statsCover).fluid.src
 
@@ -52,6 +53,8 @@ const Statistics = ({ achievements, workoutCounts, workouts }) => {
         </Content>
         <SubTitle>Workout Overview</SubTitle>
         <WorkoutCountList workoutCounts={workoutCounts} />
+        <SubTitle>All Time Records</SubTitle>
+        <RecordList records={records} />
         <SubTitle>Recent Workouts</SubTitle>
         <WorkoutList workouts={workouts} />
         <SubTitle>Recent Achievements</SubTitle>

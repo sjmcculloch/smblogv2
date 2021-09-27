@@ -11,6 +11,7 @@ class Stats extends React.Component {
     const achievements = this.props.data.achievements.nodes
     const workoutCounts = this.props.data.workoutCounts.nodes
     const workouts = this.props.data.workouts.nodes
+    const records = this.props.data.records.nodes
 
     return (
       <Layout location={this.props.location}>
@@ -20,6 +21,7 @@ class Stats extends React.Component {
             achievements={achievements}
             workouts={workouts}
             workoutCounts={workoutCounts}
+            records={records}
           />
         </Wrapper>
       </Layout>
@@ -69,6 +71,22 @@ export const pageQuery = graphql`
         name
         slug
         description
+      }
+    }
+    records: allRecord {
+      nodes {
+        name
+        slug
+        icon_url
+        records {
+          name
+          slug
+          unit
+          unit_slug
+          value
+          workout_date
+          workout_id
+        }
       }
     }
   }

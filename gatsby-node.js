@@ -211,7 +211,22 @@ exports.sourceNodes = async ({
       actions.createNode(newNode)
     })
 
-    // hack for changing API payload between regions
+    if (overviewData.personal_records) {
+      overviewData.personal_records.forEach(record => {
+        record.icon_url = overviewData.workout_counts.workouts.find(
+          workout => workout.slug === record.slug
+        ).icon_url
+        const newNode = {
+          ...record,
+          id: createNodeId(record.name),
+          internal: {
+            type: 'Record',
+            contentDigest: createContentDigest(record),
+          },
+        }
+        actions.createNode(newNode)
+      })
+    }
 
     if (overviewData.achievement_counts) {
       overviewData.achievement_counts.achievements.forEach(achievement => {
