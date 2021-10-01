@@ -6,6 +6,26 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## October 2021
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: The Silent Blade](./the-silent-blade.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Silent Blade
+
+Determined to destroy the evil Crystal Shard, Drizzt seeks out the help of a scholar-priest named Cadderly. But instead, his worst fears are realized when the artifact falls into the hands of the dark elf mercenary Jarlaxle and his unlikely ally Artemis Entreri.
+
+</div>
+
+</div>
+
 ## September 2021
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
