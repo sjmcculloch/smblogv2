@@ -1,5 +1,6 @@
 const path = require('path')
 const config = require('./data/siteConfig')
+const resume = require('./data/resume-smcculloch')
 
 require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
@@ -11,6 +12,7 @@ module.exports = {
     author: config.authorName,
     description: config.siteDescription,
     ...config,
+    resume,
   },
   pathPrefix: config.pathPrefix,
   plugins: [
