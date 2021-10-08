@@ -13,7 +13,7 @@ tags:
   - tv
 ---
 
-Recently I posted a blog entry on [how to watch 90 Day Fiancé in Australia](/how-to-watch-90-day-fiance-australia), to coincide is a recommended viewing order for 2020:
+Recently I posted a blog entry on [how to watch 90 Day Fiancé in Australia](/how-to-watch-90-day-fiance-australia), to coincide is a recommended viewing order:
 
 - Season 1 (2014)
 - Season 2 (2014)
