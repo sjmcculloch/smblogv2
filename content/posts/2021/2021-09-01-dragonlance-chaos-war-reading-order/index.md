@@ -91,7 +91,7 @@ Regis has fallen into the hands of the assassin Artmis Entreri, who is taking hi
 
 ### Homeland
 
-Drow ranger Drizzt Do'Urden, first introduced in The Icewind Dale Trilogy, quickly became one of the fantasy genre's standout characters. But Homeland first reveals the startling tale of how this one lone drow walked out of the shadowy depths of the Underdark, leaving behind a society of evil and a family who want him dead. It is here that the story of this amazing dark elf truly began.
+The startling tale of how one lone drow walked out of the shadowy depths of the Underdark, leaving behind a society of evil and a family who want him dead. 
 
 </div>
 
@@ -127,7 +127,7 @@ Drizzt Do'Urden has been exiled from his country and forced to wander the tunnel
 
 ### Sojourn
 
-After years spent in the ruthless confines of the Underdark, Drizzt Do’Urden has emerged from the subterranean society of his youth to start a new life. Accompanied by his loyal panther, Drizzt begins exploring the surface of Faerûn, a world unlike any he has ever known. From skunks to humanoids to shapeshifters, Faerûn is full of unfamiliar races and fresh dangers, which Drizzt must better understand if he is to survive.
+After years spent in the ruthless confines of the Underdark, Drizzt Do’Urden has emerged from the subterranean society of his youth to start a new life. 
 
 </div>
 
