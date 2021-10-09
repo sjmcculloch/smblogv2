@@ -42,8 +42,8 @@ module.exports = {
   ],
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
-    name: 'GitHub',
-    url: 'https://github.com',
+    name: 'Azure Static Web Apps',
+    url: 'https://azure.microsoft.com/services/app-service/static/',
   },
   footerLinks: [
     {
@@ -85,6 +85,10 @@ module.exports = {
         {
           label: 'Twitter',
           url: 'https://twitter.com/sj_mcculloch',
+        },
+        {
+          label: 'Peloton',
+          url: 'https://members.onepeloton.com.au/members/sjmcculloch/overview',
         },
       ],
     },

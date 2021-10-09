@@ -145,15 +145,6 @@ const Footer = () => {
             </a>
             .
           </p>
-          <p className="footer-item-text">
-            <a
-              href="https://twitter.com/sj_mcculloch"
-              target="_blank"
-              rel="me noopener noreferrer"
-            >
-              @sj_mcculloch
-            </a>
-          </p>
         </div>
         {footerLinks.map((column, i) => {
           return <FooterColumn column={column} key={`footer-column-${i}`} />
