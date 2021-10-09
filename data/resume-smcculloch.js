@@ -64,10 +64,6 @@ module.exports = {
       url: '',
     },
     {
-      description: 'Tech author and public speaker',
-      url: 'https://www.smcculloch.com/books',
-    },
-    {
       description: 'Open sources lover and occasional contributor',
       url: 'https://github.com/sjmcculloch',
     },
@@ -91,7 +87,7 @@ module.exports = {
       company: 'F5 Networks',
       position: 'Senior Software Engineer',
       period: 'Aug 2012 - Sep 2017',
-      location: 'Remote (West Coast USA)',
+      location: 'Remote (Seattle, USA)',
       activities: [
         'Work collaboratively with in-house teams to provide a rapid, robust and secure digital marketing platform optimizing user experience, search engine ranking, localization, sales, brand positioning and related metrics.',
         'https://devcentral.f5.com: Implemented a StackOverflow style gamification platform that increased user participation by over 250%, cloud migration and established a competitive advantage for F5 Networks.',

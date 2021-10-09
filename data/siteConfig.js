@@ -62,6 +62,10 @@ module.exports = {
           url: '/reading',
         },
         {
+          label: 'Resume',
+          url: '/cv',
+        },
+        {
           label: 'Stats',
           url: '/stats',
         },
