@@ -36,9 +36,6 @@ ol {
   padding-left: 2em;
   margin: 1em 0 0 0;
 }
-*::selection {
-  background-color: var(--color-secondary);
-}
 `
 export const Link = styled.a`
   box-shadow: 0 2px 0 0 var(--color-secondary);
