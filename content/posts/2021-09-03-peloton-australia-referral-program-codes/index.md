@@ -16,7 +16,7 @@ tags:
 
 Recently I purchased a Peloton bike which has been the best purchase of the pandemic. However, I found their referral program a little confusing so I've collated all the information here.
 
-> If you don't have a referral code, you can use my referral code to take **$150** off your **hardware** order: **2KYVB8**
+> If you don't have a referral code, you can use my referral code to take **$150** off your **hardware** order: **2KZKZE**
 
 ## Referral program rules
 
