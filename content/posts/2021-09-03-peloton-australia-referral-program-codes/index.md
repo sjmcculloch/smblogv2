@@ -1,7 +1,7 @@
 ---
 title: Peloton Australia Referral Program & Codes
 slug: peloton-australia-referral-program-codes
-date: 2021-09-04
+date: 2021-10-13
 
 # optional fields
 published: true
@@ -20,7 +20,9 @@ Recently I purchased a Peloton bike which has been the best purchase of the pand
 
 ## Referral program rules
 
-For every referral, **you'll earn $100** towards apparel and **your friend will receive $150** off their hardware (bike, treadmill) purchase.
+For every referral, **you'll earn $150** towards apparel and **your friend will receive $150** off their accessories purchase. So this would discount the essentials, works or family (but not the basics as they do not contain accessories).
+
+![Peloton Australia: Referral prices](./accessories.png)
 
 Official rules:
 
