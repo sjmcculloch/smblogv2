@@ -58,7 +58,9 @@ Your referrals will be listed at the bottom of the referrals page:
 
 ![Peloton Australia: accessing referral code](./my-referrals.png)
 
-> However, to access a code for redemption on the apparel site, you'll need to contact Peloton via live chat. I don't know why this isn't automated?
+Once a referral is completed, you'll receive an email with your code to redeeem on their apparel site. 
+
+> However, sometimes this email doesn't come through and you will need to contact Peloton via their live chat for the code.
 
 ## How it could be better
 
