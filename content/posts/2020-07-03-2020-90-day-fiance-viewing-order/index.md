@@ -1,7 +1,7 @@
 ---
 title: 90 Day Fiancé Viewing Order in 2021
 slug: 2021-90-day-fiance-viewing-order
-date: 2021-10-08
+date: 2021-10-19
 
 # optional fields
 published: true
@@ -34,7 +34,8 @@ Recently I posted a blog entry on [how to watch 90 Day Fiancé in Australia](/ho
 - Happily Ever After - Season 5 (2020)
 - The Other Way - Season 2 (2020)
 - Season 8 (2020-2021)
-- The Single Life Season 1 (2021)
+- The Single Life 0 Season 1 (2021)
 - Happily Ever After - Season 6 (2021)
 - The Other Way - Season 3 (2021)
-- The Single Life Season 2 (2021) - starts November 12 🔥
+- The Single Life - Season 2 (2021) - starts November 12 🔥
+- The Other Way - Season 4 (2021) - starts December 15 🔥
