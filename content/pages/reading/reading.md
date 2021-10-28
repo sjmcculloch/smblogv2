@@ -8,7 +8,7 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## October 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -21,6 +21,24 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 ### The Silent Blade
 
 Determined to destroy the evil Crystal Shard, Drizzt seeks out the help of a scholar-priest named Cadderly. But instead, his worst fears are realized when the artifact falls into the hands of the dark elf mercenary Jarlaxle and his unlikely ally Artemis Entreri.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: The Spine of the World](./the-spine-of-the-world.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Spine of the World
+
+Spending just one day in the torture chambers of the Abyss would be enough to break even the heartiest soul. Wulfgar of Icewind Dale was there for six miserable years. Though Wulfgar has since been freed, he is still haunted by the memories of the pain he endured at his captor Errtu's hands.
 
 </div>
 
