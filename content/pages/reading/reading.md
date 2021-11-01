@@ -6,6 +6,26 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## November 2021
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Sea of Swords](./sea-of-swords.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Sea of Swords
+
+When the mark of Wulfgar's legendary warhammer is found on the person of pirate Sheila Kree, Drizzt Do'Urden knows his friend is in dire need of his help. Thus, Drizzt, Catti-brie, Regis, and Bruenor spring into action, determined to save Wulfgar and recover Aegis-fang once and for all.
+
+</div>
+
+</div>
+
 ## October 2021
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
