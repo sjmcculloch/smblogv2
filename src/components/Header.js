@@ -221,9 +221,6 @@ const Header = () => {
       <HeaderNav>
         <HeaderLinkTitle to={`/`} aria-label={`View home page`}>
           {iconSrc && <HeaderImage src={iconSrc} alt={siteTitle} />}
-          <Wolf role="img" aria-label="Wolf">
-            🐺
-          </Wolf>
           <HeaderLinkTitleContent>{headerTitle}</HeaderLinkTitleContent>
         </HeaderLinkTitle>
         <HeaderLinksContainer>
