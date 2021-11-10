@@ -8,14 +8,14 @@ published: true
 generate-card: true
 language: en
 cover: ./cover.jpg
-imageShare: ./dragonlance-chaos-war-reading-order-share.png
+imageShare: ./drizzt-reading-order-share.png
 tags:
   - books
   - dnd
   - readingorder
 ---
 
-The **Legend of Drizzt** is an iconic series of fantasy novels by R.A. Salvatore. The following is a recommended reading order. 
+The **Legend of Drizzt** is an iconic series of fantasy novels by R.A. Salvatore. The following is a recommended reading order.
 
 ## Icewind Dale Trilogy
 
@@ -77,7 +77,7 @@ Regis has fallen into the hands of the assassin Artmis Entreri, who is taking hi
 
 ## Dark Elf Trilogy
 
-> The origin tales of Drizzt Do'Urden.  
+> The origin tales of Drizzt Do'Urden.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -91,7 +91,7 @@ Regis has fallen into the hands of the assassin Artmis Entreri, who is taking hi
 
 ### Homeland
 
-The startling tale of how one lone drow walked out of the shadowy depths of the Underdark, leaving behind a society of evil and a family who want him dead. 
+The startling tale of how one lone drow walked out of the shadowy depths of the Underdark, leaving behind a society of evil and a family who want him dead.
 
 </div>
 
@@ -127,7 +127,7 @@ Drizzt Do'Urden has been exiled from his country and forced to wander the tunnel
 
 ### Sojourn
 
-After years spent in the ruthless confines of the Underdark, Drizzt Do’Urden has emerged from the subterranean society of his youth to start a new life. 
+After years spent in the ruthless confines of the Underdark, Drizzt Do’Urden has emerged from the subterranean society of his youth to start a new life.
 
 </div>
 
@@ -135,7 +135,7 @@ After years spent in the ruthless confines of the Underdark, Drizzt Do’Urden h
 
 ## Legacy of the Drow
 
-> The enemies from Drizzt's past have caught up with him. 
+> The enemies from Drizzt's past have caught up with him.
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -150,6 +150,7 @@ After years spent in the ruthless confines of the Underdark, Drizzt Do’Urden h
 ### The Legacy
 
 Life is good for Drizzt Do'Urden, better than it ever has been for the beleaguered dark elf. His dearest friend, the dwarf Bruenor, has reclaimed his throne, and his adventuring companions, Wulfgar and Catti-brie, are to be wed in the spring. Even the halfling Regis has returned. All the friends are united in the safety and prosperity of Mithril Hall, where streams of silver mithril run deep and dwarven hammers bang out the solemn rhythms of ancient and unending songs.
+
 </div>
 
 </div>
@@ -264,7 +265,6 @@ When the mark of Wulfgar’s legendary warhammer is found on the person of pirat
 
 </div>
 
-
 ## The Sellswords
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
@@ -377,8 +377,6 @@ Dark elf Drizzt Do'Urden would like nothing more than to kill King Obould Many-A
 
 </div>
 
-
-
 ## Transitions
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
@@ -394,7 +392,7 @@ Dark elf Drizzt Do'Urden would like nothing more than to kill King Obould Many-A
 ### The Orc King
 
 Drizzt is back, and facing a world changed forever!
-An uneasy peace between the dwarves of Mithral Hall and the orcs of the newly established Kingdom of Many-Arrows can't last long. The orc tribes united under Obould begin to fight each other, and Bruenor is determined to finish the war that nearly killed him and almost destroyed everything he's worked to build. But it will take more than swords and axes to bring a lasting peace to the Spine of the World. 
+An uneasy peace between the dwarves of Mithral Hall and the orcs of the newly established Kingdom of Many-Arrows can't last long. The orc tribes united under Obould begin to fight each other, and Bruenor is determined to finish the war that nearly killed him and almost destroyed everything he's worked to build. But it will take more than swords and axes to bring a lasting peace to the Spine of the World.
 
 </div>
 
@@ -430,13 +428,11 @@ The Arcane Brotherhood has long held the city of Luskan in their power, but when
 
 ### The Ghost King
 
-With the collapse of Mystra’s Weave and the onslaught of the Spellplague, all of Faerûn is thrown into chaos. But as magic turns more dangerous and unreliable, an even greater foe presents itself: the Ghost King, an entity that contains the combined might of a dragon, a mind flayer, and the Crenshinibon—the demonic crystal shard thought to be destroyed years ago. 
+With the collapse of Mystra’s Weave and the onslaught of the Spellplague, all of Faerûn is thrown into chaos. But as magic turns more dangerous and unreliable, an even greater foe presents itself: the Ghost King, an entity that contains the combined might of a dragon, a mind flayer, and the Crenshinibon—the demonic crystal shard thought to be destroyed years ago.
 
 </div>
 
 </div>
-
-
 
 ## Neverwinter Saga
 
@@ -470,7 +466,7 @@ Drizzt joins Bruenor on his quest for the fabled dwarven kingdom of Gauntlgrym: 
 
 ### Neverwinter
 
-With the last of his trusted companions having fallen, Drizzt is alone--and free--for the first time in almost a hundred years. Guilt mingles with relief, leaving Drizzt uniquely vulnerable to the persuasions of his newest companion--Dahlia, a darkly alluring elf and the only other member of their party to survive the cataclysm at Mount Hotenow. 
+With the last of his trusted companions having fallen, Drizzt is alone--and free--for the first time in almost a hundred years. Guilt mingles with relief, leaving Drizzt uniquely vulnerable to the persuasions of his newest companion--Dahlia, a darkly alluring elf and the only other member of their party to survive the cataclysm at Mount Hotenow.
 
 </div>
 
@@ -488,7 +484,7 @@ With the last of his trusted companions having fallen, Drizzt is alone--and free
 
 ### Charon's Claw
 
-Drizzt draws his swords once more to aid his friends. His lover, Dahlia Sin’felle, can speak of nothing but the moment she will face the Netherese lord Herzgo Alegni once again. Drizzt has already followed a trail of vengeance beside Dahlia. Can he justify one more battle to settle a grudge he does not understand? Artemis Entreri too seeks vengeance. He offers to aid Dahlia in her mission to destroy Alegni. But Charon’s Claw, Alegni’s sentient sword, dominates Entreri’s movements—if not his mind. 
+Drizzt draws his swords once more to aid his friends. His lover, Dahlia Sin’felle, can speak of nothing but the moment she will face the Netherese lord Herzgo Alegni once again. Drizzt has already followed a trail of vengeance beside Dahlia. Can he justify one more battle to settle a grudge he does not understand? Artemis Entreri too seeks vengeance. He offers to aid Dahlia in her mission to destroy Alegni. But Charon’s Claw, Alegni’s sentient sword, dominates Entreri’s movements—if not his mind.
 
 </div>
 
@@ -506,13 +502,11 @@ Drizzt draws his swords once more to aid his friends. His lover, Dahlia Sin’fe
 
 ### The Last Threshold
 
-Drizzt is tangled up in Dahlia’s dark secrets more than ever. The ties that once held them close now threaten to rip apart as Dahlia’s bonds to Drizzt’s former foe, Artemis Entreri, continue to grow. Determined to stand for what’s right in the Realms once again, Drizzt forges a new road north toward Icewind Dale. Will Dahlia, Entreri, and the rest of his new companions follow? Will he be forced to fight the darkness alone? 
+Drizzt is tangled up in Dahlia’s dark secrets more than ever. The ties that once held them close now threaten to rip apart as Dahlia’s bonds to Drizzt’s former foe, Artemis Entreri, continue to grow. Determined to stand for what’s right in the Realms once again, Drizzt forges a new road north toward Icewind Dale. Will Dahlia, Entreri, and the rest of his new companions follow? Will he be forced to fight the darkness alone?
 
 </div>
 
 </div>
-
-
 
 ## The Sundering
 
@@ -534,9 +528,6 @@ As Drizzt's fate hangs in the balance, he reflects on the lives of the trusted a
 
 </div>
 
-
-
-
 ## Companions Codex
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
@@ -551,7 +542,7 @@ As Drizzt's fate hangs in the balance, he reflects on the lives of the trusted a
 
 ### Night of the Hunter
 
-Drizzt Do’Urden returns to Gauntlgrym with old friends by his side once again, as they seek to rescue Bruenor’s loyal shield dwarf-turned-vampire. But not only do Drizzt and his allies face a perilous journey through the Underdark and the dangers of the undead that lie within, but they must cross through a colony of drow, who would like nothing better than to see Drizzt Do’Urden dead.  
+Drizzt Do’Urden returns to Gauntlgrym with old friends by his side once again, as they seek to rescue Bruenor’s loyal shield dwarf-turned-vampire. But not only do Drizzt and his allies face a perilous journey through the Underdark and the dangers of the undead that lie within, but they must cross through a colony of drow, who would like nothing better than to see Drizzt Do’Urden dead.
 
 </div>
 
@@ -587,13 +578,11 @@ Having escaped Gauntlgrym, the Companions of the Hall are united in body and spi
 
 ### Vengeance of the Iron Dwarf
 
-In the evolving world of the Forgotten Realms setting, the Sundering has given way to months of cloud-cloaked darkness, and war rages under that oppressive sky. The orcs have broken a hard-fought treaty that's held, however tentatively, for a hundred years, and the time to settle old scores has devolved into an all-out brawl for control of the ancient realms of the North. 
+In the evolving world of the Forgotten Realms setting, the Sundering has given way to months of cloud-cloaked darkness, and war rages under that oppressive sky. The orcs have broken a hard-fought treaty that's held, however tentatively, for a hundred years, and the time to settle old scores has devolved into an all-out brawl for control of the ancient realms of the North.
 
 </div>
 
 </div>
-
-
 
 ## Homecoming
 
@@ -651,8 +640,6 @@ Something akin to “peace" has come to the Underdark. The demon hordes have rec
 
 </div>
 
-
-
 ## Homecoming
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
@@ -703,12 +690,11 @@ Split between time and two worlds, Zaknafein had always been conflicted. That in
 
 ### Relentless
 
-Displaced in time and unexpectedly reunited with his son Drizzt Do'Urden, Zaknafein has overcome the prejudices ingrained in him as a drow warrior to help his son battle the ambitious Spider Queen and stem the tide of darkness that has been unleashed upon the Forgotten Realms. Though Zaknafein has endured the most difficult battles, survival has come at a terrible cost, and the fight is far from over. 
+Displaced in time and unexpectedly reunited with his son Drizzt Do'Urden, Zaknafein has overcome the prejudices ingrained in him as a drow warrior to help his son battle the ambitious Spider Queen and stem the tide of darkness that has been unleashed upon the Forgotten Realms. Though Zaknafein has endured the most difficult battles, survival has come at a terrible cost, and the fight is far from over.
 
 </div>
 
 </div>
-
 
 ## The Way of the Drow
 
