@@ -8,7 +8,7 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## November 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -21,6 +21,24 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 ### Sea of Swords
 
 When the mark of Wulfgar's legendary warhammer is found on the person of pirate Sheila Kree, Drizzt Do'Urden knows his friend is in dire need of his help. Thus, Drizzt, Catti-brie, Regis, and Bruenor spring into action, determined to save Wulfgar and recover Aegis-fang once and for all.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Ravenloft: Spectre of the Black Rose](./spectre-of-the-black-rose.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Spectre of the Black Rose
+
+In this chilling sequel of The Knight of the Black Rose, Lord Soth, an important character in both the Dragonlance and Ravenloft settings, fights to keep his reign of terror from crumbling.
 
 </div>
 
