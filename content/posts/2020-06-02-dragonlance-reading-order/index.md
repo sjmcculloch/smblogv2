@@ -944,7 +944,7 @@ Despite the stubborn courage of dwarven warriors, the protracted Wilderness War 
 
 ### Firstborn
 
-Explores the folklore and history of the dwarven clans of Krynn through the bickering clans' reconciliation and the construction of the legendary Thorbardin.
+Silvanos, the august founder of the united elven nation known as Silvanesti, is dead and buried in a crystal tomb. The leadership of the clans and households has fallen to his son, Sithel, who is himself father of twin sons.
 
 </div>
 
