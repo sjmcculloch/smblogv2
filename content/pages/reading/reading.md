@@ -26,7 +26,7 @@ When the mark of Wulfgar's legendary warhammer is found on the person of pirate 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -39,6 +39,24 @@ When the mark of Wulfgar's legendary warhammer is found on the person of pirate 
 ### Spectre of the Black Rose
 
 In this chilling sequel of The Knight of the Black Rose, Lord Soth, an important character in both the Dragonlance and Ravenloft settings, fights to keep his reign of terror from crumbling.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Servant of the Shard](./servant-of-the-shard.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Servant of the Shard
+
+Powerful assassin Artemis Entreri tightens his grip on the streets of Calimport, driven by the power of his hidden drow supporters. But his sponsor, Jarlaxle, grows ever more ambitious, and Entreri struggles to remain cautious and in control.
 
 </div>
 
