@@ -6,6 +6,62 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## December 2021
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Kindred Spirits](./images/2021/kindred-spirits.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Kindred Spirits
+
+When Flint Fireforge, dwarf and metalsmith, receives a wondrous summons from the Speaker of the Sun, he journeys to the fabled elven city of Qualinost. There he meets Tanis, a thoughtful youth born of a tragic union between elf and man. Tanis and Flint, each a misfit in his own way, find themselves unlikely friends.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Wanderlust](./images/2021/wanderlust.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Wanderlust
+
+One spring day Tasslehoff Burrfoot comes to Solace, accidentally pockets a copper bracelet, and (forcibly) makes the acquaintance of Tanis Half-Elven and Flint Fireforge. A simple tale. Except that the fate of the entire race of Dargonesti sea elves hangs in the balance.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Code like a Pro in C#](./images/2021/code-like-a-pro-in-c.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Code like a Pro in C#
+
+Critical business applications worldwide are written in the versatile C# language and the powerful .NET platform, running on desktops, cloud systems, and Windows or Linux servers. Code Like a Pro in C# makes it easy to turn your existing abilities in C# or another OO language (such as Java) into practical C# mastery.
+
+</div>
+
+</div>
+
 ## November 2021
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
