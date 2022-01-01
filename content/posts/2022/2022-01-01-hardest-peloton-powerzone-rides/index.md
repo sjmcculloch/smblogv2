@@ -1,7 +1,7 @@
 ---
 title: Hardest Peloton Powerzone Rides in 2022
 slug: hardest-peloton-powerzone-rides
-date: 2022-01-01
+date: 2022-01-02
 
 # optional fields
 published: true
@@ -21,6 +21,8 @@ I'll post my graphs as I complete them. #sjmcculloch
 ## Lung Buster 2.0 - 30 Min PZ - 9/21/21
 
 ![Peloton Powerzone: Lung Buster 2.0](./images/lung-buster-2.png)
+
+![Peloton Powerzone: Lung Buster 2.0 Graph](./images/lung-buster-2-graph.png)
 
 [Ride Link](https://members.onepeloton.com.au/classes/cycling?duration=%5B%221800%22%5D&class_type_id=%5B%22665395ff3abf4081bf315686227d1a51%22%5D&sort=original_air_time&desc=true&modal=classDetailsModal&classId=c139d4aeab444f57bd9c0c99474a677d)
 
