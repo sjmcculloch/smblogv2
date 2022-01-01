@@ -6,6 +6,26 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## January 2022
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Dark Heart](./images/2022/dark-heart.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dark Heart
+
+At long last, the story of the beautiful dark-hearted Kitiara Uth Matar. This compelling novel tells the story of the birth of her twin brothers, the warrior Caramon and the frail mage Raistlin, and Kit's admirable role in their upbringing.
+
+</div>
+
+</div>
+
 ## December 2021
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
