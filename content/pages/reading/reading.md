@@ -8,7 +8,7 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## January 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -21,6 +21,42 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 ### Dark Heart
 
 At long last, the story of the beautiful dark-hearted Kitiara Uth Matar. This compelling novel tells the story of the birth of her twin brothers, the warrior Caramon and the frail mage Raistlin, and Kit's admirable role in their upbringing.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Oath and the Measure](./images/2022/the-oath-and-the-measure.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Oath and the Measure
+
+Although Raistlin and Caramon urge him not to go, Sturm Brightblade attends an annual Solamnic ceremony. Once he accepts a mysterious gauntlet, young Sturm must make a dangerous journey with some curious friends, rescue a fair if querulous maid, defeat a traitor knight, and learn the secret fate of his long-lost father.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Entity Framework core in Action](./images/2022/entity-framework-core-in-action.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Entity Framework Core in Action
+
+Entity Framework Core in Action teaches you how to access and update relational data from .NET applications. Following the crystal-clear explanations, real-world examples, and around 100 diagrams, you'll discover time-saving patterns and best practices for security, performance tuning, and unit testing.
 
 </div>
 
