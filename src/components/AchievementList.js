@@ -17,7 +17,6 @@ const Inner = styled.div`
   display: grid;
   grid-template-columns: repeat(auto-fit, var(--dimension));
   grid-template-rows: max-content repeat(10, 0px);
-  height: var(--dimension);
   -webkit-box-pack: justify;
   justify-content: space-between;
   column-gap: 20px;
