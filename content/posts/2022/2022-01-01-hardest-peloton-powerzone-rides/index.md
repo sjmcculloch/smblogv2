@@ -1,7 +1,7 @@
 ---
 title: Hardest Peloton Powerzone Rides in 2022
 slug: hardest-peloton-powerzone-rides
-date: 2022-01-10
+date: 2022-01-16
 
 # optional fields
 published: true
@@ -37,6 +37,8 @@ I'll post my graphs as I complete them. #sjmcculloch
 ## Batman - 45 Min PZ - 12/23/20
 
 ![Peloton Powerzone: Batman](./images/batman.jpg)
+
+![Peloton Powerzone: The Blender Graph](./images/batman-graph.png)
 
 [Ride Link](https://members.onepeloton.com.au/classes/cycling?duration=%5B%222700%22%5D&class_type_id=%5B%22665395ff3abf4081bf315686227d1a51%22%5D&instructor_id=%5B%22304389e2bfe44830854e071bffc137c9%22%5D&sort=original_air_time&desc=true&modal=classDetailsModal&classId=3596b418cca84cc9819a1a54e75028e7)
 
