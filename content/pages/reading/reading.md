@@ -6,6 +6,44 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## February 2022
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Steel and Stone](./images/2022/steel-and-stone.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Steel and Stone
+
+The tempestuous affair of Kitiara Uth Matar and Tanis Half-Elven begins with the sword. Life isn't simple for the hotheaded pair. They must contend with a carnivorous, two-headed troll; a deposed leader who believes Kitiara is the cause of the ruler's troubles; a vindictive mage who seeks peculiar vengeance; and Kit's hulking former lover.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Companions](./images/2022/the-companions.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Companions
+
+Caramon, Sturm, and Tasslehoff, on an innocent ship's errand, are blown thousands of miles off course by a magic windstrom and transported to the eastrn Bloodsea. Caramon and Sturm are left for dead, while Tasslehoff mysteriously turns against his friends....
+
+</div>
+
+</div>
+
 ## January 2022
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>

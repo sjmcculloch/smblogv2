@@ -6,13 +6,21 @@ cover: ./cover.jpg
 
 This page is a journal of my monthly goal list.
 
-## January 2022
+## February 2022
 
 - **🚴🏻‍♂️ Biking** - 🎯 1000km
 - **📚 Books** - 🎯 3
-- **🏋️ Strength Workouts** - 🎯 20
+- **📝 Gatsby Upgrade** - 🎯 1
 - **🧘 Yoga Workouts** - 🎯 20
-- **⚖️ Weight** - 🎯 -2kg
+- **⚖️ Weight** - 🎯 -1kg
+
+## January 2022
+
+- **🚴🏻‍♂️ Biking** - ~~🎯 1000km~~ - ❌ 836km
+- **📚 Books** - ~~🎯 3~~ - ✅ 3
+- **🏋️ Strength Workouts** - ~~🎯 20~~ - ✅ 30
+- **🧘 Yoga Workouts** - ~~🎯 20~~ - ✅ 35
+- **⚖️ Weight** - ~~🎯 -2kg~~ - ❌ +0.0kg
 
 ## December 2021
 
