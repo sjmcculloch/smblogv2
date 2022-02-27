@@ -26,7 +26,7 @@ The tempestuous affair of Kitiara Uth Matar and Tanis Half-Elven begins with the
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -39,6 +39,24 @@ The tempestuous affair of Kitiara Uth Matar and Tanis Half-Elven begins with the
 ### The Companions
 
 Caramon, Sturm, and Tasslehoff, on an innocent ship's errand, are blown thousands of miles off course by a magic windstrom and transported to the eastrn Bloodsea. Caramon and Sturm are left for dead, while Tasslehoff mysteriously turns against his friends....
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Witcher: The Last Wish](./images/2022/witcher-last-wish.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Last Wish
+
+Geralt of Rivia is a witcher. A cunning sorcerer. A merciless assassin. And a cold-blooded killer. His sole purpose: to destroy the monsters that plague the world. But not everything monstrous-looking is evil and not everything fair is good... and in every fairy tale there is a grain of truth.
 
 </div>
 
