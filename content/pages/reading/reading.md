@@ -6,6 +6,62 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## March 2022
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Darkness and Light](./images/2022/darkness-and-light.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Darkness and Light
+
+The Companions have gone their separate ways, each vowing to return with news of the growing darkness in Ansalon. Sturm Brightblade, a warrior whose honor is his life, and Kitiara, a passionate woman of uncertain loyalties, travel north in search of Sturm's long-lost father.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Kendermore](./images/2022/kendermore.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Kendermore
+
+Before the War of the Lance, carefree kender Tasslehoff Burrfoot is enjoying the company of his friends at the Inn of the Last Home when a bounty hunter arrives and charges him with desertion for violating the kender laws of prearranged marriage. But Tasslehoff's intended has pulled a disappearing act of her own. The race is on to see who gets dragged to the altar first in a tale of adventure replete with magic, monsters, and mayhem.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Pro Microservices in .NET 6](./images/2022/pro-microservices-in-net-6.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Pro Microservices in .NET 6
+
+Know the fundamentals of creating and deploying microservices using .NET 6 and gain insight from prescriptive guidance in this book on the when and why to incorporate them.
+
+</div>
+
+</div>
+
 ## February 2022
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
