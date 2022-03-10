@@ -1,7 +1,7 @@
 ---
 title: 90 Day Fiancé Viewing Order in 2022
 slug: 2021-90-day-fiance-viewing-order
-date: 2022-01-03
+date: 2022-03-10
 
 # optional fields
 published: true
@@ -39,3 +39,4 @@ Recently I posted a blog entry on [how to watch 90 Day Fiancé in Australia](/ho
 - The Other Way - Season 3 (2021)
 - The Single Life - Season 2 (2021)
 - The Other Way - Season 4 (2021)
+- Season 9 (2022) - Starts April 17!
