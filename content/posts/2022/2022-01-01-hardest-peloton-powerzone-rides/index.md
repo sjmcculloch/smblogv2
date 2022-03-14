@@ -68,7 +68,7 @@ I'll post my graphs as I complete them. #sjmcculloch
 
 [Ride Link](https://members.onepeloton.com.au/classes/cycling?duration=%5B%222700%22%5D&class_type_id=%5B%22665395ff3abf4081bf315686227d1a51%22%5D&instructor_id=%5B%22304389e2bfe44830854e071bffc137c9%22%2C%221e59e949a19341539214a4a13ea7ff01%22%5D&sort=original_air_time&desc=true&modal=classDetailsModal&classId=d9ccc69fd4e44633be8ff44223649de4)
 
-## Bush - 45 Min PZE - 12/7/19
+## Bush - 60 Min PZE - 12/7/19
 
 ![Peloton Powerzone: Bush](./images/bush.png)
 
