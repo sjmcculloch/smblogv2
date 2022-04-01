@@ -6,6 +6,26 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## April 2022
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Building Microservices](./images/2022/building-microservices.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Building Microservices
+
+Author Sam Newman provides you with a firm grounding in the concepts while diving into the latest solutions for modeling, integrating, testing, deploying, and monitoring your own autonomous services. Through real-world examples, you'll learn how organizations worldwide are getting the most out of these architectures.
+
+</div>
+
+</div>
+
 ## March 2022
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
