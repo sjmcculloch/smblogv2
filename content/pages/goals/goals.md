@@ -20,7 +20,7 @@ This page is a journal of my monthly goal list.
 - **📚 Books** - ~~🎯 3~~ - ✅ 3
 - **📝 Gatsby Upgrade** - ~~🎯 1~~ - ❌ 0 (In progress)
 - **🧘 Yoga Workouts** - ~~🎯 20~~ - ✅ 37
-- **⚖️ Weight** - ~~🎯 -1kg~~ - ✅ 1.1kg
+- **⚖️ Weight** - ~~🎯 -1kg~~ - ✅ -1.1kg
 
 ## February 2022
 
