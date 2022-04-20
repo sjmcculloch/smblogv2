@@ -8,7 +8,7 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## April 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -21,6 +21,42 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 ### Building Microservices
 
 Author Sam Newman provides you with a firm grounding in the concepts while diving into the latest solutions for modeling, integrating, testing, deploying, and monitoring your own autonomous services. Through real-world examples, you'll learn how organizations worldwide are getting the most out of these architectures.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Firstborn](./images/2022/firstborn.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Firstborn
+
+Silvanos, the august founder of the united elven nation known as Silvanesti, is dead and buried in a crystal tomb. The leadership of the clans and households has fallen to his son, Sithel, who is himself father of twin sons.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: The Kinslayer Wars](./images/2022/the-kinslayer-wars.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Kinslayer Wars
+
+Kith-Kanan is torn between his love for a human woman with a mysterious background and his loyalty toward his brother and rival, Sithas, ruler of the Silvanesti elves, who has declared war on the humans of Ergoth.
 
 </div>
 
