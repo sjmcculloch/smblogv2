@@ -6,6 +6,44 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## May 2022
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Microsoft Conversational AI Platform for Developers](./images/2022/microsoft-conversational-ai-platform-for-developers.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Microsoft Conversational AI Platform for Developers
+
+Build a chatbot using the Microsoft Conversational AI platform. You will learn how to be proficient at every phase of development, from collaboration on a chatbot in an end-to-end scenario, to the first mock-up phase, and on through to the deployment and evaluation phases.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Qualinesti](./images/2022/the-qualinesti.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Qualinesti
+
+The Qualinesti, the third title in The Elven Nations trilogy, was first released in 1991, and it documented the ancient schism of the elven races in the Dragonlance world.
+
+</div>
+
+</div>
+
 ## April 2022
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>

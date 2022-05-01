@@ -6,13 +6,21 @@ cover: ./cover.jpg
 
 This page is a journal of my monthly goal list.
 
-## April 2022
+## May 2022
 
-- **🚴🏻‍♂️ Biking** - 🎯 1200km
+- **🚴🏻‍♂️ Biking** - 🎯 1000km
 - **📚 Books** - 🎯 3
-- **📝 Gatsby Upgrade** - 🎯 1
+- **🎓 Online Course** - 🎯 1
 - **🧘 Yoga Workouts** - 🎯 20
 - **⚖️ Weight** - 🎯 -1kg
+
+## April 2022
+
+- **🚴🏻‍♂️ Biking** - ~~🎯 1200km~~ - ✅ 1201km
+- **📚 Books** ~~- 🎯 3~~ - ✅ 3
+- **📝 Gatsby Upgrade** ~~- 🎯 1~~ ❌ 0 (In progress)
+- **🧘 Yoga Workouts** ~~- 🎯 20~~ - ✅ 31
+- **⚖️ Weight** - ~~🎯 -1kg~~ - ❌ 0
 
 ## March 2022
 
