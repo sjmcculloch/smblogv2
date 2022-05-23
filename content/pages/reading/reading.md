@@ -26,7 +26,7 @@ Build a chatbot using the Microsoft Conversational AI platform. You will learn h
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -39,6 +39,24 @@ Build a chatbot using the Microsoft Conversational AI platform. You will learn h
 ### Qualinesti
 
 The Qualinesti, the third title in The Elven Nations trilogy, was first released in 1991, and it documented the ancient schism of the elven races in the Dragonlance world.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Azure Bonds](./images/2022/azure-bonds.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Azure Bonds
+
+Alias ​is an excellent warrior but she is in serious difficulties. One day she wakes up with blue, twisting and magical runes inscribed on her right arm, and with total amnesia about the circumstances that surround the tattoo.
 
 </div>
 

@@ -8,7 +8,7 @@ This page is a journal of my monthly goal list.
 
 ## May 2022
 
-- **🚴🏻‍♂️ Biking** - 🎯 1000km
+- **🚴🏻‍♂️ Biking** - 🎯 800km
 - **📚 Books** - 🎯 3
 - **🎓 Online Course** - 🎯 1
 - **🧘 Yoga Workouts** - 🎯 20
