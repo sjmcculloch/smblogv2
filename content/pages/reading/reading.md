@@ -6,6 +6,44 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## June 2022
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: The Wyvern's Spur](./images/2022/the-wyverns-spur.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Wyvern's Spur
+
+The Wyvernspur family's powerful heirloom has been stolen, and grand wizard and patriarch Drone Wyvernspur is the first to fall to the ancient item’s curse. The family fool, Giogi, is left to find it, but even recovering the spur cannot guarantee his clan's safety.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Forgotten Realms: Song of the Saurials](./images/2022/song-of-the-saurials.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Song of the Saurials
+
+When the Harpers judged the Nameless Bard responsible for the death of his apprentices, they sentenced him to exile and obscurity. Now the Harpers are reconsidering their decision, but with the arrival of the monster Grypht, Nameless's new trial dissolves in a string of disappearances and murder.
+
+</div>
+
+</div>
+
 ## May 2022
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
