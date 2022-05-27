@@ -6,8 +6,7 @@ module.exports = {
   authorAvatar: 'avatar.jpg', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `
-  For the past two decades, Scott McCulloch has worked with a variety of web technologies. He is currently focused on full-stack development.
-  On his day to day job, he is working as a systems specialist at the <a href="https://www.ses.nsw.gov.au/" target="_blank">NSW State Emergency Service</a>.
+  For the past two decades, Scott McCulloch has worked with a variety of distributed computing technologies. He is currently focused on cloud-native applications.
   `,
   siteUrl: 'https://www.smcculloch.com/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
