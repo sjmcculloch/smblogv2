@@ -10,7 +10,7 @@ I started coding in my teens on **multi-user dungeon (MUD)** clients. 25+ years 
 
 ## What I do for a living
 
-I'm currently a Systems Specialist at 🦺 [NSW State Emergency Service](https://www.ses.nsw.gov.au/) where I build software for computer aided dispatch (CAD) in a **Microsoft Azure** environment.
+I'm currently a Cloud Specialist at [PIA AI](https://pia.ai/).
 
 My current focus is:
 
