@@ -16,11 +16,11 @@ This page is a journal of my monthly goal list.
 
 ## May 2022
 
-- **🚴🏻‍♂️ Biking** - 🎯 800km
-- **📚 Books** - 🎯 3
-- **🎓 Online Course** - 🎯 1
-- **🧘 Yoga Workouts** - 🎯 20
-- **⚖️ Weight** - 🎯 -1kg
+- **🚴🏻‍♂️ Biking** - ~~🎯 800km~~ - ❌ 682km
+- **📚 Books** - ~~🎯 3~~ - ✅ 3
+- **🎓 Online Course** - ~~🎯 1~~ - ✅ 1
+- **🧘 Yoga Workouts** - ~~🎯 20~~ - ❌ 12
+- **⚖️ Weight** - ~~🎯 -1kg~~ - ❌ 0
 
 ## April 2022
 
