@@ -6,13 +6,21 @@ cover: ./cover.jpg
 
 This page is a journal of my monthly goal list.
 
-## June 2022
+## July 2022
 
-- **🚴🏻‍♂️ Biking** - 🎯 1000km
-- **📚 Books** - 🎯 3
-- **🎓 Online Course** - 🎯 1
-- **🧘 Yoga Workouts** - 🎯 20
+- **🚴🏻‍♂️ Biking** - 🎯 800km
+- **📚 Books** - 🎯 2
+- **⛰️ Hike Workouts** - 🎯 20
+- **🏋️ Strength Workouts** - 🎯 20
 - **⚖️ Weight** - 🎯 -1kg
+
+## June 2022 (🤢🤢 and new job)
+
+- **🚴🏻‍♂️ Biking** - ~~🎯 1000km~~ - ❌ 500km
+- **📚 Books** - ~~🎯 3~~ - ❌ 2
+- **🎓 Online Course** - ~~🎯 1~~ - ✅ 1
+- **🏋️ Yoga Workouts** - ~~🎯 20~~ - ✅ 22
+- **⚖️ Weight** - ~~🎯 -1kg~~ - ❌ 0
 
 ## May 2022
 
