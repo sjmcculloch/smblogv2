@@ -71,9 +71,18 @@ module.exports = {
 
   experiences: [
     {
+      company: 'Pia',
+      position: 'Senior Software Engineer',
+      period: 'May 2022 - Present',
+      location: 'Remote/Office (Wollongong, Australia)',
+      activities: [
+        'Azure, CI/CD, ARM, Bicep, IOT Hubs, Service Bus, Event Grid, SQL Server, App Services, Virtual Machines',
+      ],
+    },
+    {
       company: 'NSW State Emergency Service',
       position: 'Senior Software Engineer',
-      period: 'Oct 2017 - Present',
+      period: 'Oct 2017 - May 2022',
       location: 'Remote/Office (Wollongong, Australia)',
       activities: [
         'Designed and migrated existing applications into best-of-breed cloud native applications (Service Bus, Serverless, API Gateway, SignalR, CosmoDB) that improved availability and reduced operating expenses by 60%',
