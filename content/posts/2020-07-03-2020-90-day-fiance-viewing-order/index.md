@@ -40,4 +40,4 @@ Recently I posted a blog entry on [how to watch 90 Day Fiancé in Australia](/ho
 - The Single Life - Season 2 (2021)
 - The Other Way - Season 4 (2021)
 - Season 9 (2022)
-- Happily Ever After - Season 7 - Starts August 28!
+- Happily Ever After - Season 7 (2022) - Starts August 28!
