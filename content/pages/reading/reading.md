@@ -8,7 +8,7 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## July 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -21,6 +21,24 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 ### Dune
 
 Melange, or 'spice', is the most valuable - and rarest - element in the universe; a drug that does everything from increasing a person's life-span to making intersteller travel possible. And it can only be found on a single planet: the inhospitable desert world Arrakis. Whoever controls Arrakis controls the spice. And whoever controls the spice controls the universe.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dune Messiah](./images/2022/dune-messiah.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dune Messiah
+
+Twelve years after his victory over House Harkonnen, Paul Atreides rules as emperor from the desert planet Arrakis - but his victory has had profound consequences. War has been brought to the entire known universe, and billions have already perished. Despite having become the most powerful emperor known to history, Paul is powerless to bring an end to the fighting.
 
 </div>
 
