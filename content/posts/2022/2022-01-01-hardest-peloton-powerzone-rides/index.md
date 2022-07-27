@@ -1,7 +1,7 @@
 ---
 title: Hardest Peloton Powerzone Rides in 2022
 slug: hardest-peloton-powerzone-rides
-date: 2022-07-19
+date: 2022-07-27
 
 # optional fields
 published: true
@@ -45,6 +45,8 @@ I'll post my graphs as I complete them. #sjmcculloch
 ## Jalapeno Popper - 45 Min PZ - 12/2/20
 
 ![Peloton Powerzone: Jalapeno Popper](./images/jalapeno-popper.jpg)
+
+![Peloton Powerzone: Jalapeno Popper Graph](./images/jalapeno-popper-graph.png)
 
 [Ride Link](https://members.onepeloton.com.au/classes/cycling?duration=%5B%222700%22%5D&class_type_id=%5B%22665395ff3abf4081bf315686227d1a51%22%5D&instructor_id=%5B%22304389e2bfe44830854e071bffc137c9%22%5D&sort=original_air_time&desc=true&modal=classDetailsModal&classId=d0069c74e4c145d7a3bd514a5b23da26)
 
