@@ -1,7 +1,7 @@
 ---
 title: 90 Day Fiancé Viewing Order in 2022
 slug: 2021-90-day-fiance-viewing-order
-date: 2022-07-14
+date: 2022-07-29
 
 # optional fields
 published: true
@@ -40,4 +40,5 @@ Recently I posted a blog entry on [how to watch 90 Day Fiancé in Australia](/ho
 - The Single Life - Season 2 (2021)
 - The Other Way - Season 4 (2021)
 - Season 9 (2022)
+- 90 Day Fiance UK - Season 1 (2022)
 - Happily Ever After - Season 7 (2022) - Starts August 28!
