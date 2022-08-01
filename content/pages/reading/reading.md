@@ -6,6 +6,44 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## August 2022
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Children of Dune](./images/2022/children-of-dune.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Children of Dune
+
+Nine years after Paul Muad'Dib disappeared blind into the deserts of Arrakis at the conclusion of Dune Messiah, his orphaned twins, Ghanima and Leto, are quickly growing up and realizing that they are pawns in an epic struggle for the ultimate power -- control of the Imperium.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Dragons of Deceit](./images/2022/dragons-of-deceit.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dragons of Deceit
+
+Destina Rosethorn--as her name implies--believes herself to be very much a favored child of destiny. But when her father dis in the War of the Lance, her carefully-constructed world comes crashing down.
+
+</div>
+
+</div>
+
 ## July 2022
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
@@ -26,7 +64,7 @@ Melange, or 'spice', is the most valuable - and rarest - element in the universe
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -39,24 +77,6 @@ Melange, or 'spice', is the most valuable - and rarest - element in the universe
 ### Dune Messiah
 
 Twelve years after his victory over House Harkonnen, Paul Atreides rules as emperor from the desert planet Arrakis - but his victory has had profound consequences. War has been brought to the entire known universe, and billions have already perished. Despite having become the most powerful emperor known to history, Paul is powerless to bring an end to the fighting.
-
-</div>
-
-</div>
-
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
-
-<div style={{ minWidth: '150px', padding: '10px'}}>
-
-![Children of Dune](./images/2022/children-of-dune.jpg)
-
-</div>
-
-<div style={{ padding: '10px'}}>
-
-### Children of Dune
-
-Nine years after Paul Muad'Dib disappeared blind into the deserts of Arrakis at the conclusion of Dune Messiah, his orphaned twins, Ghanima and Leto, are quickly growing up and realizing that they are pawns in an epic struggle for the ultimate power -- control of the Imperium.
 
 </div>
 
