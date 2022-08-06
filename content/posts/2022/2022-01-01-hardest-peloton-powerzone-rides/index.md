@@ -1,7 +1,7 @@
 ---
 title: Hardest Peloton Powerzone Rides in 2022
 slug: hardest-peloton-powerzone-rides
-date: 2022-08-01
+date: 2022-08-06
 
 # optional fields
 published: true
@@ -21,6 +21,8 @@ I'll post my graphs as I complete them. #sjmcculloch
 ## The Engagement Ride - 60 Min PZ - 5/28/22
 
 ![Peloton Powerzone: The Engagement Ride](./images/the-engagement-ride.png)
+
+![Peloton Powerzone: The Engagement Ride Graph](./images/the-engagement-ride-graph.png)
 
 [Ride Link](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=dd4575ca7d2f4ef1a2a382a7db531536)
 
