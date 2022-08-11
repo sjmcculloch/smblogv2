@@ -36,6 +36,8 @@ I'll post my graphs as I complete them. #sjmcculloch
 
 ![Peloton Powerzone: The Grinch](./images/the-grinch.png)
 
+![Peloton Powerzone: The Grinch Graph](./images/the-grinch-graph.png)
+
 [Ride Link](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=da105028cc5442748781d22e5c384c81)
 
 ## Lung Buster 2.0 - 30 Min PZ - 9/21/21
