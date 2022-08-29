@@ -30,6 +30,8 @@ I'll post my graphs as I complete them. #sjmcculloch
 
 ![Peloton Powerzone: Watts Up](./images/watts-up.png)
 
+![Peloton Powerzone: Watts Up Graph](./images/watts-up-graph.png)
+
 [Ride Link](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=2108106ad3484c819956865346c9acaa)
 
 ## The Grinch - 45 Min PZ - 12/8/21
