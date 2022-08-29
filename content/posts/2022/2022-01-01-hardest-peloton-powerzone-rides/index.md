@@ -1,7 +1,7 @@
 ---
 title: Hardest Peloton Powerzone Rides in 2022
 slug: hardest-peloton-powerzone-rides
-date: 2022-08-06
+date: 2022-08-29
 
 # optional fields
 published: true
