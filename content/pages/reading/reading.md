@@ -6,6 +6,26 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## September 2022
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Fire & Blood](./images/2022/fire-and-blood.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Fire & Blood
+
+Centuries before the events of A Game of Thrones, House Targaryen--the only family of dragonlords to survive the Doom of Valyria--took up residence on Dragonstone. ire & Blood begins their tale with the legendary Aegon the Conqueror, creator of the Iron Throne, and goes on to recount the generations of Targaryens.
+
+</div>
+
+</div>
+
 ## August 2022
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>

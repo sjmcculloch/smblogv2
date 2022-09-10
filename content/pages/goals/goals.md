@@ -6,12 +6,19 @@ cover: ./cover.jpg
 
 This page is a journal of my monthly goal list.
 
-## August 2022
+## September 2022
 
 - **🚴🏻‍♂️ Biking** - 🎯 800km
 - **📚 Books** - 🎯 2
 - **⛰️ Hike Workouts** - 🎯 10
 - **🏋️ Stretching Workouts** - 🎯 10
+
+## August 2022
+
+- **🚴🏻‍♂️ Biking** - ~~🎯 800km~~ - ✅ 880km
+- **📚 Books** - ~~🎯 2~~ - ✅ 2
+- **⛰️ Hike Workouts** - ~~🎯 10~~ - ❌ 7
+- **🏋️ Stretching Workouts** - ~~🎯 10~~ - ❌ 9
 
 ## July 2022
 
