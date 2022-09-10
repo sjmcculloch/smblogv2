@@ -10,7 +10,7 @@ I started coding in my teens on **multi-user dungeon (MUD)** clients. 25+ years 
 
 ## What I do for a living
 
-I'm currently a Cloud Specialist at [Pia AI](https://pia.ai/).
+I'm currently working at [Pia AI](https://pia.ai/) as **Head of Development**.
 
 My current focus is:
 

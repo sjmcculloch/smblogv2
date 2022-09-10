@@ -72,8 +72,15 @@ module.exports = {
   experiences: [
     {
       company: 'Pia',
+      position: 'Head of Development',
+      period: 'September 2022 - Present',
+      location: 'Remote/Office (Wollongong, Australia)',
+      activities: [''],
+    },
+    {
+      company: 'Pia',
       position: 'Senior Software Engineer',
-      period: 'May 2022 - Present',
+      period: 'May 2022 - September 2022',
       location: 'Remote/Office (Wollongong, Australia)',
       activities: [
         'Azure, CI/CD, ARM, Bicep, IOT Hubs, Service Bus, Event Grid, SQL Server, App Services, Virtual Machines',
