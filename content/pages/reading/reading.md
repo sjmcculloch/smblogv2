@@ -6,6 +6,46 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## October 2022
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Promise of the Witch King](./images/2022/promise-of-the-witch-king.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Promise of the Witch King
+
+Human assassin Artemis Entreri and his dark elf companion Jarlaxle have come to the demon-haunted wastelands of the frozen north at the request of their dragon patron. It doesn't take long for them to find themselves caught in the middle of a struggle between powerful forces that would like nothing more than to see them both dead -- or worse.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Ice Planet Barbarians](./images/2022/ice-planet-barbarians.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Ice Planet Barbarians
+
+You'd think being abducted by aliens would be the worst thing that could happen to me. And you'd be wrong. Because now, the aliens are having ship trouble, and they've left their cargo of human women - including me - on an ice planet.
+
+And the only native inhabitant I've met? He's big, horned, blue, and really, really has a thing for me...
+
+</div>
+
+</div>
+
 ## September 2022
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
