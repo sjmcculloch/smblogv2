@@ -8,7 +8,7 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## November 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -21,6 +21,44 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 ### Legends & Lattes
 
 Worn out after decades of packing steel and raising hell, Viv the orc barbarian cashes out of the warrior’s life with one final score. A forgotten legend, a fabled artifact, and an unreasonable amount of hope lead her to the streets of Thune, where she plans to open the first coffee shop the city has ever seen.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Dragon's Bride](./images/2022/the-dragons-bride.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Dragon's Bride
+
+Briar Rose might have a name out of a storybook, but she learned at a very young age that no prince was coming to save her. She’ll have to save herself. Unfortunately, even that is an impossible task in her current situation—trapped in a terrifying marriage to a dangerous man.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Shadow of the Gods](./images/2022/shadow-of-the-gods.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Shadow of the Gods
+
+After the gods warred and drove themselves to extinction, the cataclysm of their fall shattered the land of Vigrið.
+
+Now a new world is rising, where power-hungry jarls feud and monsters stalk the woods and mountains. A world where the bones of the dead gods still hold great power for those brave - or desperate - enough to seek them out.
 
 </div>
 
