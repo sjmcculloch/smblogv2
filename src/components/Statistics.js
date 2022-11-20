@@ -57,8 +57,6 @@ const Statistics = ({ achievements, records, workoutCounts, workouts }) => {
         <RecordList records={records} />
         <SubTitle>Recent Workouts</SubTitle>
         <WorkoutList workouts={workouts} />
-        <SubTitle>Recent Achievements</SubTitle>
-        <AchievementList achievements={achievements} />
       </ContentWrapper>
     </Fragment>
   )

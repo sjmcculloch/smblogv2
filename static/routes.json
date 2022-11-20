@@ -2,7 +2,12 @@
   "routes": [
     {
       "route": "/2020-90-day-fiance-viewing-order",
-      "serve": "/2021-90-day-fiance-viewing-order",
+      "serve": "/90-day-fiance-viewing-order",
+      "statusCode": 301
+    },
+    {
+      "route": "/2021-90-day-fiance-viewing-order",
+      "serve": "/90-day-fiance-viewing-order",
       "statusCode": 301
     },
     {

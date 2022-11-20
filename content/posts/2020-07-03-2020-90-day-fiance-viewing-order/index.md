@@ -1,7 +1,7 @@
 ---
-title: 90 Day Fiancé Viewing Order in 2022
-slug: 2021-90-day-fiance-viewing-order
-date: 2022-08-29
+title: 90 Day Fiancé Viewing Order
+slug: 90-day-fiance-viewing-order
+date: 2022-11-20
 
 # optional fields
 published: true
@@ -13,7 +13,7 @@ tags:
   - tv
 ---
 
-Recently I posted a blog entry on [how to watch 90 Day Fiancé in Australia](/how-to-watch-90-day-fiance-australia), to coincide is a recommended viewing order:
+Recommended viewing order:
 
 - Season 1 (2014)
 - Season 2 (2014)
@@ -42,4 +42,4 @@ Recently I posted a blog entry on [how to watch 90 Day Fiancé in Australia](/ho
 - Season 9 (2022)
 - 90 Day Fiance UK - Season 1 (2022)
 - Happily Ever After - Season 7 (2022)
-- The Single Life - Season 3 (2022) - Starts September 2!
+- The Single Life - Season 3 (2022)

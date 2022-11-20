@@ -35,6 +35,8 @@ const WorkoutCount = styled.span`
 const WorkoutCountListItem = props => {
   const { name, count, iconSrc, slug } = props
 
+  if (count === 0 ) return (<></>);
+  
   return (
     <Workout>
       <WorkoutIcon src={iconSrc} alt={slug} />

@@ -15,7 +15,7 @@ This page is a journal of my monthly goal list.
 
 ## October 2022
 
-- **🚴🏻‍♂️ FTP Test**  ~~- 🎯 1 ~~ - ✅ 1 (278)
+- **🚴🏻‍♂️ FTP Test**  ~~- 🎯 1~~ - ✅ 1 (278)
 - **📚 Books** ~~- 🎯 2~~ - ✅ 2
 - **⛰️ Hike Workouts** ~~- 🎯 10~~- ❌ 6
 - **🏋️ Stretching Workouts** ~~- 🎯 10~~ - ✅ 12

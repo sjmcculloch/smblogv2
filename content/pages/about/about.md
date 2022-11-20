@@ -10,7 +10,7 @@ I started coding in my teens on **multi-user dungeon (MUD)** clients. 25+ years 
 
 ## What I do for a living
 
-I'm currently working at [Pia AI](https://pia.ai/) as **Head of Development**.
+I'm currently working at [Pia](https://pia.ai/) as **Head of Development**.
 
 My current focus is:
 
@@ -29,11 +29,6 @@ My current focus is:
 - 🐶 **Dog Owner**. Spend time outdoors with my 2 dogs.
 
 ## Contact
-
-Do you have a question regarding one of my projects? a blog post? ...or something else?  
-Don't be shy. **Let's talk**. I do my best to be as accessible as possible.
-
-Here's how you can contact me:
 
 - The best way is to tweet me at [@sj_mcculloch](https://twitter.com/sj_mcculloch);
 - If you're patient, send me an email at [smcculloch@gmail.com](mailto:smcculloch@gmail.com);
