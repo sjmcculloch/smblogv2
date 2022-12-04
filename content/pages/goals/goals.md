@@ -6,12 +6,19 @@ cover: ./cover.jpg
 
 This page is a journal of my monthly goal list.
 
-## November 2022
+## December 2022
 
 - **🚴🏻‍♂️ Biking** - 🎯 600km
 - **📚 Books** - 🎯 2
 - **⛰️ Hike Workouts** - 🎯 10
 - **🏋️ Stretching Workouts** - 🎯 10
+
+## November 2022
+
+- **🚴🏻‍♂️ Biking** ~~- 🎯 600km~~ ❌ 567km
+- **📚 Books** ~~- 🎯 2~~ - ✅ 3
+- **⛰️ Hike Workouts** ~~- 🎯 10~~ ❌ 7
+- **🏋️ Stretching Workouts** ~~- 🎯 10~~ - ✅ 14
 
 ## October 2022
 

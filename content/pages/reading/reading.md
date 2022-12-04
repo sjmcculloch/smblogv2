@@ -6,6 +6,44 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## December 2022
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The](./images/2022/barbarian-alien.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Barbarian Alien
+
+Liz Cramer swears she'll find a way off of this alien planet she's stuck on--then she meets Raahosh, the surliest and stubbornest alien, who won't leave her alone, and she just might be okay with that...
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Hunger of the Gods](./images/2022/the-hunger-of-the-gods.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Hunger of the Gods
+
+Lik-Rifa, the dragon god of legend, has been freed from her eternal prison. Now she plots a new age of blood and conquest.
+
+</div>
+
+</div>
+
 ## November 2022
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
