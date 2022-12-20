@@ -26,7 +26,7 @@ Liz Cramer swears she'll find a way off of this alien planet she's stuck on--the
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -39,6 +39,22 @@ Liz Cramer swears she'll find a way off of this alien planet she's stuck on--the
 ### The Hunger of the Gods
 
 Lik-Rifa, the dragon god of legend, has been freed from her eternal prison. Now she plots a new age of blood and conquest.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The 3 Alarms: A Simple System to Transform Your Health, Wealth, and Relationships Forever](./images/2022/the-three-alarms.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The 3 Alarms: A Simple System to Transform Your Health, Wealth, and Relationships Forever
 
 </div>
 
