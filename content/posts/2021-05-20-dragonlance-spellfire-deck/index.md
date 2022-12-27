@@ -1,7 +1,7 @@
 ---
 title: Dragonlance Spellfire Deck
 slug: dragonlance-spellfire-deck
-date: 2021-05-20
+date: 2022-12-27
 
 # optional fields
 published: true
@@ -13,6 +13,7 @@ tags:
   - ccg
   - dnd
   - 90s
+  - dragonlance
 ---
 
 Recently I've been re-learning Spellfire, a Dungeons & Dragons CCG from the 90s. I've detailed the gameplay and mechanics [here](/remembering-spellfire-ccg-rules-gameplay).
