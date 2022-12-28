@@ -14,7 +14,9 @@ tags:
   - dnd
 ---
 
-One of my goals for 2023 is to collect as many of the Dragonlance sourcebooks and modules. A green tick indicates ownership.
+The complete list of Dragonlance sourcebooks and modules. A green tick indicates ownership. 
+
+If you are looking for the fantasy novels, see [Dragonlance reading order](/dragonlance-reading-order). 
 
 ## Advanced Dungeons & Dragons 1st/2nd Edition
 
@@ -32,7 +34,7 @@ One of my goals for 2023 is to collect as many of the Dragonlance sourcebooks an
 
 ### DL1 - Dragons of Despair
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters Level 4-6.
 
 </div>
 
@@ -50,7 +52,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL2 - Dragons of Flame
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 5-7
 
 </div>
 
@@ -68,7 +70,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL3 - Dragons of Hope
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 6-8.
 
 </div>
 
@@ -86,7 +88,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL4 - Dragons of Desolation
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 6-8.
 
 </div>
 
@@ -104,7 +106,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL5 - Dragons of Mystery
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+A sourcebook for the most exciting epic ever from TSR. Now you and your players can have the entire world of Krynn at your fingertips! 
 
 </div>
 
@@ -122,7 +124,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL6 - Dragons of Ice
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 6-9.
 
 </div>
 
@@ -140,7 +142,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL7 - Dragons of Light
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 7-9.
 
 </div>
 
@@ -150,7 +152,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![DL8: Dragons of Ice](./images/dl8-dragons-of-war.jpg)
+![DL8: Dragons of War](./images/dl8-dragons-of-war.jpg)
 
 </div>
 
@@ -158,7 +160,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL8 - Dragons of War
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 8-10.
 
 </div>
 
@@ -176,7 +178,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL9 - Dragons of Deceit ✅
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 8-10.
 
 </div>
 
@@ -194,7 +196,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL10 - Dragons of Dreams ✅
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 8-10.
 
 </div>
 
@@ -212,7 +214,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL11 - Dragons of Glory
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Across the world of Krynn, the armies of light and darkness clash in titanic struggle. Now the vast forces of the High Solamnic Knights and the Dragon Highlords are yours to command. "Dragons of Glory" puts you and your players in charge of all the armies of Krynn.
 
 </div>
 
@@ -230,7 +232,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL12 - Dragons of Faith
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for Character Levels 9-10.
 
 </div>
 
@@ -248,7 +250,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL13 - Dragons of Truth
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 10-13.
 
 </div>
 
@@ -266,7 +268,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL14 - Dragons of Triumph
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 6-8.
 
 </div>
 
@@ -284,7 +286,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL15 - Mists of Krynn
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Twelve different authors have combined to fill this book with adventures, new NPCs, and in-depth looks at the unique races of Krynn, including Kender, Gully Dwarves, Shadow People, and the fearsome Draconians! 
 
 </div>
 
@@ -302,7 +304,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DL16 - World of Krynn
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+You are cordially invited to enter the dangerous world of the Dragonlance saga. The World of Krynn brings you to previously unexplored corners of Krynn with new challenges for your characters.
 
 </div>
 
@@ -322,7 +324,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Dragonlance Adventures ✅
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Provides all-new information on the character classes, races, artifacts, and powers that are unique to the fascinating world of Krynn.
 
 </div>
 
@@ -340,7 +342,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Atlas of the Dragonlance World ✅
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Accompany the Heroes of the Lance on their epic travels across Krynn in this magnificently illustrated volume.
 
 </div>
 
@@ -358,7 +360,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Player's Guide to the Dragonlance Campaign
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Through a combination of original fiction and long-established fact, you will discover the continent of Ansalon—home to the Heroes of the Lance. You will find information about the races of the world, its major cities and regions, its deities, and its monsters
 
 </div>
 
@@ -378,7 +380,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Time of the Dragon
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Time of the Dragon includes two information-packed books totaling 160 pages, four full-color maps, and 24 individual color plates showing maps, NPCs, and major races.
 
 </div>
 
@@ -396,7 +398,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Tales of the Lance
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The Tales of the Lance set guides you through a land of romance and adventure. Discover tinker gnomes, curious kender, valiant knights, and dark, deadly dragons. Join the adventure in the world of the legendary Dragonlance.
 
 </div>
 
@@ -414,7 +416,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Dwarven Kingdoms of Krynn
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The secrets of the dwarves revealed! Two booklets contained in this set hold information that has never before been collected in one place.
 
 </div>
 
@@ -434,7 +436,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLA1 - Dragon Dawn
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Players must track down the dragon killers and warn the conclave of the Othlorx, but those are only the first steps in thwarting a dreadful conspiracy aimed at all of Krynn!
 
 </div>
 
@@ -452,7 +454,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLA2 - Dragon Knight
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Someone or something is killing the Othlorx ('The Uninvolved') dragons of Taladas. Not only good dragons, but evil ones as well. PCs must masquerade as dragon hunters and set out to destroy dragons.
 
 </div>
 
@@ -470,7 +472,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLA3 - Dragon's Rest
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+On the previously unknown continent of Taladas, the heroes must strive to thwart the extraplanar invasion plans of Erestem, Queen of Evil, also known as Takhisis. Failure means doom for all of Krynn!
 
 </div>
 
@@ -490,7 +492,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLE1 - In Search of Dragons
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+In this AD&D adventure set in the world of the Dragonlance saga, players must discover what is wrong with the good dragons of Krynn.
 
 </div>
 
@@ -508,7 +510,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLE2 - Dragon Magic
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Following Search of Dragons, the players investigate, the knowledge they gain seems to point more and more to a sinister thereat of evil undreamed of since the War of the Lance.
 
 </div>
 
@@ -526,7 +528,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLE3 - Dragon Keep
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+This third module brings to a climax the epic tale begun with In Search of Dragons, and continued in Dragon Magic. On success or failure hangs the fate of tone of the noblest races of Krynn.
 
 </div>
 
@@ -546,7 +548,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLQ1 - Knight's Sword
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 1-3.
 
 </div>
 
@@ -564,7 +566,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLQ2 - Flint's Axe
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 2-4.
 
 </div>
 
@@ -584,7 +586,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLR1 - Otherlands
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Otherlands is a 96-page sourcebook detailing three fascinating, never-seen-before areas on the planet of Krynn.
 
 </div>
 
@@ -602,7 +604,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLR2 - Taladas: The Minotaurs
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Prepare to be enlightened (and perhaps surprised!) as you read this, the first material ever released about these mysterious and misunderstood creatures: the minotaurs of Taladas.
 
 </div>
 
@@ -620,7 +622,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLR3 - Unsung Heroes
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Add new life to your Dragonlance campaign with these new characters, the Unsung Heroes.
 
 </div>
 
@@ -640,7 +642,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLS1 - New Beginnings
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+This essential adventure provides all the information necessary for new players to begin adventuring in the Taladas campaign setting.
 
 </div>
 
@@ -658,7 +660,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLS2 - Tree Lords
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+In Tree Lords, you will find not only an adventure about and for elves, but also information on a new character class: the Kirath (Silvanesti Scout).
 
 </div>
 
@@ -676,7 +678,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLS3 - Oak Lords
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+This adventure, the second part of a trilogy, will lead the PCs to many ancient secrets and magical wonders, including an excursion into the Astral plane!
 
 </div>
 
@@ -694,7 +696,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLS4 - Wild Elves
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Free the Kagonesti elves from their shackles and lead them to safety in the Valley of Perfect Silences.
 
 </div>
 
@@ -714,7 +716,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLT1 - New Tales: The Land Reborn
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The War of the Lance may be over, but the Heroes' jobs have only begun. Return to the time just after the end of the War, when the land is healing and its peoples are struggling to rebuild their lives.
 
 </div>
 
@@ -732,7 +734,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### DLT2 - Dragonlance Book of Lairs
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+At long last, adventures set in Ansalon that can be played in a single session.
 
 </div>
 
@@ -754,7 +756,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Fifth Age
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The game features the unique SAGA dramatic adventure rules, designed to reproduce the sweeping romance and fantastic epics of the Dragonlance tradition.
 
 </div>
 
@@ -772,7 +774,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Heroes of Steel
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Heroes of Steel introduces you to heroes of strength and courage, offering hints for playing warriors and an adventure that pits their skills against a horrifying new menace.
 
 </div>
 
@@ -790,7 +792,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Heroes of Defiance
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Heroes of Defiance introduces you to the rogues, spies, diplomats, and scouts of Ansalon, and an adventure to uncover the truth behind the origin of the terrifying dragonspawn.
 
 </div>
 
@@ -808,7 +810,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Heroes of Sorcery
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Heroes of Sorcery introduces you to spellcasting, and an adventure to recover a powerful artifact from the legendary Tomb of Huma before it falls into the clutches of Khellendros the Blue.
 
 </div>
 
@@ -826,7 +828,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Heroes of Hope
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Heroes of Hope introduces you to shapechangers, healers, necromancers, mentalists, and an epic journey over land and sea to seek the Crown of Tides in a realm of aquatic elves.
 
 </div>
 
@@ -844,7 +846,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### The Last Tower: The Legacy of Raistlin
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The Last Tower includes Adventures in Magic, a book containing scenarios for modern-day Tests of High Sorcery, trips through Wayreth's dreamlike dungeon, and an adventure that pits the heroes against Dark Knights, gully dwarves, and a clever copper dragon.
 
 </div>
 
@@ -862,7 +864,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Citadel of Light
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Built by dwarves, protected by Solamnic Knights, and sacred to pilgrims of virtually every race on Krynn, the crystal domes of the Citadel of Light are the Fifth Age's first and greatest center of new magic.
 
 </div>
 
@@ -880,7 +882,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Wings of Fury
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+"Wings of Fury" provides a wealth of detail about the mightiest creatures of Krynn. The handbook within this box, "Dragonlore," presents details on all aspects of dragonkind.
 
 </div>
 
@@ -918,7 +920,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### The Bestiary
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The Bestiary provides readers with an ultimate guide to the animals and creatures of the Dragonlance Saga - beasts from the classic tales set during the War of the Lance, as well as newer monsters from the Fifth Age of Krynn.
 
 </div>
 
@@ -936,7 +938,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Palanthas
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Explore ancient and wondrous Palanthas, from her bustling waterfront to the cloistered mansions atop Nobles' Hill.
 
 </div>
 
@@ -956,7 +958,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### The Sylvan Veil
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+More than just an adventure, this book also details Silvanesti culture and politics, geography and places of interest, important individuals, and elven magical items and artifacts.
 
 </div>
 
@@ -974,7 +976,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Rise of the Titans
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Rise of the Titans contains details accounts of ogre culture, describes the countries of Blode and Kern, provides new hero roles, and introduces rules for playing ogre heroes.
 
 </div>
 
@@ -994,7 +996,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Seeds of Chaos
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The start of a new adventure series that details the epic battles of the Chaos War, described in the novel Dragons of Summer Flame.
 
 </div>
 
