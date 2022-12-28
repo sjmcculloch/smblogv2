@@ -30,6 +30,6 @@ My current focus is:
 
 ## Contact
 
-- The best way is to tweet me at [@sj_mcculloch](https://twitter.com/sj_mcculloch);
-- If you're patient, send me an email at [smcculloch@gmail.com](mailto:smcculloch@gmail.com);
+- The best way is to tweet me at [@sj_mcculloch](https://twitter.com/sj_mcculloch).
+- If you're patient, send me an email at [smcculloch@gmail.com](mailto:smcculloch@gmail.com).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/sjmcculloch/).
