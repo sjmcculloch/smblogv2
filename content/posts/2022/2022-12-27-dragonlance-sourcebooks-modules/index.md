@@ -1,7 +1,7 @@
 ---
 title: Dragonlance Sourcebooks and Modules
 slug: dragonlance-sourcebooks-modules
-date: 2022-12-27
+date: 2022-12-28
 
 # optional fields
 published: true
@@ -1036,7 +1036,7 @@ The great city of Palanthas finds itself under attack by daemon warriors astride
 
 ### Dragonlance Campaign Setting
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+From Solamnic Knights and Dragon Riders to kender, tinker gnomes, and draconians, the rich tapestry of the Dragonlance world comes alive in this campaign setting.
 
 </div>
 
@@ -1054,7 +1054,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Bestiary of Krynn
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The original artwork that won awards is back, along with creatures useful for Dragonlance campaigns but could be easily ported to other d20 System campaign worlds.
 
 </div>
 
@@ -1074,7 +1074,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Age of Mortals
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Enjoy the wealth of information about the struggles, villains, and heroes of the Fifth Age or use the book as a companion to the Dragonlance Campaign Setting and discover endless adventure!
 
 </div>
 
@@ -1092,7 +1092,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### War of the Lance
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The War of the Lance Campaign Book is designed as a companion volume to the Dragonlance Campaign Setting published by Wizards of the Coast.
 
 </div>
 
@@ -1110,7 +1110,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Legend of the Twins
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Legends of the Twins is a resource for games set in the world of Dragonlance. Inside one will find information for players, including variant rules for character traits, new feats, prestige classes. 
 
 </div>
 
@@ -1130,7 +1130,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Towers of High Sorcery
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The Towers of Wayreth and Nightlund are explained in great detail, while the "lost" Towers of past ages are presented for the first time anywhere! 
 
 </div>
 
@@ -1148,7 +1148,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Holy Order of the Stars
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Contained within these pages are resources for players, including information on the gods and the races of Krynn, new prestige classes, spells, and magical items.
 
 </div>
 
@@ -1166,7 +1166,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Knightly Orders of Ansalon
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Knightly Orders of Ansalon contains information useful for both players and Dungeon Masters, as well as Dragonlance fans who wish to know even more about the military orders of the world and the characters who belong to them.
 
 </div>
 
@@ -1184,7 +1184,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Races of Ansalon
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Races of Ansalon is a resource for games set in the world of Dragonlance. It is an encyclopedia of cultures that details everything from racial relations and psychology to history and language.
 
 </div>
 
@@ -1202,7 +1202,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Dragons of Krynn
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+This volume offers authorial insights, creative perspectives, cultural legends, and factual accounts of the marvelous wyrms of Krynn from the ten clans of true dragons and their myriad kindred to the indomitable breeds of draconians.
 
 </div>
 
@@ -1222,7 +1222,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Key of Destiny
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 1.
 
 </div>
 
@@ -1240,7 +1240,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Spectre of Sorrows
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 8.
 
 </div>
 
@@ -1258,7 +1258,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Price of Courage
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 14.
 
 </div>
 
@@ -1278,7 +1278,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Dragons of Autumn
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 5-7.
 
 </div>
 
@@ -1296,7 +1296,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Dragons of Winter
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 9-11.
 
 </div>
 
@@ -1314,7 +1314,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Dragons of Spring
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+An adventure for characters level 9-11.
 
 </div>
 
@@ -1334,7 +1334,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Tasslehoff's Map Pouch: The Age of Mortals
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+The collection starts with a full-sized poster map of Ansalon, continues with regional and location maps, and concludes with a pair of "kender"-style maps drawn by the irrepressible adventurer himself. 
 
 </div>
 
@@ -1352,7 +1352,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Tasslehoff's Map Pouch: War of the Lance
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+"Uncle" Tasslehoff has shared even more of his amazing map collection, this time with maps focusing on the Fourth Age and the War of the Lance
 
 </div>
 
@@ -1370,7 +1370,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Tasslehoff's Map Pouch: Legends
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Tasslehoff’s Map Pouch: Legends contains one dozen maps, including a poster map of pre-Cataclysm Ansalon during the Age of Might. 
 
 </div>
 
@@ -1392,7 +1392,7 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 ### Shadow of the Dragon Queen
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Create characters from Krynn, the world of the Dragonlance setting, then march them to the front lines of battle against the terrifying Dragon Armies.
 
 </div>
 
@@ -1404,15 +1404,15 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Dragonlance: Shadow of the Dragon Queen](./images/warriors-of-krynn.jpg)
+![Dragonlance: Warriors of Krynn](./images/warriors-of-krynn.jpg)
 
 </div>
 
 <div style={{ padding: '10px'}}>
 
-### Shadow of the Dragon Queen
+### Warriors of Krynn
 
-Dragons from the distant past gather to engulf the world of Krynn in war.
+Warriors of Krynn is a battle game which allows you to play out massive military battles in the world of Krynn.
 
 </div>
 
