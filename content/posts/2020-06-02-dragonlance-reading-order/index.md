@@ -1,7 +1,7 @@
 ---
 title: Recommended Dragonlance Reading Order
 slug: dragonlance-reading-order
-date: 2021-09-17
+date: 2022-12-30
 
 # optional fields
 published: true
@@ -442,6 +442,44 @@ The Dark Disciple's fate will alter the future of Krynn. In the concluding volum
 Now your reading journey is where you want to take it. I've grouped some of my favourite novels into themes. These can be read in any order.
 
 ## Recent Past - Heroes of the Lance
+
+> Novels that feature time travel during War of the Lance. New for 2022!
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Dragons of Deceit](./images/dragons-of-deceit.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dragons of Deceit
+
+Destina Rosethorn--as her name implies--believes herself to be very much a favored child of destiny. But when her father dies in the War of the Lance, her carefully-constructed world comes crashing down. 
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Dragons of Fate](./images/dragons-of-fate.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dragons of Fate
+
+A courageous heroine trapped in the distant past is determined to return to her own time—without changing the shape of the world forever!
+
+</div>
+
+</div>
 
 > Novels about the companions set before the War of the Lance.
 

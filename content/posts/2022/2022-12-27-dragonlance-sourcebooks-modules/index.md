@@ -1,7 +1,7 @@
 ---
 title: Dragonlance Sourcebooks and Modules
 slug: dragonlance-sourcebooks-modules
-date: 2022-12-28
+date: 2022-12-30
 
 # optional fields
 published: true
@@ -1380,7 +1380,7 @@ Tasslehoff’s Map Pouch: Legends contains one dozen maps, including a poster ma
 
 > Sourcebook/Campaign
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -1400,7 +1400,7 @@ Create characters from Krynn, the world of the Dragonlance setting, then march t
 
 > Board Games
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -1413,6 +1413,102 @@ Create characters from Krynn, the world of the Dragonlance setting, then march t
 ### Warriors of Krynn
 
 Warriors of Krynn is a battle game which allows you to play out massive military battles in the world of Krynn.
+
+</div>
+
+</div>
+
+> 3rd party unofficial supplements
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Tasslehoff's Pouches of Everything](./images/tasslehoffs-pouches-of-everything.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Tasslehoff's Pouches of Everything
+
+A 3rd party 5e sourcebook that encompasses all ages of Krynn, and an action-packed adventure for 1st level characters (based on Champions of Krynn). 
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance Companion](./images/dragonlance-companion.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dragonlance Companion
+
+The world of Krynn is yours with the Dragonlance Companion. Players and DMs will find everything they need to create compelling characters and undertake exciting adventures across Ansalon and beyond.  
+
+</div>
+
+</div>
+
+## Systemless
+
+> Lore books for any system
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Leaves from the Inn of the Last Home](./images/leaves-from-the-inn-of-the-last-home.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Leaves from the Inn of the Last Home
+
+A collection of Dragonlance essays, legends, and recipes. Astinus of Palanthas discusses the creation of Krynn, Bertrem explains the difference between kender and gully dwarves, and Lord Gunthar shares his notes on dragon tactics.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: More Leaves from the Inn of the Last Home](./images/more-leaves-from-the-inn-of-the-last-home.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### More Leaves from the Inn of the Last Home
+
+Inside this volume you will find articles on many subjects, including Que-Shue divination practices, Lord Gunthar's Last Will and Testament, Fashions of Krynn and as always, music, recipes, kender sayings, and much more.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Lost Leaves from the Inn of the Last Home](./images/lost-leaves-from-the-inn-of-the-last-home.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Lost Leaves from the Inn of the Last Home
+
+In the tradition of Leaves from the Inn of the Last Home, this new volume contains a collection of source material for all fans of the Dragonlance saga, all drawn together and edited by bestselling author Margaret Weis.
 
 </div>
 
