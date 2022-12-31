@@ -1,7 +1,7 @@
 ---
 title: Dragonlance Sourcebooks and Modules
 slug: dragonlance-sourcebooks-modules
-date: 2022-12-30
+date: 2022-12-31
 
 # optional fields
 published: true
@@ -1390,7 +1390,7 @@ Tasslehoff’s Map Pouch: Legends contains one dozen maps, including a poster ma
 
 <div style={{ padding: '10px'}}>
 
-### Shadow of the Dragon Queen
+### Shadow of the Dragon Queen ✅
 
 Create characters from Krynn, the world of the Dragonlance setting, then march them to the front lines of battle against the terrifying Dragon Armies.
 
@@ -1410,7 +1410,7 @@ Create characters from Krynn, the world of the Dragonlance setting, then march t
 
 <div style={{ padding: '10px'}}>
 
-### Warriors of Krynn
+### Warriors of Krynn ✅
 
 Warriors of Krynn is a battle game which allows you to play out massive military battles in the world of Krynn.
 
@@ -1470,7 +1470,7 @@ The world of Krynn is yours with the Dragonlance Companion. Players and DMs will
 
 <div style={{ padding: '10px'}}>
 
-### Leaves from the Inn of the Last Home
+### Leaves from the Inn of the Last Home ✅
 
 A collection of Dragonlance essays, legends, and recipes. Astinus of Palanthas discusses the creation of Krynn, Bertrem explains the difference between kender and gully dwarves, and Lord Gunthar shares his notes on dragon tactics.
 
@@ -1488,7 +1488,7 @@ A collection of Dragonlance essays, legends, and recipes. Astinus of Palanthas d
 
 <div style={{ padding: '10px'}}>
 
-### More Leaves from the Inn of the Last Home
+### More Leaves from the Inn of the Last Home ✅
 
 Inside this volume you will find articles on many subjects, including Que-Shue divination practices, Lord Gunthar's Last Will and Testament, Fashions of Krynn and as always, music, recipes, kender sayings, and much more.
 
@@ -1509,6 +1509,26 @@ Inside this volume you will find articles on many subjects, including Que-Shue d
 ### Lost Leaves from the Inn of the Last Home
 
 In the tradition of Leaves from the Inn of the Last Home, this new volume contains a collection of source material for all fans of the Dragonlance saga, all drawn together and edited by bestselling author Margaret Weis.
+
+</div>
+
+</div>
+
+> Solo Quests
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragonlance: Gnomes - 100, Dragons - 0](./images/gnomes-100-dragons-0.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Gnomes - 100, Dragons - 0
+
+A unique feature of this book is a roguish Draconian, a member of the Dark Queen's advancing horde, which may help or hinder you and may be hiding on any page!
 
 </div>
 
