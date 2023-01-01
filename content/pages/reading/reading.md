@@ -6,13 +6,51 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## January 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Sword of Kaigen: A Theonite War Story](./images/2023/the-sword-of-kaigen.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Sword of Kaigen: A Theonite War Story
+
+A mother struggling to repress her violent past, a son struggling to grasp his violent future, a father blind to the danger that threatens them all.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Barbarian Lover](./images/2023/barbarian-lover.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Barbarian Lover
+
+Kira plans on remaining single on this alien planet—she doesn’t want a mate anyway. At least, that’s what she tells herself. But when Aehako comes along, everything changes. . . .
+
+</div>
+
+</div>
+
 ## December 2022
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![The](./images/2022/barbarian-alien.jpg)
+![Barbarian Alien](./images/2022/barbarian-alien.jpg)
 
 </div>
 
