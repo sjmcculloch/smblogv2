@@ -1,5 +1,5 @@
 ---
-title: Recommended Dragonlance Reading Order
+title: Dragonlance Reading Order
 slug: dragonlance-reading-order
 date: 2022-12-30
 
