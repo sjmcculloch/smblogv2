@@ -473,7 +473,7 @@ Destina Rosethorn--as her name implies--believes herself to be very much a favor
 
 <div style={{ padding: '10px'}}>
 
-### Dragons of Fate
+### Dragons of Fate (coming August 2023!)
 
 A courageous heroine trapped in the distant past is determined to return to her own time—without changing the shape of the world forever!
 
