@@ -26,7 +26,7 @@ A mother struggling to repress her violent past, a son struggling to grasp his v
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -39,6 +39,24 @@ A mother struggling to repress her violent past, a son struggling to grasp his v
 ### Barbarian Lover
 
 Kira plans on remaining single on this alien planet—she doesn’t want a mate anyway. At least, that’s what she tells herself. But when Aehako comes along, everything changes. . . .
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![An Atypical ASP.NET Core 6 Design Patterns Guide](./images/2023/an-atypical-asp-net-core-6-design-patterns-guide.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### An Atypical ASP.NET Core 6 Design Patterns Guide
+
+A SOLID adventure into architectural principles and design patterns using .NET 6 and C# 10.
 
 </div>
 
