@@ -1,7 +1,7 @@
 ---
 title: 90 Day Fiancé Viewing Order
 slug: 90-day-fiance-viewing-order
-date: 2022-11-20
+date: 2023-01-06
 
 # optional fields
 published: true
@@ -43,3 +43,4 @@ Recommended viewing order:
 - 90 Day Fiance UK - Season 1 (2022)
 - Happily Ever After - Season 7 (2022)
 - The Single Life - Season 3 (2022)
+- The Other Way - Season 5 (2022) - Starting 29th January!
