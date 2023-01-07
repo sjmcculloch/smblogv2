@@ -43,4 +43,4 @@ Recommended viewing order:
 - 90 Day Fiance UK - Season 1 (2022)
 - Happily Ever After - Season 7 (2022)
 - The Single Life - Season 3 (2022)
-- The Other Way - Season 5 (2022) - Starting 29th January!
+- The Other Way - Season 5 (2023) - Starting 29th January!
