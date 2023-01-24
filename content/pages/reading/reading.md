@@ -44,7 +44,7 @@ Kira plans on remaining single on this alien planet—she doesn’t want a mate 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -57,6 +57,26 @@ Kira plans on remaining single on this alien planet—she doesn’t want a mate 
 ### An Atypical ASP.NET Core 6 Design Patterns Guide
 
 A SOLID adventure into architectural principles and design patterns using .NET 6 and C# 10.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Barbarian Mine](./images/2023/barbarian-mine.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Barbarian Mine
+
+The ice planet has given me a second lease on life, so I'm thrilled to be here. Sure, there's no cheeseburgers, but I'm healthy and ready to be a productive member of the small tribe.
+
+What I didn't anticipate? That there'd be a savage stranger waiting nearby, watching me. And when he takes me captive, the unthinkable happens... I resonate to him.
 
 </div>
 

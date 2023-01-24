@@ -6,10 +6,17 @@ cover: ./cover.jpg
 
 This page is a journal of my monthly goal list.
 
+## January 2023
+
+- **🚴🏻‍♂️ Running Workouts** - 🎯 10
+- **📚 Books** ~~- 🎯 2
+- **🏋️ Yoga Workouts** - 🎯 10
+- **🏋️ Stretching Workouts** - 🎯 10
+
 ## December 2022
 
 - **🚴🏻‍♂️ Biking** - 🎯 600km
-- **📚 Books** - 🎯 2
+- **📚 Books** ~~- 🎯 2~~ - ✅ 3
 - **⛰️ Hike Workouts** - 🎯 10
 - **🏋️ Stretching Workouts** - 🎯 10
 
