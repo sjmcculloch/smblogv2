@@ -6,6 +6,26 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## February 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Kings of the Wyld](./images/2023/kings-of-the-wyld.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Kings of the Wyld
+
+Clay Cooper and his band were once the best of the best -- the meanest, dirtiest, most feared crew of mercenaries this side of the Heartwyld. It's time to get the band back together for one last tour across the Wyld.
+
+</div>
+
+</div>
+
 ## January 2023
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
