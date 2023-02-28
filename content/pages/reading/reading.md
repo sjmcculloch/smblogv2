@@ -6,6 +6,26 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## March 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Poppy War](./images/2023/the-poppy-war.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Poppy War
+
+A brilliantly imaginative talent makes her exciting debut with this epic historical military fantasy, inspired by the bloody history of China's twentieth century and filled with treachery and magic, in the tradition of Ken Liu's Grace of Kings and N.K. Jemisin's Inheritance Trilogy.
+
+</div>
+
+</div>
+
 ## February 2023
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
