@@ -8,7 +8,7 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## March 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -21,6 +21,24 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 ### The Poppy War
 
 A brilliantly imaginative talent makes her exciting debut with this epic historical military fantasy, inspired by the bloody history of China's twentieth century and filled with treachery and magic, in the tradition of Ken Liu's Grace of Kings and N.K. Jemisin's Inheritance Trilogy.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Dragon Republic](./images/2023/the-dragon-republic.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Dragon Republic
+
+n the aftermath of the Third Poppy War, shaman and warrior Rin is on the run: haunted by the atrocity she committed to end the war, addicted to opium, and hiding from the murderous commands of her vengeful god, the fiery Phoenix. Her only reason for living is to get revenge on the traitorous Empress who sold out Nikan to their enemies.
 
 </div>
 
