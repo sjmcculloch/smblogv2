@@ -6,6 +6,26 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## April 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Burning God](./images/2023/the-burning-god.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Burning God
+
+The exciting end to The Poppy War trilogy, R. F. Kuang's acclaimed, award-winning epic fantasy that combines the history of twentieth-century China with a gripping world of gods and monsters, to devastating, enthralling effect.
+
+</div>
+
+</div>
+
 ## March 2023
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
