@@ -6,6 +6,64 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## May 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Circe](./images/2023/circe.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Circe
+
+In the house of Helios, god of the sun and mightiest of the Titans, a daughter is born. But Circe is a strange child--neither powerful like her father nor viciously alluring like her mother. Turning to the world of mortals for companionship, she discovers that she does possess power: the power of witchcraft, which can transform rivals into monsters and menace the gods themselves.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Fourth Wing](./images/2023/fourth-wing.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Fourth Wing
+
+Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, living a quiet life among books and history. Now, the commanding general—also known as her tough-as-talons mother—has ordered Violet to join the hundreds of candidates striving to become the elite of Navarre: dragon riders.
+
+</div>
+
+</div>
+
+## April 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Burning God](./images/2023/the-burning-god.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Burning God
+
+The exciting end to The Poppy War trilogy, R. F. Kuang’s acclaimed, award-winning epic fantasy that combines the history of twentieth-century China with a gripping world of gods and monsters, to devastating, enthralling effect.
+
+</div>
+
+</div>
+
 ## March 2023
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
