@@ -46,7 +46,7 @@ Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, liv
 
 ## April 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -58,7 +58,7 @@ Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, liv
 
 ### The Burning God
 
-The exciting end to The Poppy War trilogy, R. F. Kuang’s acclaimed, award-winning epic fantasy that combines the history of twentieth-century China with a gripping world of gods and monsters, to devastating, enthralling effect.
+The exciting end to The Poppy War trilogy, R. F. Kuang's acclaimed, award-winning epic fantasy that combines the history of twentieth-century China with a gripping world of gods and monsters, to devastating, enthralling effect.
 
 </div>
 

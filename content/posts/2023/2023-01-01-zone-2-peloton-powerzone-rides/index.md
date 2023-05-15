@@ -18,6 +18,12 @@ Everyone needs an __easier__ ride. Here are some great recovery options in zone 
 
 > Times are Australian East Standard Time. Some classes might be a day off. Use "Ride Link".
 
+## 45 Min PZE - Christine D'Ercole - 3/28/23
+
+[![Peloton Powerzone Zone 2: 3/28/23](./images/2023-03-28.png)](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=bf9a8d27671c4dc1a44d10f07a422769)
+
+[Ride Link](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=bf9a8d27671c4dc1a44d10f07a422769)
+
 ## 60 Min PZE - Christine D'Ercole - 2/21/22
 
 [![Peloton Powerzone Zone 2: 2/21/22](./images/2022-02-21.png)](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=3c8873ecac12439f8eaea74437ac849a)
