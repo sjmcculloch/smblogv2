@@ -194,7 +194,7 @@ exports.sourceNodes = async ({
     }
 
     const responseOverview = await fetch(
-      `https://api.onepeloton.com/api/user/${authData.user_id}/overview?version=2`,
+      `https://api.onepeloton.com/api/user/${authData.user_id}/overview?version=1`,
       opts
     )
     const overviewData = await responseOverview.json()
@@ -212,30 +212,42 @@ exports.sourceNodes = async ({
     })
 
     if (overviewData.personal_records) {
-      overviewData.personal_records.forEach(record => {
-        record.icon_url = overviewData.workout_counts.workouts.find(
-          workout => workout.slug === record.slug
-        ).icon_url
-        const newNode = {
-          ...record,
-          id: createNodeId(record.name),
-          internal: {
-            type: 'Record',
-            contentDigest: createContentDigest(record),
-          },
+      overviewData.personal_records.forEach(recordCategory => {
+        if (recordCategory.slug != 'running_metric_splits') {
+          const workout = overviewData.workout_counts.workouts.find(
+            workout => workout.slug === recordCategory.slug
+          );
+  
+          if (workout != null) {
+            recordCategory.icon_url = workout.icon_url;
+          }
+  
+          recordCategory.records.forEach(record => {
+            record.value = String(record.value)
+          })
+  
+          const newNode = {
+            ...recordCategory,
+            id: createNodeId(recordCategory.name),
+            internal: {
+              type: 'Record',
+              contentDigest: createContentDigest(recordCategory),
+            },
+          }
+          
+          actions.createNode(newNode)
         }
-        actions.createNode(newNode)
       })
     }
 
-    if (overviewData.achievement_counts) {
-      overviewData.achievement_counts.achievements.forEach(achievement => {
+    if (overviewData.achievements) {
+      overviewData.achievements.forEach(achievement => {
         const newNode = {
-          ...achievement.template,
-          id: createNodeId(achievement.template.id),
+          ...achievement,
+          id: createNodeId(achievement.id),
           internal: {
             type: 'Achievement',
-            contentDigest: createContentDigest(achievement.template),
+            contentDigest: createContentDigest(achievement),
           },
         }
         actions.createNode(newNode)
@@ -249,7 +261,7 @@ exports.sourceNodes = async ({
     const pelotonMetaData = await responseMetaData.json()
 
     const responseWorkoutData = await fetch(
-      `https://api.onepeloton.com.au/api/user/${authData.user_id}/workouts?joins=peloton.ride&limit=10&page=0`,
+      `https://api.onepeloton.com.au/api/user/${authData.user_id}/workouts?joins=ride&limit=10&page=0`,
       opts
     )
     const recentWorkouts = await responseWorkoutData.json()
@@ -262,9 +274,9 @@ exports.sourceNodes = async ({
           deviceType => deviceType.device_type === workout.device_type
         ).display_name,
         startTime: workout.start_time,
-        airTime: workout.peloton.ride.original_air_time,
-        title: workout.peloton.ride.title,
-        discipline: workout.peloton.ride.fitness_discipline_display_name,
+        airTime: workout.ride.original_air_time,
+        title: workout.ride.title,
+        discipline: workout.ride.fitness_discipline_display_name,
         totalwork:
           workout.total_work > 0 ? Math.round(workout.total_work / 1000) : null,
         effortPoints:
@@ -272,12 +284,12 @@ exports.sourceNodes = async ({
             ? workout.effort_zones.total_effort_points
             : null,
         instructor:
-          workout.peloton.ride.instructor_id !== null
+          workout.ride.instructor_id !== null
             ? pelotonMetaData.instructors.find(
                 instructor =>
-                  instructor.id === workout.peloton.ride.instructor_id
+                  instructor.id === workout.ride.instructor_id
               )
-            : { name: 'Scenic', image_url: workout.peloton.ride.image_url },
+            : { name: 'Scenic', image_url: workout.ride.image_url },
       }))
       .forEach(workout => {
         const newNode = {

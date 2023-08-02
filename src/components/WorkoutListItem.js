@@ -196,22 +196,33 @@ const WorkoutListItem = props => {
     instructor,
     totalwork,
   } = props
-
+console.log(props);
   return (
     <Wrapper>
       <Container>
         <WorkoutItem>
-          <InstructorAvatar
-            src={`https://res.cloudinary.com/peloton-cycle/image/fetch/ar_1,c_fill,dpr_1.0,f_auto,g_face,h_100,q_auto,r_max,w_100/${instructor.image_url}`}
-            alt={instructor.name}
-          />
+          {instructor ?
+            <InstructorAvatar
+              src={`https://res.cloudinary.com/peloton-cycle/image/fetch/ar_1,c_fill,dpr_1.0,f_auto,g_face,h_100,q_auto,r_max,w_100/${instructor.image_url}`}
+              alt={instructor.name}
+            /> 
+            :
+            <InstructorAvatar
+              src={`https://res.cloudinary.com/peloton-cycle/image/fetch/ar_1,c_fill,dpr_1.0,f_auto,g_face,h_100,q_auto,r_max,w_100/https://s3.amazonaws.com/peloton-ride-images/entertainment_2x.png`}
+            /> 
+
+          }
           <WorkoutData>
             <WorkoutTitle>{title}</WorkoutTitle>
             <WorkoutSubtitle>
-              <Subtitle>{instructor.name}</Subtitle>
-              <Separator />
-              <Point>·</Point>
-              <Separator />
+              {instructor && 
+                <>
+                  <Subtitle>{instructor.name}</Subtitle>
+                  <Separator />
+                  <Point>·</Point>
+                  <Separator />
+                </>
+              }
               <Subtitle>{discipline}</Subtitle>
             </WorkoutSubtitle>
             <WorkoutDate>

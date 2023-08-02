@@ -6,6 +6,84 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## August 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Dragons of Fate](./images/2023/dragons-of-fate.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Dragons of Fate
+
+A courageous heroine trapped in the distant past is determined to return to her own time—without changing the shape of the world forever—as the New York Times bestselling Dragonlance series continues in this thrilling sequel to Dragons of Deceit.
+
+</div>
+
+</div>
+
+## July 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Fellowship of the Ring](./images/2023/the-fellowship-of-the-ring.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Fellowship of the Ring
+
+In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, the Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him.
+
+</div>
+
+</div>
+
+## June 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Song of Achilles](./images/2023/the-song-of-achilles.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Song of Achilles
+
+Achilles, "the best of all the Greeks," son of the cruel sea goddess Thetis and the legendary king Peleus, is strong, swift, and beautiful, irresistible to all who meet him. Patroclus is an awkward young prince, exiled from his homeland after an act of shocking violence. Brought together by chance, they forge an inseparable bond, despite risking the gods' wrath.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Tress of the Emerald Sea](./images/2023/tress-of-the-emerald-sea.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Tress of the Emerald Sea
+
+The only life Tress has known on her island home in an emerald-green ocean has been a simple one, with the simple pleasures of collecting cups brought by sailors from faraway lands and listening to stories told by her friend Charlie. But when his father takes him on a voyage to find a bride and disaster strikes, Tress must stow away on a ship and seek the Sorceress of the deadly Midnight Sea.
+
+</div>
+
+</div>
+
 ## May 2023
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>

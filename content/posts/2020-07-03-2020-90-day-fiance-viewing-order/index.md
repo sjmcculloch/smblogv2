@@ -1,7 +1,7 @@
 ---
 title: 90 Day Fiancé Viewing Order
 slug: 90-day-fiance-viewing-order
-date: 2023-01-06
+date: 2023-08-01
 
 # optional fields
 published: true
@@ -39,8 +39,11 @@ Recommended viewing order:
 - The Other Way - Season 3 (2021)
 - The Single Life - Season 2 (2021)
 - The Other Way - Season 4 (2021)
+- Before the 90 Days - Season 5 (2021)
 - Season 9 (2022)
 - 90 Day Fiance UK - Season 1 (2022)
 - Happily Ever After - Season 7 (2022)
 - The Single Life - Season 3 (2022)
-- The Other Way - Season 5 (2023) - Starting 29th January!
+- The Other Way - Season 5 (2023)
+- Before the 90 Days - Season 6 (2023)
+- The Last Resort - Season 1 (2023) - starts August 24
