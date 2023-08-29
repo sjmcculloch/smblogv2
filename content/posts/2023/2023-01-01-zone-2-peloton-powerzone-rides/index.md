@@ -36,6 +36,24 @@ Everyone needs an __easier__ ride. Here are some great recovery options in zone 
 
 [Ride Link](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=7721cefa7a0d4aa58d2166452dbedbd3)
 
+## 45 Min PZE - Christine D'Ercole - 5/22/23
+
+[![Peloton Powerzone Zone 2: 5/22/23](./images/2023-05-22.png)](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=dd102809054b4b879f578134dde466a3)
+
+[Ride Link](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=dd102809054b4b879f578134dde466a3)
+
+## 45 Min PZE - Matt Wilpers - 5/20/23
+
+[![Peloton Powerzone Zone 2: 5/20/23](./images/2023-05-20.png)](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=a1518ac6a0a94e3a8e12dd8306b885de)
+
+[Ride Link](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=a1518ac6a0a94e3a8e12dd8306b885de)
+
+## 45 Min PZE - Matt Wilpers - 5/4/23
+
+[![Peloton Powerzone Zone 2: 5/4/23](./images/2023-05-04.png)](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=000f4e9c77274cfb89e8a5394ecd37a5)
+
+[Ride Link](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=000f4e9c77274cfb89e8a5394ecd37a5)
+
 ## 45 Min PZE - Christine D'Ercole - 3/28/23
 
 [![Peloton Powerzone Zone 2: 3/28/23](./images/2023-03-28.png)](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=bf9a8d27671c4dc1a44d10f07a422769)
