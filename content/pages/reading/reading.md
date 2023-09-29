@@ -6,6 +6,46 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## October 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Shadowdale](./images/2023/shadowdale.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Shadowdale
+
+Banished from the heavens, they now roam the world, from Tantras to far-off Waterdeep, seeking to regain their full powers. Malevolent Bane, power-hungry Mystra, and Helm, guardian of the heavens, all know the lost Tablets of Fate are the key.
+
+</div>
+
+</div>
+
+## September 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Two Towers](./images/2023/the-two-towers.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Two Towers
+
+Frodo and his Companions of the Ring have been beset by danger during their quest to prevent the Ruling Ring from falling into the hands of the Dark Lord by destroying it in the Cracks of Doom. 
+
+</div>
+
+</div>
+
 ## August 2023
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
