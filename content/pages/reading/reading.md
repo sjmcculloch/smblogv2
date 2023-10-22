@@ -8,6 +8,26 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## October 2023
 
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Heir to the Empire](./images/2023/heir-to-the-empire.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Heir to the Empire
+
+It is a time of renewal, five years after the destruction of the Death Star and the defeat of Darth Vader and the Empire.
+
+But with the war seemingly won, strains are beginning to show in the Rebel Alliance. New challenges to galactic peace have arisen. And Luke Skywalker hears a voice from his past. A voice with a warning. Beware the dark side….
+
+</div>
+
+</div>
+
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>

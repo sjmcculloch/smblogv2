@@ -10,7 +10,7 @@ I started coding in my teens on **multi-user dungeon (MUD)** clients. 25+ years 
 
 ## What I do for a living
 
-I'm currently working at [Pia](https://pia.ai/) as **Head of Development**.
+I'm currently work as Senior Software Engineer.
 
 My current focus is:
 
