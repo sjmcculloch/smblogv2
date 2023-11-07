@@ -6,6 +6,44 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## November 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Bookshops & Bonedust](./images/2023/bookshops-and-bonedust.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Bookshops & Bonedust
+
+When an injury throws a young, battle-hungry orc off her chosen path, she may find that what we need isn't always what we seek.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Last Command](./images/2023/the-last-command.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Last Command
+
+The embattled Republic reels from the attacks of Grand Admiral Thrawn, who has marshaled the remnants of the Imperial forces and driven the Rebels back with an abominable technology recovered from the Emperor's secret fortress: clone soldiers. 
+
+</div>
+
+</div>
+
 ## October 2023
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
@@ -32,15 +70,15 @@ But with the war seemingly won, strains are beginning to show in the Rebel Allia
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Shadowdale](./images/2023/shadowdale.jpg)
+![Dark Force Rising](./images/2023/dark-force-rising.jpg)
 
 </div>
 
 <div style={{ padding: '10px'}}>
 
-### Shadowdale
+### Dark Force Rising
 
-Banished from the heavens, they now roam the world, from Tantras to far-off Waterdeep, seeking to regain their full powers. Malevolent Bane, power-hungry Mystra, and Helm, guardian of the heavens, all know the lost Tablets of Fate are the key.
+The dying Empire's most cunning and ruthless warlord—Grand Admiral Thrawn—has taken command of the remnants of the Imperial fleet and launched a massive campaign aimed at the New Republic's destruction. 
 
 </div>
 

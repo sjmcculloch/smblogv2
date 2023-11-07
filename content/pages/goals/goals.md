@@ -6,12 +6,19 @@ cover: ./cover.jpg
 
 This page is a journal of my monthly goal list.
 
-## February 2023
+## November 2023
 
 - **🚴🏻‍♂️ Running Workouts** - 🎯 10
 - **📚 Books** ~~- 🎯 2
 - **🏋️ Yoga Workouts** - 🎯 10
 - **🏋️ Stretching Workouts** - 🎯 10
+
+## February 2023
+
+- **🚴🏻‍♂️ Running Workouts** ~~- 🎯 10~~ - ✅ 10
+- **📚 Books** ~~- 🎯 2~~ - ✅ 4
+- **🏋️ Yoga Workouts** ~~- 🎯 10~~ - ✅ 12
+- **🏋️ Stretching Workouts** ~~- 🎯 10~~ - ✅ 19
 
 ## January 2023
 
