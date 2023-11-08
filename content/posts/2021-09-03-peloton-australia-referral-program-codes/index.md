@@ -1,7 +1,7 @@
 ---
 title: Peloton Australia Referral Program & Codes
 slug: peloton-australia-referral-program-codes
-date: 2022-12-27
+date: 2023-11-08
 
 # optional fields
 published: true
@@ -16,7 +16,7 @@ tags:
 
 Recently I purchased a Peloton bike which has been the best purchase of the pandemic. However, I found their referral program a little confusing so I've collated all the information here.
 
-> If you don't have a referral code, you can use my referral code to take **$150** off your **hardware with accessories** order: **2KYVB8**
+> If you don't have a referral code, you can use my referral code to take **$150** off your **hardware with accessories** order: **2RG7VCX**
 
 ## Referral program rules
 
@@ -64,5 +64,4 @@ Once a referral is completed, you'll receive an email with your code to redeeem 
 
 ## How it could be better
 
-- When a referral occurs, a coupon code for apparel is automatically sent to your email.
 - The apparel site should use the same login as the main Peloton site and have the coupon pre-loaded.
