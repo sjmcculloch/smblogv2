@@ -12,7 +12,7 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![Bookshops & Bonedust](./images/2023/bookshops-and-bonedust.jpg)
+![Bookshops & Bonedust](./images/2024/bookshops-and-bonedust.jpg)
 
 </div>
 
@@ -30,7 +30,7 @@ When an injury throws a young, battle-hungry orc off her chosen path, she may fi
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![The Last Command](./images/2023/the-last-command.jpg)
+![The Last Command](./images/2024/the-last-command.jpg)
 
 </div>
 
@@ -50,7 +50,7 @@ The embattled Republic reels from the attacks of Grand Admiral Thrawn, who has m
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![The Dawning of a New Age](./images/2023/the-dawning-of-a-new-age.jpg)
+![The Dawning of a New Age](./images/2024/the-dawning-of-a-new-age.jpg)
 
 </div>
 
