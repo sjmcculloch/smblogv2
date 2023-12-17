@@ -66,7 +66,7 @@ The Summer of Chaos has ended. Ansalon’s nightmare has only just begun. The go
 
 ## November 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart'' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
