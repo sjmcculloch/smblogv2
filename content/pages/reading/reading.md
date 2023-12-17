@@ -6,7 +6,7 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
-## November 2023
+## January 2024
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
@@ -39,6 +39,46 @@ When an injury throws a young, battle-hungry orc off her chosen path, she may fi
 ### The Last Command
 
 The embattled Republic reels from the attacks of Grand Admiral Thrawn, who has marshaled the remnants of the Imperial forces and driven the Rebels back with an abominable technology recovered from the Emperor's secret fortress: clone soldiers. 
+
+</div>
+
+</div>
+
+## December 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Dawning of a New Age](./images/2023/the-dawning-of-a-new-age.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Dawning of a New Age
+
+The Summer of Chaos has ended. Ansalon’s nightmare has only just begun. The gods have departed the world, heralding a new Age of Mortals. But before the dust of war can settle, vast shadows cover the land. Dragons have come to Ansalon, larger and more powerful than any ever seen, and they will wreak havoc on nations still trembling from war.
+
+</div>
+
+</div>
+
+## November 2023
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart'' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Iron Flame](./images/2023/iron-flame.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Iron Flame
+
+Everyone expected Violet Sorrengail to die during her first year at Basgiath War College—Violet included. But Threshing was only the first impossible test meant to weed out the weak-willed, the unworthy, and the unlucky.
 
 </div>
 

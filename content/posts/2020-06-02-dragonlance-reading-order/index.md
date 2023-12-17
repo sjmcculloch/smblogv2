@@ -1,7 +1,7 @@
 ---
 title: Dragonlance Reading Order
 slug: dragonlance-reading-order
-date: 2022-12-30
+date: 2023-12-18
 
 # optional fields
 published: true
@@ -261,8 +261,7 @@ The gods have departed the world, heralding a new Age of Mortals. But before the
 
 ### The Day of the Tempest
 
-The Summer of Chaos has ended.
-Ansalon's nightmare has only just begun. The gods have departed the world, heralding a new Age of Mortals. But before the dust of war can settle, vast shadows cover the land. Dragons have come to Ansalon, larger and more powerful than any ever seen, and they will wreak havoc on nations still trembling from war. As the lands themselves begin to change under the dire magic of the new dragon overlords, new heroes arise to lead the fight for freedom.
+The great dragon overlords threaten to enslave Krynn. They’ve magically altered the land, sculpting domains to suit their foul moods, and now they have started to amass armies of dragons, humanoids, and spawn. Even the once-proud Knights of Takhisis are joining the ranks and preparing to strike against the citizens of Ansalon.
 
 </div>
 
@@ -280,8 +279,9 @@ Ansalon's nightmare has only just begun. The gods have departed the world, heral
 
 ### The Eve of the Maelstrom
 
-The Summer of Chaos has ended.
-Ansalon's nightmare has only just begun. The gods have departed the world, heralding a new Age of Mortals. But before the dust of war can settle, vast shadows cover the land. Dragons have come to Ansalon, larger and more powerful than any ever seen, and they will wreak havoc on nations still trembling from war. As the lands themselves begin to change under the dire magic of the new dragon overlords, new heroes arise to lead the fight for freedom.
+The two most powerful dragon overlords clash in a showdown for ultimate rule over Ansalon!
+
+Malystryx and Khellendros have long been in collusion, but as the dragons grow in size and strength, so do their egos and their thirst for power. The Blue Dragon plots against Malys in a bid for dominance over the other dragon overlords and her fury at his betrayal is as massive and fiery as she.
 
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: 90 Day Fiancé Viewing Order
 slug: 90-day-fiance-viewing-order
-date: 2023-10-02
+date: 2023-12-18
 
 # optional fields
 published: true
@@ -47,4 +47,5 @@ Recommended viewing order:
 - The Other Way - Season 5 (2023)
 - Before the 90 Days - Season 6 (2023)
 - The Last Resort - Season 1 (2023)
-- Season 10 (2023) - starts October 8!
+- Season 10 (2023)
+- The Single Life - Season 4 (2024)
