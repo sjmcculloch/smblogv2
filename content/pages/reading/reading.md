@@ -46,11 +46,11 @@ The embattled Republic reels from the attacks of Grand Admiral Thrawn, who has m
 
 ## December 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
-![The Dawning of a New Age](./images/2024/the-dawning-of-a-new-age.jpg)
+![The Dawning of a New Age](./images/2023/the-dawning-of-a-new-age.jpg)
 
 </div>
 
