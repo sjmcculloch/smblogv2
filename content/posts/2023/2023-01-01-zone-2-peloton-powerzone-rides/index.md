@@ -1,7 +1,7 @@
 ---
 title: Zone 2 Peloton Power Zone Rides
 slug: zone-2-peloton-power-zone-rides
-date: 2023-11-07
+date: 2024-01-12
 
 # optional fields
 published: true
@@ -17,6 +17,12 @@ tags:
 Everyone needs an __easier__ ride. Here are some great recovery options in zone 2.
 
 > Times are Australian East Standard Time. Some classes might be a day off. Use "Ride Link".
+
+## 30 Min PZE - Erik Jager - 12/27/23
+
+[![Peloton Powerzone Zone 2: 12/27/23](./images/2023-12-27.png)](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=2862332a247f47da9d8d4813f8d7c010)
+
+[Ride Link](https://members.onepeloton.com/classes/cycling?modal=classDetailsModal&classId=2862332a247f47da9d8d4813f8d7c010)
 
 ## 30 Min PZE Motown - Sam Yo - 10/18/23
 
