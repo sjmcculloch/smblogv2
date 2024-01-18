@@ -40,3 +40,31 @@ cover: ./hello-world.jpg
 - DB Squat - 8, Reverse Lunge 8
 - Bodyweight Squat 8, Reverse Lunge 8, Bodyweight Squat 8
 - Bodyweight Squat 8, Reverse Lunge 8, Bodyweight Squat 8
+
+**ARMS**
+
+First Set (30/30/30 - rest for 30) repeat x 3
+
+- Overhead Press
+- Bicep Curl
+- High Pull 
+
+Second Set (30/30/30 - rest for 30) repeat x 3
+
+- Arnold Press
+- Hammer Curl
+- Overhead Extension 
+
+**LEGS**
+
+First Set (30/30/30 - rest for 30) repeat x 3
+
+- DB Single Leg DeadLift
+- DB Single Leg DeadLift
+- Goblet Squat
+
+Second Set (30/30/30 - rest for 30) repeat x 3
+
+- DB Squat
+- Split Squat
+- Split Squat
