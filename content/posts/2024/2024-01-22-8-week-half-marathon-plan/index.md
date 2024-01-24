@@ -12,9 +12,7 @@ tags:
   - fitness
 ---
 
-Below is the plan I'm using for my 2 half-marathon's planned this year.
-
-A ✅ indicates completion.
+Below is the plan I'm using for my 2 half-marathons planned this year.
 
 **Week 1:**
 
