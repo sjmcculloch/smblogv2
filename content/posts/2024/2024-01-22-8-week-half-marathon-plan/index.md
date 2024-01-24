@@ -19,9 +19,11 @@ A ✅ indicates completion.
 **Week 1:**
 
 - Mon - 5km easy run ✅
-- Wed - 5km tempo
+- Tue - 25km endurance cycle ✅
+- Wed - 7.5km tempo ✅
+- Thu - 17.5km threshold cycle
 - Fri - 5km easy run
-- Sat - 7.5km long run
+- Weekend - 7.5km long run
 
 **Week 2:**
 
