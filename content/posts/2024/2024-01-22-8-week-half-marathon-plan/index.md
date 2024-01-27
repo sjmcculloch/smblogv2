@@ -19,9 +19,10 @@ Below is the plan I'm using for my 2 half-marathons planned this year.
 - Mon - 5km easy run ✅
 - Tue - 25km endurance cycle ✅
 - Wed - 7.5km tempo run ✅
-- Thu - 17.5km threshold cycle
-- Fri - 5km easy run
-- Weekend - 7.5km long run
+- Thu - 17.5km threshold cycle ✅
+- Fri - 5km easy run ✅
+- Sat - 34km climb cycle ✅
+- Sun - 7.5km long run
 
 **Week 2:**
 
