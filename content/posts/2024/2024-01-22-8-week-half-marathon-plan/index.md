@@ -22,7 +22,7 @@ Below is the plan I'm using for my 2 half-marathons planned this year.
 - Thu - 17.5km threshold cycle ✅
 - Fri - 5km easy run ✅
 - Sat - 34km climb cycle ✅
-- Sun - 7.5km long run
+- Sun - 10km long run ✅
 
 **Week 2:**
 
