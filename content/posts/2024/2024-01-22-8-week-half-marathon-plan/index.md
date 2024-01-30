@@ -26,8 +26,8 @@ Below is the plan I'm using for my 2 half-marathons planned this year.
 
 **Week 2:**
 
-- Mon - 5.5km easy run
-- Wed - 6.5km tempo
+- Mon - 5km intervals ✅
+- Wed - 7.5km endurance 
 - Fri - 5.5km easy run
 - Sat - 10km long run
 
