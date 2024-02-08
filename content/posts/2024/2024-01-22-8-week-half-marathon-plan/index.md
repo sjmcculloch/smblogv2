@@ -26,7 +26,7 @@ Below is the plan I'm using for my 2 half-marathons planned this year.
 
 **Week 2:**
 
-- Mon - 5km intervals ✅
+- Mon - 5km interval run ✅
 - Tue - 25km endurance cycle ✅
 - Wed - 7.5km endurance ✅
 - Thu - 17.5km endurance cycle ✅
