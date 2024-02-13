@@ -6,6 +6,26 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
+## February 2024
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Day of the Tempest](./images/2024/the-day-of-the-tempest.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Day of the Tempest
+
+The great dragon overlords threaten to enslave Krynn. They’ve magically altered the land, sculpting domains to suit their foul moods, and now they have started to amass armies of dragons, humanoids, and spawn. Even the once-proud Knights of Takhisis are joining the ranks and preparing to strike against the citizens of Ansalon.
+
+</div>
+
+</div>
+
 ## January 2024
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
