@@ -6,9 +6,65 @@ cover: ./hourglass-mage.jpg
 
 This page is a journal of my monthly reading habits. I aim to read about 10-15% of a book per day.
 
-## February 2024
+## March 2024
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Conan: Lord of the Mount](./images/2024/the-lord-of-the-mount.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Conan: Lord of the Mount
+
+Awakening covered in blood, the sole survivor of a doomed raiding party, Conan sets out for the taverns, women, and ale of Trinnecerl. To reach the village, however, he must pass ruins scattered with the shattered helmets, broken blades, and bones of untold victims—as well as the hideous the creature that left them, the Lord of the Mount. 
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Conan: Black Starlight](./images/2024/black-starlight.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Conan: Black Starlight
+
+Seeking to avoid the Stygian border guard and cross the River Styx, Conan, the sorceress Zelandra, her scribe Neesa, and bodyguard Heng Shih discover a town that seems to be deserted. To preserve his own life, the town's lord had bargained with a demon that still lurks there. It wants Zelandra's cache of Emerald Lotus and will kill anyone who tries to stop it. Conan and his allies must defeat the demon and its minions—human and inhuman—in order to survive.
+
+</div>
+
+</div>
 
 <div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![Tarkin](./images/2024/tarkin.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### Tarkin
+
+He’s the scion of an honorable and revered family. A dedicated soldier and distinguished legislator. Loyal proponent of the Republic and trusted ally of the Jedi Order. Groomed by the ruthless politician and Sith Lord who would be Emperor, Governor Wilhuff Tarkin rises through the Imperial ranks, enforcing his authority ever more mercilessly . . . and zealously pursuing his destiny as the architect of absolute dominion.
+
+</div>
+
+</div>
+
+## February 2024
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
 
 <div style={{ minWidth: '150px', padding: '10px'}}>
 
@@ -21,6 +77,24 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 ### The Day of the Tempest
 
 The great dragon overlords threaten to enslave Krynn. They’ve magically altered the land, sculpting domains to suit their foul moods, and now they have started to amass armies of dragons, humanoids, and spawn. Even the once-proud Knights of Takhisis are joining the ranks and preparing to strike against the citizens of Ansalon.
+
+</div>
+
+</div>
+
+<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+
+<div style={{ minWidth: '150px', padding: '10px'}}>
+
+![The Kraken's Sacrifice](./images/2024/the-krakens-sacrifice.jpg)
+
+</div>
+
+<div style={{ padding: '10px'}}>
+
+### The Kraken's Sacrifice
+
+Catalina only made her deal with the demon because she had nowhere else to go. The world has kicked her every chance it got, so she’s all too happy to leave the realm she knows behind. What’s the worst that could happen?
 
 </div>
 

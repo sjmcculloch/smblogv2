@@ -6,12 +6,19 @@ cover: ./cover.jpg
 
 This page is a journal of my monthly goal list.
 
-## February 2024
+## March 2024
 
 - **🏃‍♂️ Running Distance** - 🎯 100km
 - **🚴🏻‍♂️ Cycling Distance** - 🎯 250km
 - **📚 Books** - 🎯 2
 - **🏋️ Stretching Workouts** - 🎯 10
+
+## February 2024
+
+- **🏃‍♂️ Running Distance** - ~~🎯 100km~~ - ✅ 121km
+- **🚴🏻‍♂️ Cycling Distance** - ~~🎯 250km~~ - ❌ 171km
+- **📚 Books** - ~~🎯 2~~ - ✅ 2 
+- **🏋️ Stretching Workouts** ~~- 🎯 10~~ - ✅ 19
 
 ## January 2024
 
