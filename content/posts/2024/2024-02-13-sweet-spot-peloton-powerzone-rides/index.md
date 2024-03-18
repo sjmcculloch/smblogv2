@@ -1,7 +1,7 @@
 ---
 title: Sweet Spot Peloton Power Zone Rides
 slug: sweet-spot-peloton-power-zone-rides
-date: 2024-02-13
+date: 2024-03-18
 
 # optional fields
 published: true
