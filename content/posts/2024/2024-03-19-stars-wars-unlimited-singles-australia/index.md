@@ -22,3 +22,5 @@ Here are the ones I've found so far:
 - [Grim Dark Gaming](https://tcg.grimdarkgaming.com.au/collections/star-wars-unlimited-single-in-stock)
 - [The Gaming Verse](https://the-gaming-verse.myshopify.com/collections/star-wars-in-stock)
 - [Vault Games](https://singles.vaultgames.com.au/collections/star-wars-unlimited-in-stock) 
+
+For a pricing guide, you can use the US-based site [TCGPlayer](https://www.tcgplayer.com/search/star-wars-unlimited/spark-of-rebellion?productLineName=star-wars-unlimited&setName=spark-of-rebellion&page=4&view=grid), prices are in US dollars. 
