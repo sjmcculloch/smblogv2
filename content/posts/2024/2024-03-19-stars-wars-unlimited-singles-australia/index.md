@@ -26,4 +26,8 @@ Here are the ones I've found so far:
 - <a href="https://the-gaming-verse.myshopify.com/collections/star-wars-in-stock" target="_blank">The Gaming Verse</a>
 - <a href="https://singles.vaultgames.com.au/collections/star-wars-unlimited-in-stock" target="_blank">Vault Games</a>
 
+New Zealand shops:
+
+- <a href="https://tcgcollectornz.com/collections/star-wars-unlimited-singles" target="_blank">TCG Collector</a>
+
 For a pricing guide, you can use the US-based site [TCGPlayer](https://www.tcgplayer.com/search/star-wars-unlimited/spark-of-rebellion?productLineName=star-wars-unlimited&setName=spark-of-rebellion&page=4&view=grid), prices are in US dollars. 
