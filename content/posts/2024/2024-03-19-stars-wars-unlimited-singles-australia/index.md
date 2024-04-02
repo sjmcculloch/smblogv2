@@ -30,4 +30,8 @@ New Zealand shops:
 
 - <a href="https://tcgcollectornz.com/collections/star-wars-unlimited-singles" target="_blank">TCG Collector</a>
 
+USA shops (shipping ~$28):
+
+- <a href="https://gameshopofdestiny.com/pages/search-results-page?q=Spark%20of%20Rebellion&page=1&rb_snize_facet10=Star%20Wars%20Unlimited&rb_snize_facet6=Spark%20of%20Rebellion&tab=products&rb_snize_facet9=Non-Sealed" target="_blank">Gameshop of Destiny</a>
+
 For a pricing guide, you can use the US-based site [TCGPlayer](https://www.tcgplayer.com/search/star-wars-unlimited/spark-of-rebellion?productLineName=star-wars-unlimited&setName=spark-of-rebellion&page=4&view=grid), prices are in US dollars. 
