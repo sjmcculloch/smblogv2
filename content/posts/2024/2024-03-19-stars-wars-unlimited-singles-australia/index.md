@@ -1,7 +1,7 @@
 ---
 title: Star Wars Unlimited Singles Australia
 slug: star-wars-unlimited-singles-australia
-date: 2024-03-31
+date: 2024-04-03
 
 # optional fields
 published: true
@@ -13,9 +13,7 @@ tags:
   - tcg
 ---
 
-Looking for singles for Star Wars unlimited in Australia? 
-
-Here are the ones I've found so far:
+Australian Shops:
 
 - <a href="https://www.beskarforge.com.au/shop/spark-of-rebellion/4CG5ZLFKEEDJG7JFH6QXWQZQ" target="_blank">Beskar Forge</a>
 - <a href="https://grandjgames.com/trading-card-game-products/card-game-singles/star-wars-unlimited/swu-set-singles/01-sor-spark-of-rebellion/" target="_blank">GrandJGames</a>
@@ -25,6 +23,15 @@ Here are the ones I've found so far:
 - <a href="https://www.thegamingarena.com.au/shop/star-wars-unlimited/94?page=1&limit=30&sort_by=category_order&sort_order=asc" target="_blank">The Gaming Arena</a>
 - <a href="https://the-gaming-verse.myshopify.com/collections/star-wars-in-stock" target="_blank">The Gaming Verse</a>
 - <a href="https://singles.vaultgames.com.au/collections/star-wars-unlimited-in-stock" target="_blank">Vault Games</a>
+
+Australian Facebook Groups:
+
+- <a href="https://www.facebook.com/groups/3559834361011990" target="_blank">Frankens Cantina Star Wars Unlimited Sales</a>
+- <a href="https://www.facebook.com/groups/1157786898914164" target="_blank">Star Wars: Unlimited Buy/ Swap/ Sell ANZ</a>
+
+Europe shops:
+
+- <a href="https://www.cardmarket.com/en/StarWarsUnlimited" target="_blank">Card Market</a>
 
 New Zealand shops:
 
