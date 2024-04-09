@@ -16,6 +16,7 @@ tags:
 Australian Shops:
 
 - <a href="https://www.beskarforge.com.au/shop/spark-of-rebellion/4CG5ZLFKEEDJG7JFH6QXWQZQ" target="_blank">Beskar Forge</a>
+- <a href="https://eternalmagic.cc/collections/spark-of-rebellion" target="_blank">Eternal Magic</a>
 - <a href="https://grandjgames.com/trading-card-game-products/card-game-singles/star-wars-unlimited/swu-set-singles/01-sor-spark-of-rebellion/" target="_blank">GrandJGames</a>
 - <a href="https://tcg.grimdarkgaming.com.au/collections/star-wars-unlimited-single-in-stock" target="_blank">Grim Dark Gaming</a>
 - <a href="https://guf.com.au/collections/star-wars-unlimited-spark-of-rebellion" target="_blank">Guf</a>
@@ -28,10 +29,6 @@ Australian Facebook Groups:
 
 - <a href="https://www.facebook.com/groups/3559834361011990" target="_blank">Frankens Cantina Star Wars Unlimited Sales</a>
 - <a href="https://www.facebook.com/groups/1157786898914164" target="_blank">Star Wars: Unlimited Buy/ Swap/ Sell ANZ</a>
-
-Europe shops:
-
-- <a href="https://www.cardmarket.com/en/StarWarsUnlimited" target="_blank">Card Market</a>
 
 New Zealand shops:
 
