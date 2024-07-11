@@ -21,7 +21,7 @@ Australian Shops:
 - <a href="https://goodgamesgoldcoast.com.au/collections/star-wars-unlimited" target="_blank">Good Games Gold Coast</a>
 - <a href="https://grandjgames.com/trading-card-game-products/card-game-singles/star-wars-unlimited/swu-set-singles/01-sor-spark-of-rebellion/" target="_blank">GrandJGames</a>
 - <a href="https://guf.com.au/collections/star-wars-unlimited-spark-of-rebellion" target="_blank">Guf</a>
-- <a href="https://teamcardtitan.com/collections/star-wars-unlimited-tcg-singles" target="_blank">Team Card Titan</a>
+- <a href="https://teamcardtitan.com/collections/star-wars-unlimited-tcg-singles?sort_by=price-descending" target="_blank">Team Card Titan</a>
 - <a href="https://www.thegamingarena.com.au/shop/star-wars-unlimited/94?page=1&limit=30&sort_by=category_order&sort_order=asc" target="_blank">The Gaming Arena</a>
 - <a href="https://the-gaming-verse.myshopify.com/collections/star-wars-in-stock" target="_blank">The Gaming Verse</a>
 - <a href="https://singles.vaultgames.com.au/collections/star-wars-unlimited-in-stock" target="_blank">Vault Games</a>
