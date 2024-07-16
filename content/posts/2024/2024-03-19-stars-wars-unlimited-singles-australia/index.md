@@ -1,7 +1,7 @@
 ---
 title: Star Wars Unlimited Singles Australia
 slug: star-wars-unlimited-singles-australia
-date: 2024-07-11
+date: 2024-07-17
 
 # optional fields
 published: true
@@ -33,6 +33,7 @@ Australian Facebook Groups:
 
 New Zealand shops:
 
+- <a href="https://cardmerchanthamilton.co.nz/collections/shadows-of-the-galaxy" target="_blank">TCG Collector</a>
 - <a href="https://tcgcollectornz.com/collections/star-wars-unlimited-singles" target="_blank">TCG Collector</a>
 
 USA shops (shipping ~$28):
