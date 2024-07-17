@@ -33,7 +33,7 @@ Australian Facebook Groups:
 
 New Zealand shops:
 
-- <a href="https://cardmerchanthamilton.co.nz/collections/shadows-of-the-galaxy" target="_blank">TCG Collector</a>
+- <a href="https://cardmerchanthamilton.co.nz/collections/shadows-of-the-galaxy" target="_blank">Card Merchant Hamilton</a>
 - <a href="https://tcgcollectornz.com/collections/star-wars-unlimited-singles" target="_blank">TCG Collector</a>
 
 USA shops (shipping ~$28):
