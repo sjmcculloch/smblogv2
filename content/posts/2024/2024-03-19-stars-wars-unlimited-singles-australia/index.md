@@ -1,7 +1,7 @@
 ---
 title: Star Wars Unlimited Singles Australia
 slug: star-wars-unlimited-singles-australia
-date: 2025-03-14
+date: 2025-03-18
 
 # optional fields
 published: true
@@ -11,7 +11,7 @@ cover: ./images/cover-swu.png
 tags:
   - games
   - tcg
-----
+---
 
 Australian Shops:
 
