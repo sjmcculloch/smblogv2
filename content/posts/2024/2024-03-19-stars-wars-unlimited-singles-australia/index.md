@@ -22,8 +22,6 @@ Australian Shops:
 - <a href="https://grandjgames.com/trading-card-game-products/card-game-singles/star-wars-unlimited/swu-set-singles/?sort=pricedesc&limit=40&mode=4&_bc_fsnf=1&in_stock=1" target="_blank">GrandJGames</a>
 - <a href="https://guf.com.au/search?type=product&options%5Bprefix%5D=last&q=star+wars+unlimited+single" target="_blank">Guf</a> (only accessible by search, try searching for cards or type, e.g. hyperspace, lightspeed)
 - <a href="https://teamcardtitan.com/collections/star-wars-unlimited-tcg-singles?sort_by=price-descending" target="_blank">Team Card Titan</a>
-- <a href="https://www.thegamingarena.com.au/shop/star-wars-unlimited-card-singles/94?page=1&limit=30&sort_by=price&sort_order=desc&item_status=in_stock" target="_blank">The Gaming Arena</a>
-- <a href="https://the-gaming-verse.myshopify.com/collections/star-wars-in-stock" target="_blank">The Gaming Verse</a>
 
 Australian Facebook Groups:
 
@@ -33,6 +31,7 @@ Australian Facebook Groups:
 New Zealand shops:
 
 - <a href="https://cardmerchanthamilton.co.nz/collections/star-wars-unlimited-singles" target="_blank">Card Merchant Hamilton</a>
+- <a href="https://ironknightgaming.co.nz/collections/swu-singles-1?sort_by=price-descending&filter.v.availability=1" target="_blank">Iron Knight Gaming</a>
 - <a href="https://tcgcollectornz.com/collections/star-wars-unlimited-singles" target="_blank">TCG Collector</a>
 
 International shops:
