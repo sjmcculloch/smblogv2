@@ -1,7 +1,6 @@
 ---
 title: 'Gamification Concepts in Software Design'
 slug: gamification-concepts-in-software-design
-cover: ./cover.jpg
 generate-card: true
 date: 2017-09-14
 language: en

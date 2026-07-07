@@ -1,7 +1,6 @@
 ---
 title: 'How do I write to DNN event Logs?'
 slug: logging-to-the-dnn-event-log
-cover: ./cover.jpg
 generate-card: true
 date: 2017-08-08
 language: en

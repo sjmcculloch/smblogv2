@@ -7,7 +7,6 @@ date: 2022-12-31
 published: true
 generate-card: true
 language: en
-cover: ./images/cover.png
 imageShare: ./dragonlance-sourcebooks-modules-share.png
 tags:
   - dragonlance

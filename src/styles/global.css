@@ -160,6 +160,24 @@ img {
   color: var(--color-text-light);
 }
 
+/* Cover images */
+.article-cover {
+  width: 100%;
+  height: auto;
+  max-height: 380px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.post-card-cover {
+  width: 100%;
+  height: 210px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 0.75rem;
+}
+
 /* Article content */
 .article-content pre {
   border-radius: 8px;

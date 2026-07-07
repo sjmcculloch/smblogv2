@@ -16,7 +16,6 @@ export const site = {
     { label: 'About', url: '/about' },
     { label: 'Goals', url: '/goals' },
     { label: 'Reading', url: '/reading' },
-    { label: 'Stats', url: '/stats' },
   ],
   websiteHost: {
     name: 'Azure Static Web Apps',
@@ -30,7 +29,6 @@ export const site = {
         { label: 'Goals', url: '/goals' },
         { label: 'Reading', url: '/reading' },
         { label: 'Resume', url: '/cv' },
-        { label: 'Stats', url: '/stats' },
       ],
     },
     {

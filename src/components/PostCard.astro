@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets'
 import type { Post } from '../lib/posts'
 import { excerpt, readingTime } from '../lib/posts'
 
@@ -7,10 +8,24 @@ interface Props {
 }
 
 const { post } = Astro.props
-const { title, slug, date, tags } = post.data
+const { title, slug, date, tags, cover } = post.data
 ---
 
 <article class="post-card">
+  {
+    cover && (
+      <a href={`/${slug}`}>
+        <Image
+          class="post-card-cover"
+          src={cover}
+          alt={title}
+          widths={[480, 760]}
+          sizes="(max-width: 800px) 100vw, 760px"
+          loading="lazy"
+        />
+      </a>
+    )
+  }
   <h2><a href={`/${slug}`}>{title}</a></h2>
   <p class="post-meta">
     <time datetime={date.toISOString()}>

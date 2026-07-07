@@ -61,6 +61,11 @@
       "statusCode": 301
     },
     {
+      "route": "/stats",
+      "redirect": "/",
+      "statusCode": 301
+    },
+    {
       "route": "/categories/",
       "redirect": "/",
       "statusCode": 301

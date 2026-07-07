@@ -24,17 +24,13 @@ Requires Node 20+.
   Frontmatter: `title`, `slug`, `date`, optional `published`, `unlisted`, `tags`, `cover`.
 - `content/pages/` — static pages (About, Goals, Reading, Workouts).
 - `src/pages/` — routes: paginated post list (`/`, `/pages/N`), post/page
-  renderer (`[...slug].astro`), tags, `/stats`, `/cv`, 404.
+  renderer (`[...slug].astro`), tags, `/cv`, 404.
 - `src/data/site.ts` — site configuration (nav, footer, GTM id).
 - `src/data/resume.js` — resume data rendered at `/cv`.
-- `src/lib/peloton.ts` — build-time fetch of Peloton workout stats for `/stats`
-  (requires `PELOTON_USERNAME` / `PELOTON_PASSWORD`; page degrades gracefully
-  without them).
 - `static/` — public assets served as-is, including `staticwebapp.config.json`
   (Azure SWA redirects for legacy URLs).
 
 ## Deployment
 
 Pushes to `master` deploy via the GitHub Actions workflow in
-`.github/workflows/`. A daily scheduled build refreshes the Peloton stats.
-Peloton credentials are injected from GitHub Secrets.
+`.github/workflows/`.
