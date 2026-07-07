@@ -11,6 +11,10 @@ const pagePosts = posts.slice(0, site.postsPerPage)
 ---
 
 <BaseLayout>
-  {pagePosts.map(post => <PostCard post={post} />)}
+  <div class="card">
+    <div class="content-pad">
+      {pagePosts.map(post => <PostCard post={post} />)}
+    </div>
+  </div>
   <Pagination currentPage={1} totalPages={totalPages} />
 </BaseLayout>

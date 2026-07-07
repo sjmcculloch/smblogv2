@@ -23,6 +23,12 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site)
     <meta name="theme-color" content={site.themeColor} />
     <link rel="canonical" href={canonicalURL} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content={pageTitle} />
@@ -55,18 +61,18 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site)
         style="display:none;visibility:hidden"></iframe>
     </noscript>
     <header class="site-header">
-      <div class="container">
+      <div class="header-nav">
         <a class="site-title" href="/">{site.headerTitle}</a>
         <nav>
           {site.headerLinks.map(link => <a href={link.url}>{link.label}</a>)}
         </nav>
       </div>
     </header>
-    <main class="container">
+    <main class="site-content">
       <slot />
     </main>
     <footer class="site-footer">
-      <div class="container footer-columns">
+      <div class="footer-columns">
         {
           site.footerLinks.map(section => (
             <div>

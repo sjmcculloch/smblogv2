@@ -22,7 +22,13 @@ const { posts } = Astro.props
 ---
 
 <BaseLayout title={`Posts tagged #${tag}`}>
-  <h1>#{tag}</h1>
-  <p class="post-meta">{posts.length} post{posts.length === 1 ? '' : 's'}</p>
-  {posts.map(post => <PostCard post={post} />)}
+  <div class="card">
+    <div class="content-pad">
+      <h1 class="article-title">#{tag}</h1>
+      <p class="article-meta">
+        {posts.length} post{posts.length === 1 ? '' : 's'}
+      </p>
+      {posts.map(post => <PostCard post={post} />)}
+    </div>
+  </div>
 </BaseLayout>

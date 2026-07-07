@@ -37,6 +37,10 @@ const { posts, currentPage, totalPages } = Astro.props
 ---
 
 <BaseLayout title={`Page ${currentPage}`}>
-  {posts.map(post => <PostCard post={post} />)}
+  <div class="card">
+    <div class="content-pad">
+      {posts.map(post => <PostCard post={post} />)}
+    </div>
+  </div>
   <Pagination currentPage={currentPage} totalPages={totalPages} />
 </BaseLayout>

@@ -6,8 +6,10 @@ const { basics, skills, highlights, experiences, education, languages } = resume
 ---
 
 <BaseLayout title={`Resume - ${basics.name}`} description={basics.description}>
-  <h1>{basics.name}</h1>
-  <p class="post-meta">
+  <div class="card">
+  <div class="content-pad article-content">
+  <h1 class="article-title">{basics.name}</h1>
+  <p class="article-meta">
     {basics.title} · {basics.location} · Last updated {basics.lastUpdate}
   </p>
   <p>{basics.description}</p>
@@ -97,4 +99,6 @@ const { basics, skills, highlights, experiences, education, languages } = resume
       ))
     }
   </section>
+  </div>
+  </div>
 </BaseLayout>

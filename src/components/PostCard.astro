@@ -1,5 +1,6 @@
 ---
-import { Image } from 'astro:assets'
+// Matches the old PostsListItem: no thumbnail, separator line,
+// "min read • tags" footer and a centred "Read post ›" link.
 import type { Post } from '../lib/posts'
 import { excerpt, readingTime } from '../lib/posts'
 
@@ -8,47 +9,34 @@ interface Props {
 }
 
 const { post } = Astro.props
-const { title, slug, date, tags, cover } = post.data
+const { title, slug, tags } = post.data
 ---
 
 <article class="post-card">
-  {
-    cover && (
-      <a href={`/${slug}`}>
-        <Image
-          class="post-card-cover"
-          src={cover}
-          alt={title}
-          widths={[480, 760]}
-          sizes="(max-width: 800px) 100vw, 760px"
-          loading="lazy"
-        />
-      </a>
-    )
-  }
-  <h2><a href={`/${slug}`}>{title}</a></h2>
-  <p class="post-meta">
-    <time datetime={date.toISOString()}>
+  <header>
+    <h2><a href={`/${slug}`}>{title}</a></h2>
+  </header>
+  <section>
+    <p class="excerpt">{excerpt(post.body ?? '')}</p>
+  </section>
+  <footer>
+    <div class="footer-line">
+      <span class="reading-time">{readingTime(post.body ?? '')} min read</span>
       {
-        date.toLocaleDateString('en-AU', {
-          year: 'numeric',
-          month: 'long',
-          day: 'numeric',
-        })
+        tags.length > 0 && (
+          <>
+            <span class="bull" />
+            <span class="tag-list">
+              {tags.map(tag => (
+                <a href={`/tags/${tag}`}>#{tag}</a>
+              ))}
+            </span>
+          </>
+        )
       }
-    </time>
-    · {readingTime(post.body ?? '')} min read
-  </p>
-  <p>{excerpt(post.body ?? '')}</p>
-  {
-    tags.length > 0 && (
-      <p class="tag-list">
-        {tags.map(tag => (
-          <a class="tag" href={`/tags/${tag}`}>
-            #{tag}
-          </a>
-        ))}
-      </p>
-    )
-  }
+    </div>
+    <a class="read-post" href={`/${slug}`} aria-label={`View ${title} article`}>
+      Read post ›
+    </a>
+  </footer>
 </article>
