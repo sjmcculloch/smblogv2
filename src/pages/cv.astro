@@ -1,0 +1,104 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro'
+import resume from '../data/resume'
+
+const { basics, skills, highlights, experiences, education, languages } = resume
+---
+
+<BaseLayout title={`Resume - ${basics.name}`} description={basics.description}>
+  <div class="card">
+  <div class="content-pad article-content">
+  <h1 class="article-title">{basics.name}</h1>
+  <p class="article-meta">
+    {basics.title} · {basics.location} · Last updated {basics.lastUpdate}
+  </p>
+  <p>{basics.description}</p>
+  <p>
+    {
+      basics.profiles.map((profile, i) => (
+        <>
+          {i > 0 && ' · '}
+          <a href={profile.url}>{profile.network}</a>
+        </>
+      ))
+    }
+  </p>
+
+  <section class="resume-section">
+    <h2>Skills</h2>
+    {
+      skills.map(skill => (
+        <p>
+          <strong>{skill.category}:</strong> {skill.content.join(', ')}
+        </p>
+      ))
+    }
+  </section>
+
+  <section class="resume-section">
+    <h2>Highlights</h2>
+    <ul>
+      {
+        highlights.map(highlight => (
+          <li>
+            {highlight.url ? (
+              <a href={highlight.url}>{highlight.description}</a>
+            ) : (
+              highlight.description
+            )}
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+
+  <section class="resume-section">
+    <h2>Experience</h2>
+    {
+      experiences.map(experience => (
+        <div class="resume-entry">
+          <h3>
+            {experience.position} · {experience.company}
+          </h3>
+          <p class="resume-meta">
+            {experience.period} · {experience.location}
+          </p>
+          <ul>
+            {experience.activities
+              .filter(activity => activity)
+              .map(activity => (
+                <li>{activity}</li>
+              ))}
+          </ul>
+        </div>
+      ))
+    }
+  </section>
+
+  <section class="resume-section">
+    <h2>Education</h2>
+    {
+      education.map(entry => (
+        <div class="resume-entry">
+          <h3>{entry.degree}</h3>
+          <p class="resume-meta">
+            {entry.school} · {entry.period} · {entry.location}
+          </p>
+        </div>
+      ))
+    }
+  </section>
+
+  <section class="resume-section">
+    <h2>Languages</h2>
+    {
+      languages.map(entry => (
+        <p>
+          <strong>{entry.level}:</strong> {entry.language.join(', ')}
+        </p>
+      ))
+    }
+  </section>
+  </div>
+  </div>
+</BaseLayout>

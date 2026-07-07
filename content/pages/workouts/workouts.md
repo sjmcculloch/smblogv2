@@ -1,7 +1,6 @@
 ---
 title: 'Saved Workouts'
 slug: workouts
-cover: ./hello-world.jpg
 ---
 
 **KC Glutes & Legs**

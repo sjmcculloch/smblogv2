@@ -1,0 +1,42 @@
+---
+// Matches the old PostsListItem: no thumbnail, separator line,
+// "min read • tags" footer and a centred "Read post ›" link.
+import type { Post } from '../lib/posts'
+import { excerpt, readingTime } from '../lib/posts'
+
+interface Props {
+  post: Post
+}
+
+const { post } = Astro.props
+const { title, slug, tags } = post.data
+---
+
+<article class="post-card">
+  <header>
+    <h2><a href={`/${slug}`}>{title}</a></h2>
+  </header>
+  <section>
+    <p class="excerpt">{excerpt(post.body ?? '')}</p>
+  </section>
+  <footer>
+    <div class="footer-line">
+      <span class="reading-time">{readingTime(post.body ?? '')} min read</span>
+      {
+        tags.length > 0 && (
+          <>
+            <span class="bull" />
+            <span class="tag-list">
+              {tags.map(tag => (
+                <a href={`/tags/${tag}`}>#{tag}</a>
+              ))}
+            </span>
+          </>
+        )
+      }
+    </div>
+    <a class="read-post" href={`/${slug}`} aria-label={`View ${title} article`}>
+      Read post ›
+    </a>
+  </footer>
+</article>

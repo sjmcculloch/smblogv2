@@ -21,15 +21,15 @@ The **Legend of Drizzt** is an iconic series of fantasy novels by R.A. Salvatore
 
 > I've always preferred reading the events of Icewind Dale before the preludes. These novels were published first and you'd do the same for Star Wars right?
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Crystal Shard](./images/crystal-shard.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Crystal Shard
 
@@ -39,15 +39,15 @@ Akar Kessel, weak-willed apprentice mage, starts events that find a magical devi
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Streams of Silver](./images/streams-of-silver.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Streams of Silver
 
@@ -57,15 +57,15 @@ Drizzt Do'Urden still struggles with his own inner voices, voices that call him 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Halfling's Gem](./images/halflings-gem.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Halfling's Gem
 
@@ -79,15 +79,15 @@ Regis has fallen into the hands of the assassin Artmis Entreri, who is taking hi
 
 > The origin tales of Drizzt Do'Urden.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Homeland](./images/homeland.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Homeland
 
@@ -97,15 +97,15 @@ The startling tale of how one lone drow walked out of the shadowy depths of the 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Exile](./images/exile.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Exile
 
@@ -115,15 +115,15 @@ Drizzt Do'Urden has been exiled from his country and forced to wander the tunnel
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Sojourn](./images/sojourn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Sojourn
 
@@ -137,15 +137,15 @@ After years spent in the ruthless confines of the Underdark, Drizzt Do’Urden h
 
 > The enemies from Drizzt's past have caught up with him.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Legacy](./images/the-legacy.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Legacy
 
@@ -155,15 +155,15 @@ Life is good for Drizzt Do'Urden, better than it ever has been for the beleaguer
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Starless Night](./images/starless-night.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Starless Night
 
@@ -173,15 +173,15 @@ Though Drizzt is still reeling from the death of his barbarian friend, he is all
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Siege of Darkness](./images/siege-of-darkness.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Siege of Darkness
 
@@ -191,15 +191,15 @@ While Mithral Hall teems with whispers of the war to come, chaos erupts both abo
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Passage to Dawn](./images/passage-to-dawn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Passage to Dawn
 
@@ -211,15 +211,15 @@ It has been six years since the fateful Battle of Mithral Hall; six long years d
 
 ## Paths of Darkness
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Silent Blade](./images/the-silent-blade.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Silent Blade
 
@@ -229,15 +229,15 @@ Determined to destroy the evil Crystal Shard, Drizzt seeks out the help of a sch
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Spine of the World](./images/the-spine-of-the-world.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Spine of the World
 
@@ -247,15 +247,15 @@ Spending just one day in the torture chambers of the Abyss would be enough to br
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Sea of Swords](./images/sea-of-swords.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Sea of Swords
 
@@ -267,15 +267,15 @@ When the mark of Wulfgar’s legendary warhammer is found on the person of pirat
 
 ## The Sellswords
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Servant of the Shard](./images/servant-of-the-shard.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Servant of the Shard
 
@@ -285,15 +285,15 @@ Powerful assassin Artemis Entreri tightens his grip on the streets of Calimport,
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Promise of the Witch King](./images/promise-of-the-witch-king.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Promise of the Witch King
 
@@ -303,15 +303,15 @@ Human assassin Artemis Entreri and his dark elf companion Jarlaxle have come to 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Road of the Patriarch](./images/road-of-the-patriarch.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Road of the Patriarch
 
@@ -323,15 +323,15 @@ ILNEZHARA and TAZMIKELLA are ancient dragons of great power, accustomed to easil
 
 ## The Hunter's Blades Trilogy
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Thousand Orcs](./images/the-thousand-orcs.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Thousand Orcs
 
@@ -341,15 +341,15 @@ When a blood-thirsty band of orcs led by an as-yet-unseen enemy, comes rampaging
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Lone Drow](./images/the-lone-drow.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Lone Drow
 
@@ -359,15 +359,15 @@ Drizzt Do'Urden has become the Hunter, the bane of the orc hordes still ravaging
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Two Swords](./images/the-two-swords.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Two Swords
 
@@ -379,15 +379,15 @@ Dark elf Drizzt Do'Urden would like nothing more than to kill King Obould Many-A
 
 ## Transitions
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Orc King](./images/the-orc-king.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Orc King
 
@@ -398,15 +398,15 @@ An uneasy peace between the dwarves of Mithral Hall and the orcs of the newly es
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Pirate King](./images/the-pirate-king.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Pirate King
 
@@ -416,15 +416,15 @@ The Arcane Brotherhood has long held the city of Luskan in their power, but when
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Ghost King](./images/the-ghost-king.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Ghost King
 
@@ -436,15 +436,15 @@ With the collapse of Mystra’s Weave and the onslaught of the Spellplague, all 
 
 ## Neverwinter Saga
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Gauntlgrym](./images/gauntlgrym.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Gauntlgrym
 
@@ -454,15 +454,15 @@ Drizzt joins Bruenor on his quest for the fabled dwarven kingdom of Gauntlgrym: 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Neverwinter](./images/neverwinter.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Neverwinter
 
@@ -472,15 +472,15 @@ With the last of his trusted companions having fallen, Drizzt is alone--and free
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Charon's Claw](./images/charons-claw.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Charon's Claw
 
@@ -490,15 +490,15 @@ Drizzt draws his swords once more to aid his friends. His lover, Dahlia Sin’fe
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Last Threshold](./images/the-last-threshold.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Last Threshold
 
@@ -510,15 +510,15 @@ Drizzt is tangled up in Dahlia’s dark secrets more than ever. The ties that on
 
 ## The Sundering
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: The Companions](./images/the-companions.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Companions
 
@@ -530,15 +530,15 @@ As Drizzt's fate hangs in the balance, he reflects on the lives of the trusted a
 
 ## Companions Codex
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Night of the Hunter](./images/night-of-the-hunter.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Night of the Hunter
 
@@ -548,15 +548,15 @@ Drizzt Do’Urden returns to Gauntlgrym with old friends by his side once again,
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Rise of the King](./images/rise-of-the-king.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Rise of the King
 
@@ -566,15 +566,15 @@ Having escaped Gauntlgrym, the Companions of the Hall are united in body and spi
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Vengeance of the Iron Dwarf](./images/vengeance-of-the-iron-dwarf.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Vengeance of the Iron Dwarf
 
@@ -586,15 +586,15 @@ In the evolving world of the Forgotten Realms setting, the Sundering has given w
 
 ## Homecoming
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Archmage](./images/archmage.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Archmage
 
@@ -604,15 +604,15 @@ The pall that had descended over the North is gone, and a new day has dawned on 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Maestro](./images/maestro.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Maestro
 
@@ -622,15 +622,15 @@ Drizzt is going home. But not to Mithral Hall. Not to Icewind Dale. He's going t
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Hero](./images/hero.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Hero
 
@@ -642,15 +642,15 @@ Something akin to “peace" has come to the Underdark. The demon hordes have rec
 
 ## Homecoming
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Timeless](./images/timeless.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Timeless
 
@@ -660,15 +660,15 @@ Centuries ago, in the city of Menzoberranzan, the City of Spiders, the City of D
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Boundless](./images/boundless.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Boundless
 
@@ -678,15 +678,15 @@ Split between time and two worlds, Zaknafein had always been conflicted. That in
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Relentless](./images/relentless.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Relentless
 
@@ -698,15 +698,15 @@ Displaced in time and unexpectedly reunited with his son Drizzt Do'Urden, Zaknaf
 
 ## The Way of the Drow
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of Drizzt: Starlight Enclave](./images/starlight-enclave.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Starlight Enclave
 

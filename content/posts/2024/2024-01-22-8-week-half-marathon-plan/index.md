@@ -7,7 +7,6 @@ date: 2024-01-22
 published: true
 generate-card: true
 language: en
-cover: ./images/cover-peloton.jpg
 tags:
   - fitness
 ---

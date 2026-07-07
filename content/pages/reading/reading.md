@@ -8,15 +8,15 @@ This page is a journal of my monthly reading habits. I aim to read about 10-15% 
 
 ## March 2024
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Conan: Lord of the Mount](./images/2024/the-lord-of-the-mount.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Conan: Lord of the Mount
 
@@ -26,15 +26,15 @@ Awakening covered in blood, the sole survivor of a doomed raiding party, Conan s
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Conan: Black Starlight](./images/2024/black-starlight.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Conan: Black Starlight
 
@@ -44,15 +44,15 @@ Seeking to avoid the Stygian border guard and cross the River Styx, Conan, the s
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Tarkin](./images/2024/tarkin.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Tarkin
 
@@ -64,15 +64,15 @@ He’s the scion of an honorable and revered family. A dedicated soldier and dis
 
 ## February 2024
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Day of the Tempest](./images/2024/the-day-of-the-tempest.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Day of the Tempest
 
@@ -82,15 +82,15 @@ The great dragon overlords threaten to enslave Krynn. They’ve magically altere
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Kraken's Sacrifice](./images/2024/the-krakens-sacrifice.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Kraken's Sacrifice
 
@@ -102,15 +102,15 @@ Catalina only made her deal with the demon because she had nowhere else to go. T
 
 ## January 2024
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Bookshops & Bonedust](./images/2024/bookshops-and-bonedust.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Bookshops & Bonedust
 
@@ -120,15 +120,15 @@ When an injury throws a young, battle-hungry orc off her chosen path, she may fi
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Last Command](./images/2024/the-last-command.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Last Command
 
@@ -140,15 +140,15 @@ The embattled Republic reels from the attacks of Grand Admiral Thrawn, who has m
 
 ## December 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Dawning of a New Age](./images/2023/the-dawning-of-a-new-age.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Dawning of a New Age
 
@@ -160,15 +160,15 @@ The Summer of Chaos has ended. Ansalon’s nightmare has only just begun. The go
 
 ## November 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Iron Flame](./images/2023/iron-flame.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Iron Flame
 
@@ -180,15 +180,15 @@ Everyone expected Violet Sorrengail to die during her first year at Basgiath War
 
 ## October 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Heir to the Empire](./images/2023/heir-to-the-empire.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Heir to the Empire
 
@@ -200,15 +200,15 @@ But with the war seemingly won, strains are beginning to show in the Rebel Allia
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dark Force Rising](./images/2023/dark-force-rising.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dark Force Rising
 
@@ -220,15 +220,15 @@ The dying Empire's most cunning and ruthless warlord—Grand Admiral Thrawn—ha
 
 ## September 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Two Towers](./images/2023/the-two-towers.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Two Towers
 
@@ -240,15 +240,15 @@ Frodo and his Companions of the Ring have been beset by danger during their ques
 
 ## August 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragons of Fate](./images/2023/dragons-of-fate.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragons of Fate
 
@@ -260,15 +260,15 @@ A courageous heroine trapped in the distant past is determined to return to her 
 
 ## July 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Fellowship of the Ring](./images/2023/the-fellowship-of-the-ring.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Fellowship of the Ring
 
@@ -280,15 +280,15 @@ In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron
 
 ## June 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Song of Achilles](./images/2023/the-song-of-achilles.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Song of Achilles
 
@@ -298,15 +298,15 @@ Achilles, "the best of all the Greeks," son of the cruel sea goddess Thetis and 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Tress of the Emerald Sea](./images/2023/tress-of-the-emerald-sea.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Tress of the Emerald Sea
 
@@ -318,15 +318,15 @@ The only life Tress has known on her island home in an emerald-green ocean has b
 
 ## May 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Circe](./images/2023/circe.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Circe
 
@@ -336,15 +336,15 @@ In the house of Helios, god of the sun and mightiest of the Titans, a daughter i
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Fourth Wing](./images/2023/fourth-wing.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Fourth Wing
 
@@ -356,15 +356,15 @@ Twenty-year-old Violet Sorrengail was supposed to enter the Scribe Quadrant, liv
 
 ## April 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Burning God](./images/2023/the-burning-god.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Burning God
 
@@ -376,15 +376,15 @@ The exciting end to The Poppy War trilogy, R. F. Kuang's acclaimed, award-winnin
 
 ## March 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Poppy War](./images/2023/the-poppy-war.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Poppy War
 
@@ -394,15 +394,15 @@ A brilliantly imaginative talent makes her exciting debut with this epic histori
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Dragon Republic](./images/2023/the-dragon-republic.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Dragon Republic
 
@@ -414,15 +414,15 @@ In the aftermath of the Third Poppy War, shaman and warrior Rin is on the run: h
 
 ## February 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Kings of the Wyld](./images/2023/kings-of-the-wyld.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Kings of the Wyld
 
@@ -434,15 +434,15 @@ Clay Cooper and his band were once the best of the best -- the meanest, dirtiest
 
 ## January 2023
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Sword of Kaigen: A Theonite War Story](./images/2023/the-sword-of-kaigen.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Sword of Kaigen: A Theonite War Story
 
@@ -452,15 +452,15 @@ A mother struggling to repress her violent past, a son struggling to grasp his v
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Barbarian Lover](./images/2023/barbarian-lover.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Barbarian Lover
 
@@ -470,15 +470,15 @@ Kira plans on remaining single on this alien planet—she doesn’t want a mate 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![An Atypical ASP.NET Core 6 Design Patterns Guide](./images/2023/an-atypical-asp-net-core-6-design-patterns-guide.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### An Atypical ASP.NET Core 6 Design Patterns Guide
 
@@ -488,15 +488,15 @@ A SOLID adventure into architectural principles and design patterns using .NET 6
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Barbarian Mine](./images/2023/barbarian-mine.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Barbarian Mine
 
@@ -510,15 +510,15 @@ What I didn't anticipate? That there'd be a savage stranger waiting nearby, watc
 
 ## December 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Barbarian Alien](./images/2022/barbarian-alien.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Barbarian Alien
 
@@ -528,15 +528,15 @@ Liz Cramer swears she'll find a way off of this alien planet she's stuck on--the
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Hunger of the Gods](./images/2022/the-hunger-of-the-gods.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Hunger of the Gods
 
@@ -546,15 +546,15 @@ Lik-Rifa, the dragon god of legend, has been freed from her eternal prison. Now 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The 3 Alarms: A Simple System to Transform Your Health, Wealth, and Relationships Forever](./images/2022/the-three-alarms.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The 3 Alarms: A Simple System to Transform Your Health, Wealth, and Relationships Forever
 
@@ -564,15 +564,15 @@ Lik-Rifa, the dragon god of legend, has been freed from her eternal prison. Now 
 
 ## November 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legends & Lattes](./images/2022/legends-and-lattes.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Legends & Lattes
 
@@ -582,15 +582,15 @@ Worn out after decades of packing steel and raising hell, Viv the orc barbarian 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Dragon's Bride](./images/2022/the-dragons-bride.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Dragon's Bride
 
@@ -600,15 +600,15 @@ Briar Rose might have a name out of a storybook, but she learned at a very young
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![The Shadow of the Gods](./images/2022/shadow-of-the-gods.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Shadow of the Gods
 
@@ -622,15 +622,15 @@ Now a new world is rising, where power-hungry jarls feud and monsters stalk the 
 
 ## October 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Promise of the Witch King](./images/2022/promise-of-the-witch-king.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Promise of the Witch King
 
@@ -640,15 +640,15 @@ Human assassin Artemis Entreri and his dark elf companion Jarlaxle have come to 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Ice Planet Barbarians](./images/2022/ice-planet-barbarians.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Ice Planet Barbarians
 
@@ -662,15 +662,15 @@ And the only native inhabitant I've met? He's big, horned, blue, and really, rea
 
 ## September 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Fire & Blood](./images/2022/fire-and-blood.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Fire & Blood
 
@@ -682,15 +682,15 @@ Centuries before the events of A Game of Thrones, House Targaryen--the only fami
 
 ## August 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Children of Dune](./images/2022/children-of-dune.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Children of Dune
 
@@ -700,15 +700,15 @@ Nine years after Paul Muad'Dib disappeared blind into the deserts of Arrakis at 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Dragons of Deceit](./images/2022/dragons-of-deceit.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragons of Deceit
 
@@ -720,15 +720,15 @@ Destina Rosethorn--as her name implies--believes herself to be very much a favor
 
 ## July 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dune](./images/2022/dune.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dune
 
@@ -738,15 +738,15 @@ Melange, or 'spice', is the most valuable - and rarest - element in the universe
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dune Messiah](./images/2022/dune-messiah.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dune Messiah
 
@@ -758,15 +758,15 @@ Twelve years after his victory over House Harkonnen, Paul Atreides rules as empe
 
 ## June 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: The Wyvern's Spur](./images/2022/the-wyverns-spur.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Wyvern's Spur
 
@@ -776,15 +776,15 @@ The Wyvernspur family's powerful heirloom has been stolen, and grand wizard and 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Song of the Saurials](./images/2022/song-of-the-saurials.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Song of the Saurials
 
@@ -796,15 +796,15 @@ When the Harpers judged the Nameless Bard responsible for the death of his appre
 
 ## May 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Microsoft Conversational AI Platform for Developers](./images/2022/microsoft-conversational-ai-platform-for-developers.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Microsoft Conversational AI Platform for Developers
 
@@ -814,15 +814,15 @@ Build a chatbot using the Microsoft Conversational AI platform. You will learn h
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Qualinesti](./images/2022/the-qualinesti.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Qualinesti
 
@@ -832,15 +832,15 @@ The Qualinesti, the third title in The Elven Nations trilogy, was first released
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Azure Bonds](./images/2022/azure-bonds.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Azure Bonds
 
@@ -852,15 +852,15 @@ Alias ​is an excellent warrior but she is in serious difficulties. One day she
 
 ## April 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Building Microservices](./images/2022/building-microservices.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Building Microservices
 
@@ -870,15 +870,15 @@ Author Sam Newman provides you with a firm grounding in the concepts while divin
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Firstborn](./images/2022/firstborn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Firstborn
 
@@ -888,15 +888,15 @@ Silvanos, the august founder of the united elven nation known as Silvanesti, is 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Kinslayer Wars](./images/2022/the-kinslayer-wars.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Kinslayer Wars
 
@@ -908,15 +908,15 @@ Kith-Kanan is torn between his love for a human woman with a mysterious backgrou
 
 ## March 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Darkness and Light](./images/2022/darkness-and-light.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Darkness and Light
 
@@ -926,15 +926,15 @@ The Companions have gone their separate ways, each vowing to return with news of
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Kendermore](./images/2022/kendermore.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Kendermore
 
@@ -944,15 +944,15 @@ Before the War of the Lance, carefree kender Tasslehoff Burrfoot is enjoying the
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Pro Microservices in .NET 6](./images/2022/pro-microservices-in-net-6.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Pro Microservices in .NET 6
 
@@ -964,15 +964,15 @@ Know the fundamentals of creating and deploying microservices using .NET 6 and g
 
 ## February 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Steel and Stone](./images/2022/steel-and-stone.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Steel and Stone
 
@@ -982,15 +982,15 @@ The tempestuous affair of Kitiara Uth Matar and Tanis Half-Elven begins with the
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Companions](./images/2022/the-companions.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Companions
 
@@ -1000,15 +1000,15 @@ Caramon, Sturm, and Tasslehoff, on an innocent ship's errand, are blown thousand
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Witcher: The Last Wish](./images/2022/witcher-last-wish.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Last Wish
 
@@ -1020,15 +1020,15 @@ Geralt of Rivia is a witcher. A cunning sorcerer. A merciless assassin. And a co
 
 ## January 2022
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Dark Heart](./images/2022/dark-heart.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dark Heart
 
@@ -1038,15 +1038,15 @@ At long last, the story of the beautiful dark-hearted Kitiara Uth Matar. This co
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Oath and the Measure](./images/2022/the-oath-and-the-measure.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Oath and the Measure
 
@@ -1056,15 +1056,15 @@ Although Raistlin and Caramon urge him not to go, Sturm Brightblade attends an a
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Entity Framework core in Action](./images/2022/entity-framework-core-in-action.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Entity Framework Core in Action
 
@@ -1076,15 +1076,15 @@ Entity Framework Core in Action teaches you how to access and update relational 
 
 ## December 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Kindred Spirits](./images/2021/kindred-spirits.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Kindred Spirits
 
@@ -1094,15 +1094,15 @@ When Flint Fireforge, dwarf and metalsmith, receives a wondrous summons from the
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Wanderlust](./images/2021/wanderlust.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Wanderlust
 
@@ -1112,15 +1112,15 @@ One spring day Tasslehoff Burrfoot comes to Solace, accidentally pockets a coppe
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Code like a Pro in C#](./images/2021/code-like-a-pro-in-c.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Code like a Pro in C#
 
@@ -1132,15 +1132,15 @@ Critical business applications worldwide are written in the versatile C# languag
 
 ## November 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Sea of Swords](./sea-of-swords.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Sea of Swords
 
@@ -1150,15 +1150,15 @@ When the mark of Wulfgar's legendary warhammer is found on the person of pirate 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Ravenloft: Spectre of the Black Rose](./spectre-of-the-black-rose.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Spectre of the Black Rose
 
@@ -1168,15 +1168,15 @@ In this chilling sequel of The Knight of the Black Rose, Lord Soth, an important
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Servant of the Shard](./servant-of-the-shard.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Servant of the Shard
 
@@ -1188,15 +1188,15 @@ Powerful assassin Artemis Entreri tightens his grip on the streets of Calimport,
 
 ## October 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: The Silent Blade](./the-silent-blade.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Silent Blade
 
@@ -1206,15 +1206,15 @@ Determined to destroy the evil Crystal Shard, Drizzt seeks out the help of a sch
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: The Spine of the World](./the-spine-of-the-world.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Spine of the World
 
@@ -1226,15 +1226,15 @@ Spending just one day in the torture chambers of the Abyss would be enough to br
 
 ## September 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: The Legacy](./legacy.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Legacy
 
@@ -1244,15 +1244,15 @@ Life is good for Drizzt Do'Urden, better than it ever has been for the beleaguer
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Starless Night](./starless-night.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Starless Night
 
@@ -1264,15 +1264,15 @@ Though Drizzt is still reeling from the death of his barbarian friend, he is all
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Siege of Darkness](./siege-of-darkness.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Siege of Darkness
 
@@ -1284,15 +1284,15 @@ While Mithral Hall teems with whispers of the war to come, chaos erupts both abo
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Passage to Dawn](./passage-to-dawn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Passage to Dawn
 
@@ -1304,15 +1304,15 @@ It has been six years since the fateful Battle of Mithral Hall; six long years d
 
 ## August 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Streams of Silver](./streams-of-silver.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Streams of Silver
 
@@ -1322,15 +1322,15 @@ Drizzt Do'Urden still struggles with his own inner voices, voices that call him 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: The Halfling's Gem](./the-halflings-gem.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Halfling's Gem
 
@@ -1340,15 +1340,15 @@ Regis has fallen into the hands of the assassin Artmis Entreri, who is taking hi
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Homeland](./homeland.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Homeland
 
@@ -1358,15 +1358,15 @@ Drow ranger Drizzt Do'Urden, first introduced in The Icewind Dale Trilogy, quick
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Exile](./exile.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Exile
 
@@ -1376,15 +1376,15 @@ Drizzt Do'Urden has been exiled from his country and forced to wander the tunnel
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Sojourn](./sojourn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Sojourn
 
@@ -1396,15 +1396,15 @@ Far above the merciless Underdark, Drizzt Do'Urden fights to survive the element
 
 ## July 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Forgotten Realms: Crystal shard](./crystal-shard.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Crystal Shard
 
@@ -1414,15 +1414,15 @@ Akar Kessel, weak-willed apprentice mage, starts events that find a magical devi
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Ravenloft: The Enemy Within](./the-enemy-within.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Enemy Within
 
@@ -1432,15 +1432,15 @@ Sir Tristan Hiregaard of Nova Vaasa appears outwardly to be a kind nobleman who 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend](./legend.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Legend
 
@@ -1450,15 +1450,15 @@ He is DRUSS the Legend. His skill in battle has earned him a fearsome reputation
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Ravenloft: I, Strahd: The Memoirs of a Vampire](./i-strahd-the-memoirs-of-a-vampire.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### I, Strahd: The Memoirs of a Vampire
 
@@ -1468,15 +1468,15 @@ The young and idealistic brother to the war-hardened Strahd von Zarovich loves b
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Ravenloft: Knight of the Black Rose](./knight-of-the-black-rose.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Knight of the Black Rose
 
@@ -1487,15 +1487,15 @@ Dark powers transport Soth to Barovia, and there the death knight must face the 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Ravenloft: Dance of the Dead](./dance-of-the-dead.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dance of the Dead
 
@@ -1507,15 +1507,15 @@ When the riverboat on which she works as a dancer docks at a zombie-plagued isla
 
 ## June 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Ravenloft: Vampire of the Mists](./vampire-of-the-mists.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Vampire of the Mists
 
@@ -1527,15 +1527,15 @@ Torn by rage and grief, Jander is transported into the nightmare realm of Ravenl
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Siege of Mt. Nevermind](./the-siege-of-mt-nevermind.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Siege of Mt. Nevermind
 
@@ -1546,15 +1546,15 @@ Innova, a young gnomish recluse finds himself in a terrible situation. Tried in 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Tears of the Night Sky](./tears-of-the-night-sky.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Tears of the Night Sky
 
@@ -1564,15 +1564,15 @@ Crysania, high priestess of the Temple of Paladine, is blind to the beauty of th
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Reavers of the Blood Sea](./reavers-of-the-blood-sea.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Reavers of the Blood Sea
 
@@ -1586,15 +1586,15 @@ Now the minotaur warrior Aryx must unite his people and their enemy, the knights
 
 ## May 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Puppet King](./the-puppet-king.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Puppet King
 
@@ -1604,15 +1604,15 @@ Torn asunder by the nightmares of a mad king, the elven realm of Silvanesti has 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Last Thane](./the-last-thane.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Last Thane
 
@@ -1622,15 +1622,15 @@ For generations the baser clans of Thorbardin have raged against Hylar, ancestra
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![APress: Developing Applications with Azure Active Directory](./developing-applications-with-aad.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Developing Applications with Azure Active Directory
 
@@ -1642,15 +1642,15 @@ Explore tools for integrating resources and applications with Azure Active Direc
 
 ## April 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Machine Learning in Action](./machine-learning-in-action.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Machine Learning in Action
 
@@ -1660,15 +1660,15 @@ Machine Learning in Action is a unique book that blends the foundational theorie
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Draconian Measures](./draconian-measures.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Draconian Measures
 
@@ -1680,15 +1680,15 @@ The regiment of draconian engineers featured in "The Doom Brigade" seek a safe h
 
 ## March 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Second Generation](./the-second-generation.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Second Generation
 
@@ -1699,15 +1699,15 @@ They are the Second Generation.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Doom Brigade](./doom-brigade.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Doom Brigade
 
@@ -1719,15 +1719,15 @@ The fearless draconians of the War of the Lance have retired from the field of b
 
 ## February 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Dragons of Summer Flame](./dragons-of-summer-flame.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragons of Summer Flame
 
@@ -1737,15 +1737,15 @@ The War of the Lance is long over. The seasons come and go. The pendulum of the 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Gates of Thorbardin](./the-gates-of-thorbardin.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Gates of Thorbardin
 
@@ -1755,15 +1755,15 @@ Legends tell that beneath the mountain fortress of Skullcap lie the remains of t
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Designing Event-Driven Systems](./designing-event-driven-systems.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Designing Event-Driven Systems
 
@@ -1775,15 +1775,15 @@ Author Ben Stopford explains how service-based architectures and stream processi
 
 ## January 2021
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Legend of Huma](./legend-of-huma.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Legend of Huma
 
@@ -1793,15 +1793,15 @@ The book narrates the adventures of Huma Dragonbane, a Knight of the Crown, his 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Kaz the Minotaur](./kaz-the-minotaur.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Kaz the Minotaur
 

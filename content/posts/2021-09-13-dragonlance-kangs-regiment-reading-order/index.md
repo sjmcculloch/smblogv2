@@ -21,15 +21,15 @@ Before reading any of these novels, you should be familiar with the core chronic
 
 ## Chronological Order
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Dragons of Krynn](./dragons-of-krynn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Dragons of Krynn
 
@@ -39,15 +39,15 @@ This novel is a collection of short stories. **The First Dragonarmy Bridging Com
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Dragons at War](./dragons-at-war.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Dragons at War
 
@@ -57,15 +57,15 @@ This novel is a collection of short stories. The story of the catapulting minota
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Doom Brigade](./the-doom-brigade.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Doom Brigade
 
@@ -75,15 +75,15 @@ The fearless draconians of the War of the Lance have retired from the field of b
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Heroes and Fools](./heroes-and-fools.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Heroes and Fools
 
@@ -93,15 +93,15 @@ This novel is a collection of short stories. The tale of Kang's trek north, purs
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Draconian Measures](./draconian-measures.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Draconian Measures
 
@@ -116,15 +116,15 @@ But Commander Kang puzzles over a sinister mystery. Why are some of his men vani
 
 > These novels reference events featuring Kang's regiment but do not directly contain them.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Dragons of Autumn Twilight](./dragons-of-autumn-twilight.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragons of Autumn Twilight
 

@@ -1,0 +1,99 @@
+{
+  "routes": [
+    {
+      "route": "/2020-90-day-fiance-viewing-order",
+      "redirect": "/90-day-fiance-viewing-order",
+      "statusCode": 301
+    },
+    {
+      "route": "/2021-90-day-fiance-viewing-order",
+      "redirect": "/90-day-fiance-viewing-order",
+      "statusCode": 301
+    },
+    {
+      "route": "/code/gamification-concepts-in-software-design*",
+      "redirect": "/gamification-concepts-in-software-design",
+      "statusCode": 301
+    },
+    {
+      "route": "/code/netlify-contentful-jamstack*",
+      "redirect": "/netlify-contentful-jamstack",
+      "statusCode": 301
+    },
+    {
+      "route": "/music/what-happened-to-kellyclarksonlive*",
+      "redirect": "/what-happened-to-kellyclarksonlive",
+      "statusCode": 301
+    },
+    {
+      "route": "/sport/hard-knocks-season-13-australia*",
+      "redirect": "/hard-knocks-season-13-australia",
+      "statusCode": 301
+    },
+    {
+      "route": "/code/logging-to-the-dnn-event-log*",
+      "redirect": "/logging-to-the-dnn-event-log",
+      "statusCode": 301
+    },
+    {
+      "route": "/code/ventrian-modules-now-on-github*",
+      "redirect": "/ventrian-modules-now-on-github",
+      "statusCode": 301
+    },
+    {
+      "route": "/music/my-december-10-year-anniversary*",
+      "redirect": "/my-december-10-year-anniversary",
+      "statusCode": 301
+    },
+    {
+      "route": "/gaming/tips-to-prepare-for-madden-18*",
+      "redirect": "/tips-to-prepare-for-madden-18",
+      "statusCode": 301
+    },
+    {
+      "route": "/2020-05-28-remembering-spellfire-ccg-rules-gameplay",
+      "redirect": "/remembering-spellfire-ccg-rules-gameplay",
+      "statusCode": 301
+    },
+    {
+      "route": "/resume/",
+      "redirect": "/about",
+      "statusCode": 301
+    },
+    {
+      "route": "/stats",
+      "redirect": "/",
+      "statusCode": 301
+    },
+    {
+      "route": "/categories/",
+      "redirect": "/",
+      "statusCode": 301
+    },
+    {
+      "route": "/categories/code/",
+      "redirect": "/tags/code",
+      "statusCode": 301
+    },
+    {
+      "route": "/categories/music/",
+      "redirect": "/tags/music",
+      "statusCode": 301
+    },
+    {
+      "route": "/categories/sport/",
+      "redirect": "/tags/sport",
+      "statusCode": 301
+    },
+    {
+      "route": "/categories/gaming/",
+      "redirect": "/tags/gaming",
+      "statusCode": 301
+    }
+  ],
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/404.html"
+    }
+  }
+}

@@ -25,15 +25,15 @@ The following is a recommended reading order. Before reading any of these novels
 
 > These novels cover the primary events of the Chaos War.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Second Generation](./second-generation.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Second Generation ⭐
 
@@ -44,15 +44,15 @@ But peace on Krynn comes at a price. The forces of darkness are ever vigilant, s
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Dragons of Summer Flame](./summer-flame.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragons of Summer Flame ⭐
 
@@ -66,15 +66,15 @@ Summer has come to Krynn, a summer unlike any before. The sun bears down on land
 
 > These novels cover the background events of the Chaos War.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Doom Brigade](./the-doom-brigade.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Doom Brigade ⭐
 
@@ -84,15 +84,15 @@ The fearless draconians of the War of the Lance have retired from the field of b
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Last Thane](./the-last-thane.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Last Thane
 
@@ -102,15 +102,15 @@ For generations the baser clans of Thorbardin have raged against Hylar, ancestra
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Tears of the Night Sky](./tears-of-the-night-sky.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Tears of the Night Sky ⭐
 
@@ -120,15 +120,15 @@ Crysania, high priestess of the Temple of Paladine, is blind to the beauty of th
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Puppet King](./the-puppet-king.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Puppet King ⭐
 
@@ -140,15 +140,15 @@ Gilthas's troubles are multiplied by threats from green dragons and from the Kni
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Reavers of the Blood Sea](./reavers-of-the-blood-sea.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Reavers of the Blood Sea
 
@@ -160,15 +160,15 @@ Now the minotaur warrior Aryx must unite his people and their enemy, the knights
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Siege of Mt. Nevermind](./the-siege-of-mt-nevermind.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Siege of Mt. Nevermind
 
