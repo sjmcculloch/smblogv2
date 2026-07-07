@@ -23,15 +23,15 @@ Since a plethora of Dragonlance novels exist (160+), I wanted to have an alterna
 
 > Fan favourites of the series, the Majere twins and their turbulent upbringings.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Soulforge](./soulforge.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Soulforge
 
@@ -41,15 +41,15 @@ The story of Raistlin and Caramon's youth, of their mother and father and waywar
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Brothers in Arms](./brothers-in-arms.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Brothers in Arms
 
@@ -59,15 +59,15 @@ In the fiery siege of the city of Hope's End the young mage Raistlin must leave 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Brothers Majere](./brothers-majere.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Brothers Majere
 
@@ -77,15 +77,15 @@ Darkness and unrest are growing. People disappear in the night, and there are ru
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Dark Heart](./dark-heart.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dark Heart
 
@@ -95,15 +95,15 @@ At long last, the story of the beautiful dark-hearted Kitiara Uth Matar. This co
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Companions](./the-companions.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Companions
 
@@ -113,15 +113,15 @@ Caramon, Sturm, and Tasslehoff, on an innocent ship's errand, are blown thousand
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Best of Tales Volume 1](./best-of-tales-volume-1.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Best of Tales Volume 1
 
@@ -135,15 +135,15 @@ Here are collected the best short stories of the original Dragonlance Tales 1 se
 
 > The leader of the companions and tales of his troubled elven upbringings.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Kindred Spirits](./kindred-spirits.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Kindred Spirits
 
@@ -153,15 +153,15 @@ When Flint Fireforge, dwarf and metalsmith, receives a wondrous summons from the
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Tanis, the Shadow Years](./tanis-the-shadow-years.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Tanis, the Shadow Years
 
@@ -171,15 +171,15 @@ First launched over a decade ago, the Preludes series has continued to prove pop
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Steel and Stone](./steel-and-stone.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Steel and Stone
 
@@ -189,15 +189,15 @@ The tempestuous affair of Kitiara Uth Matar and Tanis Half-Elven begins with the
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Wanderlust](./wanderlust.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Wanderlust
 
@@ -207,15 +207,15 @@ One spring day Tasslehoff Burrfoot comes to Solace, accidentally pockets a coppe
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Magic of Krynn](./the-magic-of-krynn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Magic of Krynn
 
@@ -225,15 +225,15 @@ Containing nine superlative short stories and the novella "The Magic of Krynn" b
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Kender, Gully Dwarves and Gnomes](./kender-gully-dwarves-and-gnomes.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Kender, Gully Dwarves and Gnomes
 
@@ -243,15 +243,15 @@ It includes stories by some of the best-loved authors writing in the Dragonlance
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Love and War](./love-and-war.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Love and War
 
@@ -265,15 +265,15 @@ The legend of Raistlin's daughter! For the first time, Caramon, the surviving tw
 
 > Flint & Tasslehoff for the lighter side of Krynn.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Flint the King](./flint-the-king.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Flint the King
 
@@ -283,15 +283,15 @@ First launched over a decade ago, the Preludes series has continued to prove pop
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Wanderlust](./wanderlust.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Wanderlust
 
@@ -301,15 +301,15 @@ One spring day Tasslehoff Burrfoot comes to Solace, accidentally pockets a coppe
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Kendermore](./kendermore.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Kendermore
 
@@ -319,15 +319,15 @@ Before the War of the Lance, carefree kender Tasslehoff Burrfoot is enjoying the
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Companions](./the-companions.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Companions
 
@@ -337,15 +337,15 @@ Caramon, Sturm, and Tasslehoff, on an innocent ship's errand, are blown thousand
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Best of Tales Volume 1](./best-of-tales-volume-1.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Best of Tales Volume 1
 
@@ -355,15 +355,15 @@ Here are collected the best short stories of the original Dragonlance Tales 1 se
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Best of Tales Volume 1](./best-of-tales-volume-2.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Best of Tales Volume 2
 
@@ -377,15 +377,15 @@ Here are collected the best short stories of the Dragonlance Tales II series. Fo
 
 > The dangerous dragon highlord and her troubled past.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Darkness & Light](./darkness-and-light.png)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Darkness & Light
 
@@ -395,15 +395,15 @@ The Companions have gone their separate ways, each vowing to return with news of
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Dark Heart](./dark-heart.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dark Heart
 
@@ -413,15 +413,15 @@ At long last, the story of the beautiful dark-hearted Kitiara Uth Matar. This co
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Dragons of the Highlord Skies](./dragons-of-the-highlord-skies.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragons of the Highlord Skies
 
@@ -435,15 +435,15 @@ Seeking a dragon orb rescued from the Tower of High Sorcery in Planathus by an e
 
 > Tales from the barbarian plains.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Riverwind the Plainsman](./riverwind-the-plainsman.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Riverwind the Plainsman
 
@@ -457,15 +457,15 @@ Fourth in a series of recovers of the classic Preludes series. First launched ov
 
 > Tales of the solamnic knight among the companions.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Darkness & Light](./darkness-and-light.png)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Darkness & Light
 

@@ -21,15 +21,15 @@ If you are looking for the fantasy novels, see [Dragonlance reading order](/drag
 
 > The original modules set in the Dragonlance world.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL1: Dragons of Despair](./images/dl1-dragons-of-despair.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL1 - Dragons of Despair
 
@@ -39,15 +39,15 @@ An adventure for characters Level 4-6.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL2: Dragons of Flame](./images/dl2-dragons-of-flame.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL2 - Dragons of Flame
 
@@ -57,15 +57,15 @@ An adventure for characters level 5-7
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL3: Dragons of Hope](./images/dl3-dragons-of-hope.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL3 - Dragons of Hope
 
@@ -75,15 +75,15 @@ An adventure for characters level 6-8.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL4: Dragons of Desolation](./images/dl4-dragons-of-desolation.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL4 - Dragons of Desolation
 
@@ -93,15 +93,15 @@ An adventure for characters level 6-8.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL5: Dragons of Mystery](./images/dl5-dragons-of-mystery.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL5 - Dragons of Mystery
 
@@ -111,15 +111,15 @@ A sourcebook for the most exciting epic ever from TSR. Now you and your players 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL6: Dragons of Ice](./images/dl6-dragons-of-ice.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL6 - Dragons of Ice
 
@@ -129,15 +129,15 @@ An adventure for characters level 6-9.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL7: Dragons of Ice](./images/dl7-dragons-of-light.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL7 - Dragons of Light
 
@@ -147,15 +147,15 @@ An adventure for characters level 7-9.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL8: Dragons of War](./images/dl8-dragons-of-war.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL8 - Dragons of War
 
@@ -165,15 +165,15 @@ An adventure for characters level 8-10.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL9: Dragons of Deceit](./images/dl9-dragons-of-deceit.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL9 - Dragons of Deceit ✅
 
@@ -183,15 +183,15 @@ An adventure for characters level 8-10.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL10: Dragons of Dreams](./images/dl10-dragons-of-dreams.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL10 - Dragons of Dreams ✅
 
@@ -201,15 +201,15 @@ An adventure for characters level 8-10.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL11: Dragons of Glory](./images/dl11-dragons-of-glory.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL11 - Dragons of Glory
 
@@ -219,15 +219,15 @@ Across the world of Krynn, the armies of light and darkness clash in titanic str
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL12: Dragons of Faith](./images/dl12-dragons-of-faith.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL12 - Dragons of Faith
 
@@ -237,15 +237,15 @@ An adventure for Character Levels 9-10.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL13: Dragons of Truth](./images/dl13-dragons-of-truth.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL13 - Dragons of Truth
 
@@ -255,15 +255,15 @@ An adventure for characters level 10-13.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL14: Dragons of Triumph](./images/dl14-dragons-of-triumph.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL14 - Dragons of Triumph
 
@@ -273,15 +273,15 @@ An adventure for characters level 6-8.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL15: Mists of Krynn](./images/dl15-mists-of-krynn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL15 - Mists of Krynn
 
@@ -291,15 +291,15 @@ Twelve different authors have combined to fill this book with adventures, new NP
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DL16: World of Krynn](./images/dl16-world-of-krynn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DL16 - World of Krynn
 
@@ -311,15 +311,15 @@ You are cordially invited to enter the dangerous world of the Dragonlance saga. 
 
 > Sourcebooks to create your own Dragonlance adventures.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance Adventures](./images/dragonlance-adventures.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragonlance Adventures ✅
 
@@ -329,15 +329,15 @@ Provides all-new information on the character classes, races, artifacts, and pow
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Atlas of the Dragonlance World](./images/atlas-of-the-dragonlance-world.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Atlas of the Dragonlance World ✅
 
@@ -347,15 +347,15 @@ Accompany the Heroes of the Lance on their epic travels across Krynn in this mag
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Player's Guide to the Dragonlance Campaign](./images/players-guide-to-the-dragonlance-campaign.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Player's Guide to the Dragonlance Campaign
 
@@ -367,15 +367,15 @@ Through a combination of original fiction and long-established fact, you will di
 
 > Boxed sets containing assorted sourcebooks and maps.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Time of the Dragon](./images/time-of-the-dragon.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Time of the Dragon
 
@@ -385,15 +385,15 @@ Time of the Dragon includes two information-packed books totaling 160 pages, fou
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Tales of the Lance](./images/tales-of-the-lance.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Tales of the Lance
 
@@ -403,15 +403,15 @@ The Tales of the Lance set guides you through a land of romance and adventure. D
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dwarven Kingdoms of Krynn](./images/dwarven-kingdoms-of-krynn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dwarven Kingdoms of Krynn
 
@@ -423,15 +423,15 @@ The secrets of the dwarves revealed! Two booklets contained in this set hold inf
 
 > Dragonlance Adventures
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLA1 - Dragon Dawn](./images/dla1-dragon-dawn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLA1 - Dragon Dawn
 
@@ -441,15 +441,15 @@ Players must track down the dragon killers and warn the conclave of the Othlorx,
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLA2 - Dragon Knight](./images/dla2-dragon-knight.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLA2 - Dragon Knight
 
@@ -459,15 +459,15 @@ Someone or something is killing the Othlorx ('The Uninvolved') dragons of Talada
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLA3 - Dragon's Rest](./images/dla3-dragons-rest.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLA3 - Dragon's Rest
 
@@ -479,15 +479,15 @@ On the previously unknown continent of Taladas, the heroes must strive to thwart
 
 > Dragonlance Expansions
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLE1 - In Search of Dragons](./images/dle1-in-search-of-dragons.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLE1 - In Search of Dragons
 
@@ -497,15 +497,15 @@ In this AD&D adventure set in the world of the Dragonlance saga, players must di
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLE2 - Dragon Magic](./images/dle2-dragon-magic.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLE2 - Dragon Magic
 
@@ -515,15 +515,15 @@ Following Search of Dragons, the players investigate, the knowledge they gain se
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLE3 - Dragon Keep](./images/dle3-dragon-keep.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLE3 - Dragon Keep
 
@@ -535,15 +535,15 @@ This third module brings to a climax the epic tale begun with In Search of Drago
 
 > Dragonlance Quests
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLQ1 - Knight's Sword](./images/dlq1-knights-sword.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLQ1 - Knight's Sword
 
@@ -553,15 +553,15 @@ An adventure for characters level 1-3.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLQ2 - Flint's Axe](./images/dlq2-flints-axe.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLQ2 - Flint's Axe
 
@@ -573,15 +573,15 @@ An adventure for characters level 2-4.
 
 > Dragonlance Resources
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLR1 - Otherlands](./images/dlr1-otherlands.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLR1 - Otherlands
 
@@ -591,15 +591,15 @@ Otherlands is a 96-page sourcebook detailing three fascinating, never-seen-befor
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLR2 - Taladas: The Minotaurs](./images/dlr2-taladas-the-minotaurs.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLR2 - Taladas: The Minotaurs
 
@@ -609,15 +609,15 @@ Prepare to be enlightened (and perhaps surprised!) as you read this, the first m
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLR3 - Unsung Heroes](./images/dlr3-unsung-heroes.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLR3 - Unsung Heroes
 
@@ -629,15 +629,15 @@ Add new life to your Dragonlance campaign with these new characters, the Unsung 
 
 > Dragonlance Supplements
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLS1 - New Beginnings](./images/dls1-new-beginnings.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLS1 - New Beginnings
 
@@ -647,15 +647,15 @@ This essential adventure provides all the information necessary for new players 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLS2 - Tree Lords](./images/dls2-tree-lords.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLS2 - Tree Lords
 
@@ -665,15 +665,15 @@ In Tree Lords, you will find not only an adventure about and for elves, but also
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLS3 - Oak Lords](./images/dls3-oak-lords.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLS3 - Oak Lords
 
@@ -683,15 +683,15 @@ This adventure, the second part of a trilogy, will lead the PCs to many ancient 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLS4 - Wild Elves](./images/dls4-wild-elves.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLS4 - Wild Elves
 
@@ -703,15 +703,15 @@ Free the Kagonesti elves from their shackles and lead them to safety in the Vall
 
 > Dragonlance Tales
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLT1 - New Tales: The Land Reborn](./images/dlt1-new-tales-the-land-reborn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLT1 - New Tales: The Land Reborn
 
@@ -721,15 +721,15 @@ The War of the Lance may be over, but the Heroes' jobs have only begun. Return t
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![DLT2- Dragonlance Book of Lairs](./images/dlt2-dragonlance-book-of-lairs.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### DLT2 - Dragonlance Book of Lairs
 
@@ -743,15 +743,15 @@ At long last, adventures set in Ansalon that can be played in a single session.
 
 > Role-playing game system that uses "fate cards" to determine the effects of actions.
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Fifth Age](./images/dragonlance-fifth-age.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Fifth Age
 
@@ -761,15 +761,15 @@ The game features the unique SAGA dramatic adventure rules, designed to reproduc
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Heroes of Steel](./images/dragonlance-heroes-of-steel.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Heroes of Steel
 
@@ -779,15 +779,15 @@ Heroes of Steel introduces you to heroes of strength and courage, offering hints
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Heroes of Defiance](./images/dragonlance-heroes-of-defiance.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Heroes of Defiance
 
@@ -797,15 +797,15 @@ Heroes of Defiance introduces you to the rogues, spies, diplomats, and scouts of
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Heroes of Sorcery](./images/dragonlance-heroes-of-sorcery.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Heroes of Sorcery
 
@@ -815,15 +815,15 @@ Heroes of Sorcery introduces you to spellcasting, and an adventure to recover a 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Heroes of Hope](./images/dragonlance-heroes-of-hope.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Heroes of Hope
 
@@ -833,15 +833,15 @@ Heroes of Hope introduces you to shapechangers, healers, necromancers, mentalist
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Last Tower: The Legacy of Raistlin](./images/dragonlance-the-last-tower-the-legacy-of-raistlin.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Last Tower: The Legacy of Raistlin
 
@@ -851,15 +851,15 @@ The Last Tower includes Adventures in Magic, a book containing scenarios for mod
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Citadel of Light](./images/dragonlance-citadel-of-light.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Citadel of Light
 
@@ -869,15 +869,15 @@ Built by dwarves, protected by Solamnic Knights, and sacred to pilgrims of virtu
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Wings of Fury](./images/dragonlance-wings-of-fury.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Wings of Fury
 
@@ -889,15 +889,15 @@ Built by dwarves, protected by Solamnic Knights, and sacred to pilgrims of virtu
 
 > Supplements
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: A Saga Companion](./images/dragonlance-a-saga-companion.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### A Saga Companion
 
@@ -907,15 +907,15 @@ Dragons from the distant past gather to engulf the world of Krynn in war.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Bestiary](./images/dragonlance-the-bestiary.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Bestiary
 
@@ -925,15 +925,15 @@ The Bestiary provides readers with an ultimate guide to the animals and creature
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Palanthas](./images/dragonlance-palanthas.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Palanthas
 
@@ -945,15 +945,15 @@ Explore ancient and wondrous Palanthas, from her bustling waterfront to the cloi
 
 > Battle Lines
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: The Sylvan Veil](./images/dragonlance-the-sylvan-veil.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### The Sylvan Veil
 
@@ -963,15 +963,15 @@ More than just an adventure, this book also details Silvanesti culture and polit
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Rise of the Titans](./images/dragonlance-rise-of-the-titans.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Rise of the Titans
 
@@ -983,15 +983,15 @@ Rise of the Titans contains details accounts of ogre culture, describes the coun
 
 > Chaos War Adventures
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Seeds of Chaos](./images/dragonlance-seeds-of-chaos.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Seeds of Chaos
 
@@ -1001,15 +1001,15 @@ The start of a new adventure series that details the epic battles of the Chaos W
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Chaos Spawn](./images/dragonlance-chaos-spawn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Chaos Spawn
 
@@ -1023,15 +1023,15 @@ The great city of Palanthas finds itself under attack by daemon warriors astride
 
 > Sourcebooks
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance Campaign Setting](./images/dragonlance-campaign-setting.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragonlance Campaign Setting
 
@@ -1041,15 +1041,15 @@ From Solamnic Knights and Dragon Riders to kender, tinker gnomes, and draconians
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Bestiary of Krynn](./images/bestiary-of-krynn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Bestiary of Krynn
 
@@ -1061,15 +1061,15 @@ The original artwork that won awards is back, along with creatures useful for Dr
 
 > Setting Books
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Age of Mortals](./images/age-of-mortals.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Age of Mortals
 
@@ -1079,15 +1079,15 @@ Enjoy the wealth of information about the struggles, villains, and heroes of the
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![War of the Lance](./images/war-of-the-lance.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### War of the Lance
 
@@ -1097,15 +1097,15 @@ The War of the Lance Campaign Book is designed as a companion volume to the Drag
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Legend of the Twins](./images/legend-of-the-twins.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Legend of the Twins
 
@@ -1117,15 +1117,15 @@ Legends of the Twins is a resource for games set in the world of Dragonlance. In
 
 > Topic Books
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Towers of High Sorcery](./images/towers-of-high-sorcery.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Towers of High Sorcery
 
@@ -1135,15 +1135,15 @@ The Towers of Wayreth and Nightlund are explained in great detail, while the "lo
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Holy Order of the Stars](./images/holy-order-of-the-stars.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Holy Order of the Stars
 
@@ -1153,15 +1153,15 @@ Contained within these pages are resources for players, including information on
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Knightly Orders of Ansalon](./images/knightly-orders-of-ansalon.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Knightly Orders of Ansalon
 
@@ -1171,15 +1171,15 @@ Knightly Orders of Ansalon contains information useful for both players and Dung
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Races of Ansalon](./images/races-of-ansalon.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Races of Ansalon
 
@@ -1189,15 +1189,15 @@ Races of Ansalon is a resource for games set in the world of Dragonlance. It is 
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragons of Krynn](./images/dragons-of-krynn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragons of Krynn
 
@@ -1209,15 +1209,15 @@ This volume offers authorial insights, creative perspectives, cultural legends, 
 
 > Age of Mortals Campaign
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Key of Destiny](./images/key-of-destiny.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Key of Destiny
 
@@ -1227,15 +1227,15 @@ An adventure for characters level 1.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Spectre of Sorrows](./images/spectre-of-sorrows.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Spectre of Sorrows
 
@@ -1245,15 +1245,15 @@ An adventure for characters level 8.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Price of Courage](./images/price-of-courage.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Price of Courage
 
@@ -1265,15 +1265,15 @@ An adventure for characters level 14.
 
 > War of the Lance Chronicles
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragons of Autumn](./images/dragons-of-autumn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragons of Autumn
 
@@ -1283,15 +1283,15 @@ An adventure for characters level 5-7.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragons of Winter](./images/dragons-of-winter.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragons of Winter
 
@@ -1301,15 +1301,15 @@ An adventure for characters level 9-11.
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragons of Spring](./images/dragons-of-spring.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragons of Spring
 
@@ -1321,15 +1321,15 @@ An adventure for characters level 9-11.
 
 > Tasslehoff's Map Pouches
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Tasslehoff's Map Pouch: The Age of Mortals](./images/tasslehoffs-map-pouch-the-age-of-mortals.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Tasslehoff's Map Pouch: The Age of Mortals
 
@@ -1339,15 +1339,15 @@ The collection starts with a full-sized poster map of Ansalon, continues with re
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Tasslehoff's Map Pouch: War of the Lance](./images/tasslehoffs-map-pouch-war-of-the-lance.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Tasslehoff's Map Pouch: War of the Lance
 
@@ -1357,15 +1357,15 @@ The collection starts with a full-sized poster map of Ansalon, continues with re
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Tasslehoff's Map Pouch: Legends](./images/tasslehoffs-map-pouch-legends.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Tasslehoff's Map Pouch: Legends
 
@@ -1379,15 +1379,15 @@ Tasslehoff’s Map Pouch: Legends contains one dozen maps, including a poster ma
 
 > Sourcebook/Campaign
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Shadow of the Dragon Queen](./images/shadow-of-the-dragon-queen.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Shadow of the Dragon Queen ✅
 
@@ -1399,15 +1399,15 @@ Create characters from Krynn, the world of the Dragonlance setting, then march t
 
 > Board Games
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Warriors of Krynn](./images/warriors-of-krynn.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Warriors of Krynn ✅
 
@@ -1419,15 +1419,15 @@ Warriors of Krynn is a battle game which allows you to play out massive military
 
 > 3rd party unofficial supplements
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Tasslehoff's Pouches of Everything](./images/tasslehoffs-pouches-of-everything.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Tasslehoff's Pouches of Everything
 
@@ -1437,15 +1437,15 @@ A 3rd party 5e sourcebook that encompasses all ages of Krynn, and an action-pack
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance Companion](./images/dragonlance-companion.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Dragonlance Companion
 
@@ -1459,15 +1459,15 @@ The world of Krynn is yours with the Dragonlance Companion. Players and DMs will
 
 > Lore books for any system
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Leaves from the Inn of the Last Home](./images/leaves-from-the-inn-of-the-last-home.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Leaves from the Inn of the Last Home ✅
 
@@ -1477,15 +1477,15 @@ A collection of Dragonlance essays, legends, and recipes. Astinus of Palanthas d
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart', borderBottom: '1px solid #ececec' }}>
+<div style="display:flex;align-items:stretch;border-bottom:1px solid #ececec">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: More Leaves from the Inn of the Last Home](./images/more-leaves-from-the-inn-of-the-last-home.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### More Leaves from the Inn of the Last Home ✅
 
@@ -1495,15 +1495,15 @@ Inside this volume you will find articles on many subjects, including Que-Shue d
 
 </div>
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Lost Leaves from the Inn of the Last Home](./images/lost-leaves-from-the-inn-of-the-last-home.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Lost Leaves from the Inn of the Last Home
 
@@ -1515,15 +1515,15 @@ In the tradition of Leaves from the Inn of the Last Home, this new volume contai
 
 > Solo Quests
 
-<div style={{ display: 'flex', alignItems: 'stretch', justifyContent: 'flexStart' }}>
+<div style="display:flex;align-items:stretch">
 
-<div style={{ minWidth: '150px', padding: '10px'}}>
+<div style="flex:0 0 150px;padding:10px">
 
 ![Dragonlance: Gnomes - 100, Dragons - 0](./images/gnomes-100-dragons-0.jpg)
 
 </div>
 
-<div style={{ padding: '10px'}}>
+<div style="padding:10px">
 
 ### Gnomes - 100, Dragons - 0
 
