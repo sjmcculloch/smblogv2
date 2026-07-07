@@ -45,35 +45,70 @@ export interface PelotonData {
   recentWorkouts: RecentWorkout[]
 }
 
-export async function getPelotonData(): Promise<PelotonData | null> {
+interface PelotonSession {
+  sessionId: string
+  userId: string
+}
+
+// Peloton retired the username/password login endpoint (403 "Endpoint no
+// longer accepting requests"), so the preferred auth is a session cookie
+// lifted from a logged-in browser: set PELOTON_SESSION_ID (the
+// peloton_session_id cookie) and PELOTON_USER_ID. The password flow is kept
+// as a fallback in case the endpoint ever comes back.
+async function authenticate(): Promise<PelotonSession | null> {
+  const sessionId = process.env.PELOTON_SESSION_ID
+  const userId = process.env.PELOTON_USER_ID
+  if (sessionId && userId) {
+    return { sessionId, userId }
+  }
+
   const username = process.env.PELOTON_USERNAME
   const password = process.env.PELOTON_PASSWORD
-
   if (!username || !password) {
     console.warn('[peloton] credentials not set, skipping stats data')
     return null
   }
 
+  const authResponse = await fetch('https://api.onepeloton.com/auth/login', {
+    method: 'POST',
+    body: JSON.stringify({ username_or_email: username, password }),
+    headers: { 'Content-Type': 'application/json' },
+  })
+  if (!authResponse.ok) {
+    console.warn(
+      `[peloton] login failed (HTTP ${authResponse.status}) — the password ` +
+        'endpoint is retired; set PELOTON_SESSION_ID and PELOTON_USER_ID instead'
+    )
+    return null
+  }
+  const authData = await authResponse.json()
+  return { sessionId: authData.session_id, userId: authData.user_id }
+}
+
+export async function getPelotonData(): Promise<PelotonData | null> {
   try {
-    const authResponse = await fetch('https://api.onepeloton.com/auth/login', {
-      method: 'POST',
-      body: JSON.stringify({ username_or_email: username, password }),
-      headers: { 'Content-Type': 'application/json' },
-    })
-    const authData = await authResponse.json()
+    const session = await authenticate()
+    if (!session) return null
 
     const opts = {
       headers: {
-        cookie: `peloton_session_id=${authData.session_id};`,
+        cookie: `peloton_session_id=${session.sessionId};`,
         'peloton-platform': 'web',
       },
     }
 
     const overviewResponse = await fetch(
-      `https://api.onepeloton.com/api/user/${authData.user_id}/overview?version=1`,
+      `https://api.onepeloton.com/api/user/${session.userId}/overview?version=1`,
       opts
     )
     const overview = await overviewResponse.json()
+
+    if (!overview?.workout_counts?.workouts) {
+      console.warn(
+        `[peloton] overview response missing workout data (HTTP ${overviewResponse.status}) — session may be expired`
+      )
+      return null
+    }
 
     const workoutCounts: WorkoutCount[] = overview.workout_counts.workouts
 
@@ -100,7 +135,7 @@ export async function getPelotonData(): Promise<PelotonData | null> {
     const metadata = await metadataResponse.json()
 
     const workoutsResponse = await fetch(
-      `https://api.onepeloton.com.au/api/user/${authData.user_id}/workouts?joins=ride&limit=10&page=0`,
+      `https://api.onepeloton.com.au/api/user/${session.userId}/workouts?joins=ride&limit=10&page=0`,
       opts
     )
     const recentWorkoutsData = await workoutsResponse.json()

@@ -31,7 +31,11 @@ jobs:
           app_artifact_location: 'dist' # Astro build output
           ###### End of Repository/Build Configurations ######
         env: # Add environment variables here
-          # Inject secrets at build time from GitHub Secrets
+          # Inject secrets at build time from GitHub Secrets.
+          # Peloton retired password login; preferred auth is a browser
+          # session cookie (peloton_session_id) + user id.
+          PELOTON_SESSION_ID: ${{ secrets.PELOTON_SESSION_ID }}
+          PELOTON_USER_ID: ${{ secrets.PELOTON_USER_ID }}
           PELOTON_USERNAME: ${{ secrets.PELOTON_USERNAME }}
           PELOTON_PASSWORD: ${{ secrets.PELOTON_PASSWORD }}
 
