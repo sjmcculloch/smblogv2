@@ -1,0 +1,95 @@
+---
+// Renders both blog posts and content pages at their frontmatter slug,
+// matching the Gatsby URL scheme (e.g. /dragonlance-reading-order, /about).
+import { render } from 'astro:content'
+import { getCollection } from 'astro:content'
+import BaseLayout from '../layouts/BaseLayout.astro'
+import {
+  excerpt,
+  getPublishedPosts,
+  getListedPosts,
+  readingTime,
+  type Post,
+} from '../lib/posts'
+
+export async function getStaticPaths() {
+  const posts = await getPublishedPosts()
+  const listed = await getListedPosts()
+  const pages = await getCollection('pages')
+
+  const postPaths = posts.map(post => {
+    // prev/next navigate the listed timeline only (newest first)
+    const index = listed.findIndex(p => p.id === post.id)
+    return {
+      params: { slug: post.data.slug },
+      props: {
+        entry: post,
+        isPost: true,
+        previous: index >= 0 ? (listed[index + 1] ?? null) : null,
+        next: index > 0 ? listed[index - 1] : null,
+      },
+    }
+  })
+
+  const pagePaths = pages.map(page => ({
+    params: { slug: page.data.slug },
+    props: { entry: page, isPost: false, previous: null, next: null },
+  }))
+
+  return [...postPaths, ...pagePaths]
+}
+
+const { entry, isPost, previous, next } = Astro.props
+const { Content } = await render(entry)
+const description = excerpt(entry.body ?? '')
+---
+
+<BaseLayout title={entry.data.title} description={description}>
+  <article>
+    <h1>{entry.data.title}</h1>
+    {
+      isPost && (
+        <p class="post-meta">
+          <time datetime={(entry as Post).data.date.toISOString()}>
+            {(entry as Post).data.date.toLocaleDateString('en-AU', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric',
+            })}
+          </time>
+          · {readingTime(entry.body ?? '')} min read
+        </p>
+      )
+    }
+    <div class="article-content">
+      <Content />
+    </div>
+    {
+      isPost && (entry as Post).data.tags.length > 0 && (
+        <p class="tag-list">
+          {(entry as Post).data.tags.map((tag: string) => (
+            <a class="tag" href={`/tags/${tag}`}>
+              #{tag}
+            </a>
+          ))}
+        </p>
+      )
+    }
+  </article>
+  {
+    (previous || next) && (
+      <nav class="prev-next">
+        {previous ? (
+          <a href={`/${previous.data.slug}`}>← {previous.data.title}</a>
+        ) : (
+          <span />
+        )}
+        {next ? (
+          <a href={`/${next.data.slug}`}>{next.data.title} →</a>
+        ) : (
+          <span />
+        )}
+      </nav>
+    )
+  }
+</BaseLayout>

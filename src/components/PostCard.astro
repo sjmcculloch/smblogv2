@@ -1,0 +1,39 @@
+---
+import type { Post } from '../lib/posts'
+import { excerpt, readingTime } from '../lib/posts'
+
+interface Props {
+  post: Post
+}
+
+const { post } = Astro.props
+const { title, slug, date, tags } = post.data
+---
+
+<article class="post-card">
+  <h2><a href={`/${slug}`}>{title}</a></h2>
+  <p class="post-meta">
+    <time datetime={date.toISOString()}>
+      {
+        date.toLocaleDateString('en-AU', {
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric',
+        })
+      }
+    </time>
+    · {readingTime(post.body ?? '')} min read
+  </p>
+  <p>{excerpt(post.body ?? '')}</p>
+  {
+    tags.length > 0 && (
+      <p class="tag-list">
+        {tags.map(tag => (
+          <a class="tag" href={`/tags/${tag}`}>
+            #{tag}
+          </a>
+        ))}
+      </p>
+    )
+  }
+</article>

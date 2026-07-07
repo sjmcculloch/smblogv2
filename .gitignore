@@ -1,10 +1,9 @@
 node_modules/
-public
-.gatsby-context.js
+dist/
+.astro/
 .DS_Store
-.intermediate-representation/
-.cache/
-yarn.lock
-package-lock.json
 .env*
 
+# Gatsby build output (pre-migration)
+public
+.cache/

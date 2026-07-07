@@ -1,0 +1,30 @@
+---
+interface Props {
+  currentPage: number
+  totalPages: number
+}
+
+const { currentPage, totalPages } = Astro.props
+// URL scheme kept from the Gatsby site: / , /pages/2, /pages/3 ...
+const pageUrl = (page: number) => (page === 1 ? '/' : `/pages/${page}`)
+---
+
+{
+  totalPages > 1 && (
+    <nav class="pagination" aria-label="Pagination">
+      {currentPage > 1 ? (
+        <a href={pageUrl(currentPage - 1)}>← Newer posts</a>
+      ) : (
+        <span />
+      )}
+      <span>
+        Page {currentPage} of {totalPages}
+      </span>
+      {currentPage < totalPages ? (
+        <a href={pageUrl(currentPage + 1)}>Older posts →</a>
+      ) : (
+        <span />
+      )}
+    </nav>
+  )
+}

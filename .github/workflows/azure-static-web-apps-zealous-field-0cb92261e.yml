@@ -28,11 +28,9 @@ jobs:
           ###### Repository/Build Configurations - These values can be configured to match you app requirements. ######
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
           app_location: '/' # App source code path
-          app_artifact_location: 'public' # Built app content directory - optional
+          app_artifact_location: 'dist' # Astro build output
           ###### End of Repository/Build Configurations ######
         env: # Add environment variables here
-          # Inject vars at build time
-          myvarname: 'myvarvalue'
           # Inject secrets at build time from GitHub Secrets
           PELOTON_USERNAME: ${{ secrets.PELOTON_USERNAME }}
           PELOTON_PASSWORD: ${{ secrets.PELOTON_PASSWORD }}
